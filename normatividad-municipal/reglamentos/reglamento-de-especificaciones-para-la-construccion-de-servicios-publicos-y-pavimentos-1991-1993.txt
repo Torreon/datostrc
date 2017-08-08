@@ -1,0 +1,2403 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGLAMENTO DE ESPECIFICACIONES
+PARA LA CONSTRUCCION DE SERVICIOS
+PUBLICOS Y PAVIMENTOS, EN LA CIUDAD
+DE TORREON, COAHUlLA, 1991-1993.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administración Pública del Ayuntamiento de Torreón, Coahuila. 2003-2005
+
+
+
+
+
+
+
+R. Ayuntamiento de Torreón, Coah., 1991-1993
+
+REGLAMENTO DE ESPECIFICACIONES PARA LA CONSTRUCCION DE
+SERVICIOS PUBLICOS Y PAVIMENTOS, EN LA CIUDAD DE TORREON,
+COAHUlLA, 1991-1993.
+Aprobado por acuerdo de Cabildo del 17 de mayo de 1993
+
+
+PRIMERA PARTE
+
+
+I.- GENERALIDADES
+
+1.001 ALCANCE	pág. 4
+002 VIGENCIA
+003 CONSULTA
+004 COORDINAClÓN
+005 AUTORIDADES
+006 VISITA
+007 DERECHO DE VIA
+008 ESTIMACIONES
+009 UNIDADES
+010 BASES DE PAGO
+011 MATERIALES
+012 RECEPCION DE OBRAS
+
+SEGUNDA PARTE
+
+II.- TRABAJOS EN LA VIA PUBLICA
+
+001 INGENIERIA DE CAMPO	pág. 5
+002 PROCEDIMIENTOS DE CONSTRUCCION
+003 DESVIAClONES
+004 INTERFERIENCIAS
+005 SEÑALAMIENTO
+006 DEMOLICIONES
+007 CORTES
+008 EXCAVACIONES
+009 CLASIFICACION
+010 EXPLOSIVOS
+011 DAÑOS
+012 LIMITACIONES
+
+TERCERA PARTE
+
+III.- RED DE AGUA POTABLE
+
+001 ZANJAS	pág. 7
+002 DIMENSIONES
+003 MODIFICACON Y SUBSTITUCION
+004 EQUIPO Y MATERIALES AUXlLIARES
+005 PLANTILLA
+006 RELLENO RESTANTE
+007 PREPARACION DEL MATERIAL
+008 CARACTERISTICAS FISICAS
+009 CONDICONES DE CAMPO
+010 TUBERIA Y ACCESORIOS
+011 INSTALACION
+
+IV.- RED DE DRENAJE SANITARIO
+
+001 ZANJAS	pág. 9
+002 DIMENSIONES
+
+012 PRUEBA HIDROSTATICA
+003 MODIFICACON Y SUBSITITUCION
+004 PLANTILLA
+005 VOLUMENES EXCAVADOS Y RELLENOS
+
+007 SELLADO
+008 MORTERO
+
+010 PRUEBA
+011 POZOS DE VISITA Y DE CAlDA
+
+013 RAMALES
+014 PLANTILLA
+
+016 SELLADO
+017 MORTERO
+
+V.- DRENAJE PLUVIAL
+
+CUARTA PARTE
+
+VI.- PAVIMENTO FLEXIBLE
+
+001 GENERAUDADES	pág.11
+002 EQUIPO
+003 DISEÑO DE PAVIMENTO FLEXIBLE
+004 TERRACERIA
+005 VARlACION VOLUMENTRICA
+006 BANCOS
+007 SUB-RASANTE
+008 CONSTRUCCION
+009 CALIDAD DEL SUELO
+010 CONDICONES DE CAMPO
+011 SUB-BASE Y BASE
+012 ESPESORES
+013 CONSTRUCCION
+014 CALIDAD DE LOS MATERIALES
+015 CONDICIONES DE CAMPO
+016 IMPREGNACON
+017 CALIDAD DEL ASFALTO
+018 CONDICONES DE CAMPO
+019 CARPETA ASFALTICA
+020 CONSTRUCCION
+021 CALIDAD DE LOS MATERIALES
+022 CONDICIONES DEL CAMPO
+
+QUINTA PARTE
+
+VII.- ALUMBRADO PUBLICO
+
+001 MATERIALES	pág. 14
+002 TRANSFORMADORES Y EQUIPO PARA PROTECCION
+Y ENCENDIDO
+003 CONSTRUCCION
+
+
+
+La Gaceta Municipal, Nov. – Dic., de 1993
+
+VIII.- GUARNICIONES Y BANQUETAS
+001 GUARNlCIONES	pág. 15
+002 CONSTRUCCION
+003 BANQUETAS
+
+SEPTIMA PARTE
+
+IX.- REGULACION DE TRANSITO
+001 SEÑALES Y MARCAS	pág. 15
+002 CLASES
+003 FUNCION
+004 REQUISITOS
+005 CARACTERISTICAS
+006 MARCAS
+007 SEMAFOROS
+008 COLORES Y SIGNIFICADO
+
+OCTAVA PARTE
+
+X.- REGENERACION DE PAVIMENTOS
+001 FASES	pág. 17
+002 TRABAJOS PREVIOS
+003 BACHEO
+004 REHABILITACION
+005 RECONSTRUCCION
+
+NOVENA PARTE
+
+XI.- CONTROL DE CALIDAD
+001 LABORATORIO pág. 18
+002 TRAMITES
+
+004 PATRONES DE COMPARACION
+005 MUESTREO
+
+APENDICE
+
+El	R.	Ayuntamiento	de	la	Ciudad	de	Torreón,	tiene
+Contemplado,	en	su	programa	general	de	obras,	la
+construcción de la infraestructura de servicios públicos
+básicos, así como también los pavimentos de la red vial
+de la ciudad. Se incluyen también en el mismo programa,
+todo lo relativo a trabajos de mejoramiento, rehabilitación y/o
+reconstrucción de las vías existentes que se encuentren en
+mal estado tanto peatonales como vehículares.
+Por este motivo y con el fin de establecer un ordenamiento en
+todo	lo	referente	a	dicha	construcción,	el	C.	Presidente
+Municipal	a	ordenado	a	la	Dirección	de	Planificación,
+Urbanismo y Obras Públicas, la formulación de las siguientes:
+
+ESPECIFICACIONES
+
+PRIMERA PARTE
+
+1.- GENERALIDADES
+
+1-001.- ALCANCE:
+
+El contenido en las presentes Especificaciones tienen como
+fundamento principal el establecer los lineamientos, normas,
+procedimientos	y/o	requisitos	básicos,	para	la	ejecución
+correcta de las diferentes etapas en la construcción de los
+servicios públicos y pavimentos de la ciudad.
+Comprenden	también	procedimientos	y	criterios	generales
+que	deben	seguirse	en	los	trabajos	de	mejoramiento	de
+pavimentos existentes, así como de obras complementarias.
+Una vez adjudicadas las obras a los Contratistas, éstos
+
+
+deberán observar y dar seguimiento al presente contenido y
+sólo por instrucciones de la Dirección se modificarán en parte
+y/o totalmente, conforme a las circunstancias.
+
+1- 002.- VIGENCIA
+
+El contenido de estas Especificaciones prevalecerán vigentes
+en el período Municipal actual a no ser que por causas de
+mejoría especifica en cuanto a funcionalidad de las obras, se
+tengan que modificar total y/o parcial, temporal y/o definitivas.
+
+1- 003.- CONSULTA
+
+Debido a la brevedad en el presente contenido, cualquier
+concepto,	condición	y/o	situación	relacionada	con	la
+construcción de las obras y que no esté contemplada en estas
+Especificaciones, será discutida y definida consultando en las
+Especificaciones Generales de Construcción de la Secretaría
+de Comunicaciones y Transportes (S.C.T.), sin que por ellos
+sea motivo o causa para modificar en forma alguna el contrato
+
+1- 004.-COORDINACION
+
+Las personas físicas y/o morales, oficiales y/o particulares que
+de alguna forma participaran en el desarrollo y ejecución de
+las	obras,	se	les	definirá	y	nombrará,	para	una	mejor
+coordinación con los siguientes términos:
+a).-LA DIRECCION A la Dirección de Planificación,
+Urbanismo y Obras Públicas.
+b).- EL INGENIERO A los C.C. Ingenieros Director y/o Sub-
+Director de Planificación, Urbanización Obras Públicas.
+c).- EL SUPERVISOR El Ingeniero que haya sido designado
+por la Dirección para la revisión de las obras.
+d).- EL CONTRATISTA A la Persona física y/o moral que
+mediante contrato le hayan asignado, construcción de las
+obras.
+e).- EL RESIDENTE Al Ingeniero que haya sido nombrado por
+el Contratista, el que permanecerá de planta en las obras.
+f).- EL LABORATORIO A la persona física y/o moral oficial
+y/o particular que sea nombrado por el Ingeniero para llevar
+cabo el control de calidad en las obras.
+Algunas	otras	personas	físicas	y/o	morales,	oficiales	y
+particulares se les definirá por su nombre según sea el caso.
+
+1- 005.- AUTORIDADES
+
+Cuando	en	la	ejecución	de	las	obras	no	se	esté	dando
+cumplimiento al contenido del contrato asignado, al catálogo
+de	obras	y/o	a	las	Especificaciones,	el	C.	Presidente
+Municipal el C. Director de Planificación, urbanismo y Obras
+Público y/o el Sub-Director de Planificaciones, Urbanismo y
+Obras	Públicas,	serán	los	únicos	con	autoridad	para
+suspender las obras total y/o parcial, definitivo y/o temporal.
+En caso de persistir las irregularidades en la ejecución de las
+obras, se rescindirá el contrato celebrado con el Contratista
+sin	que	por	ello	sean	liquidados	por	la	Dirección	todas
+aquellas anomalías observadas.
+
+1-.006.- VISITA
+
+Los Contratistas participantes en cl concurso de obras tendrán
+la	obligación	de	hacer	una	visita	al	lugar	de	la	futura
+construcción	debiendo	realizarse	ésta	previamente	a	la
+entrega de sus propuestas.
+Durante	la	visita	deberán	inspeccionar	detenidamente	las
+características	y	condiciones	generales,	tales	como
+Instalaciones	de	Servicios	Públicos	Federales,	Estatales,
+Municipales	y/o	Particulares;	naturaleza	y	vegetación	de
+terreno; Edificaciones varias y en fin, todo aquello que se
+encuentre dentro del área de la futura construcción y que
+
+R. Ayuntamiento de Torreón, Coah., 1991 - 1993
+
+considere que en algún momento pueden ser obstáculos para
+el avance. Considerar en un momento dado, el conservar los
+servicios	públicos	en	funciones	hasta	que	éstos	sean
+sustituidos en forma temporal o definitiva.
+Deberá	mantener	comunicación	frecuente	con	las
+dependencias oficiales para mayor celeridad en la tramitación
+de permisos y/o autorizaciones
+
+1. 007.-DERECHO DE VlA
+Como una extensión o ampliación del Derecho de Vía Pública,
+se entenderá toda aquella superficie de terreno en donde
+serán alojadas las obras, incluyendo en ella, las áreas de
+trabajo, talleres, almacenes y/o bodegas; maquinaria, equipo
+y herramientas; materiales diversos y estructuras, depósitos
+de	mampostería	y	escombros,	etc.	También	debe	quedar
+comprendido dentro del Derecho de Vía, espacios o franjas de
+terreno aledañas a las obras para la Inspección, conservación
+y/o protección de las obras en futura construcción.
+Para	ello	el	Contratista	deberá	solicitar	por	escrito	a	la
+Dirección el que le sea fijado para cada caso el Derecho de
+Vía, el que será definido en coordinación de las autoridades
+locales	correspondientes,	y	que	sean	éstas	en	última
+Instancia las que solucionen la manera más conveniente de
+ordenar la circulación de peatones vehículos, así como los
+accesos	a	las	edificaciones	vecinas,	si	es	que	las	obras
+comprenden tales situaciones.
+
+1.001.- ESTIMACIONES
+Todo lo relativo a planos, informes, reportes y medidas, será
+empleando	invariablemente	el	SISTEMA	METRICO
+DECIMAL. Las dimensiones serán básicamente las que se
+indiquen en los planos, en el catálogo de obra y/o en las
+Especificaciones	Oficiales	correspondientes.	Cualquier
+aumento o modificación de las medidas en las obras, sea cual
+fuera	su	causa,	no	será	considerada	en	su	costo	inicial
+acordado.
+Serán	medidas	para	su	estimación,	solamente	aquellos
+conceptos	y/o.	etapas	de la construcción que hayan sido
+totalmente recibidas aprobadas por el supervisor.
+Lo mal ejecutado parcial y/o total, así como aquello que no
+haya	sido	terminado	totalmente	en	su	longitud,	área	y/o
+volumen	no	será	considerado	para	su	estimación	o
+liquidación.
+
+1.009.- UNIDADES
+Las	unidades	que	se	emplearán	como	base	para	las
+Estimaciones, se ajustarán como sigue:
+a).-	LA	HORA	A	dos	decimales,	ajustando	a	la	decimal
+superior las fracciones mayores a cinco centésimas.
+b).-	EL	METRO	El	metro	lineal	cuadrado	y/o	cúbico,	se
+ajustará fa una decimal.
+c).- EL KlLOMETRO Se ajustará a la unidad superior.
+d).- EL RESTO DE UNIDADES Se ajustarán a la unidad.
+
+1.010.- BASES DE PAGO
+Para efectos de pago de estimaciones y liquidación de obras,
+se hará conforme a lo siguiente:
+a).- El pago será por unidad de obra terminada y de acuerdo
+al precio fijado en el contrato celebrado.
+b).-	En	los	precios	unitarios	debe	considerarse	todo	lo
+necesario	para	la	buena	ejecución	y	presentación	de	las
+obras, como son: mano de obra, excavación, remoción, carga
+y	flete,	herramientas,	maquinaria	y	equipo;	instalaciones
+diversas;	agua,	energía,	y	materiales	varios;	obras
+preliminares y falsas; trazo y niveles; supervisión y vigilancia,
+exceptuando todas aquellas partidas en cuya redacción se
+Indique algo en contra.
+c).- Los conceptos que no sean sujetos a medir, no serán
+pagados por separado, pues su importe debe distribuirse
+proporcionalmente o como corresponda en el catálogo de
+obras.
+
+d).- En ningún caso será considerado el abundamiento.
+c),- Cuando al Contratista le sean suministrados materiales,
+equipo, herramientas o personal por la Dirección, el cargo
+correspondiente le será descontado de las estimaciones y/o
+de la liquidación. Si los precios no fueron fijados por estas
+prestaciones,	la	Dirección	de	acuerdo	con	el	contratista,
+analizará el costo y se le liquidarán.
+f).-	Si	el	Contratista	sustituye	reemplaza	y/o	cambia
+elementos	y/o	conceptos	que	no	están	contenidos	en	el
+catálogo de obras y/o fuera de especificaciones, la remoción,
+carga, retiro y la reposición serán por cuenta y riesgo del
+Contratista y no será motivo de la ampliación en el programa
+por causa del tiempo destinado a ejecutar dichas maniobras.
+
+1- 011.- MATERIALES
+Los materiales de origen natural y/o procesados depositados
+en bancos, almacenes y/o puestos en las obras, serán los
+indicados en el catálogo de obras, en el pliego de conceptos
+y/o en las especificaciones.
+La	calidad	de	los	materiales,	será	revisada,	muestreada,
+analizada	e	informada	a	la	brevedad	posible	por	el
+LABORATORIO.
+EL LABORATORIO informará al SUPERVISOR y éste a su
+vez al CONTRATISTA.
+Para dar curso a lo anterior, el contratista deberá dar aviso
+Oportuno	y	conceder	facilidades	para	llevar	a	cabo	el
+muestreo,	señalando	los	lugares	en	donde	estén	los
+materiales.
+El CONTRATlSTA debe considerar para su beneficio, que el
+muestreo,	análisis	cualitativo,	cálculos	e	informes	de	los
+materiales que requieren de tiempo, aunado a lo anterior si los
+resultados	son dudosos y/o negativos, deben hacerse los
+estudios	,para	mejorarlos	mediante	estabilización	y/o
+modificación,	en	cl	caso	que	no	existan	otros	de	mejor
+calidad.
+Bajo ninguna circunstancia se aceptaran materiales que no
+reúnan	las	normas,	requisitos	o	valores	específicos
+correspondientes a su uso, así también serán rechazados
+aquellos	materiales	que	no	hayan	sido	analizados
+previamente;	los	materiales,	productos	de	cortes,
+demoliciones, y/o excavaciones, pueden ser usados, siempre
+y cuando su calidad sea aprobada por el LABORATORIO y
+con autorización del SUPERVISOR. Si por requerimientos del
+proyecto	se	necesita	de	terraplenes	y/o	rellenos,	el
+SUPERVISOR	designará	la	fuente	de	abastecimiento,
+pudiendo ser de bancos, préstamos, productos de excavación
+y/o	cortes	o	bien	de	padecería	de	mamposterías,	previo
+análisis del LABORATORIO.
+
+1- 012.- RECEPCION DE OBRAS
+Los	procedimientos	de	construcción;	la	calidad;	el
+dimensionamiento, tolerancias y acabados de cada una de
+sus	partes,	como de	conjunto; la presentación y limpieza
+general, son requisitos indispensables para la recepción de
+las obras.
+Las obras deberán ser recibidas y aceptadas mediante "Acta
+de Recepción y Entrega" elaborada de común acuerdo entre
+el Contratista y la Dirección, firmando este documento los
+responsables.
+SEGUNDA PARTE
+
+II.- TRABAJOS DE LA VIA PUBLICA
+
+11.001.- INGENIERIA DE CAMPO:
+Una vez adjudicadas las obras al CONTRATISTA, recibirá el
+
+correspondiente. El trazado y la nivelación serán efectuados
+por	el	CONTRATISTA,	y	sólo	por	única	vez,	le	serán
+
+nivel	y	demás	referencias.	A	partir	de	ese	momento,	el
+CONTRATISTA	será	el	único	responsable	de	errores	u
+
+
+
+
+
+
+
+La Gaceta Municipal, Nov. – Dic., de 1993
+
+preservar los datos en los puntos conforme a los del proyecto.
+Las referencias deberán estar en lugares inmóviles de manera
+que no sean alterados por maniobras del equipo o personas.
+Para efectuar cualquier chequeo y/o modificación del trazo o
+niveles,	los	puntos	marcados	en	la	obra	deben	ser	de
+absoluta confiabilidad, por lo que el CONTRATISTA deberá
+contar	con	un	topógrafo	calificado	con	instrumentos,
+herramientas, materiales y ayudantes suficientes.
+
+II.-002.- PROCEDIMIENTOS DE CONSTRUCCION:
+Previamente al inicio de las obras, el CONTRATISTA deberá
+someter	a	consideración	de	la	DIRECCION	los
+procedimientos de construcción que empleará en las obras,
+para	que	una	vez	revisadas	y	aceptadas	proceda	a	su
+aplicación.
+Si la DIRECCION rechaza los procedimientos presentados,
+parcial	y/o	totalmente,	el	CONTRATISTA	est	obligado	a
+modificarlos, sin que por ello sea causa de variación de los
+costos que fueron establecidos en el contrato. Aceptados los
+procedimientos por la DIRECCION, el CONTRATISTA asume
+la total responsabilidad al ejecutarlos correctamente.
+
+II- 003.- DESVIACIONES
+El CONTRATISTA debe mantener una estrecha coordinación
+y	correspondencia	con	todas	aquellas	instituciones	y/o
+departamentos públicos y/o privados que en alguna forma
+puedan coadyuvar a la agilización de las obras.
+En coordinación con el departamento de Policía y Tránsito
+local se deberán definir las desviaciones en caso necesario,
+para sustituir, con seguridad, el tráfico vehicular y peatonal,
+con	motivo	del	cierre	de	calles	y/o	avenidas	próximas	a
+construirse.
+El mejoramiento, rehabilitación y/o reconstrucción de arterias
+será	definido	por	el	SUPERVISOR	con	apoyo	del
+LABORATORIO, de manera que sea considerado el aumento
+de tipo, carga e intensidad del tránsito extraordinario.
+En zonas industriales, comerciales y en general en las que la
+actividad	pueda	ser	efectuada	por	el	cierre	deberá	el
+CONTRATlSTA mantener acceso a ellas) sin que por ello
+sean interrumpidos los trabajos de construcción.
+
+II. 004.- INTERFERENCIAS:
+El	CONTRATISTA	deberá	avisar	oportunamente	al
+SUPERVISOR, de todo aquello que a su juicio estime como
+interferencias para el avance de las obras, tales como:
+posterías de energía, alumbrado, teléfonos, telégrafos, líneas
+de agua potable, drenaje sanitario y pluvial; registros, válvulas
+y boyas; casas y edificaciones; árboles y troncos y en general
+todo aquello que se encuentre dentro del área próxima a
+construirse. De no hacerlo así no se tomará como justificante
+para demorar la construcción misma que deberá continuarse
+si la DIRECCION y/o el SUPERVISOR consideran que no son
+causas imputables al CONTRATISTA.
+
+II- 005.- SEÑALAMIENTO:
+EL CONTRATISTA, en coordinación con el departamento de
+Policía	y	tránsito	local	deberá	prevenir	un	señalamiento
+según las necesidades de las obras y demandas del tránsito
+local.
+El tipo será el empleado comúnmente en la protección de las
+obras	en	construcción,	tales	como;	tripiés	desarmables,
+barreras burros, mechones y/o antorchas; delineadores de
+acrílico, luces intermitentes y/o continuas; conos fluorescentes
+y banderolas.
+Las señales se colocarán ancladas y/O; móviles; en lugares
+visibles	al	usuario;	de	día	y de	noche;	en	tiempo seco):
+lluvioso,	y	permaneciendo	invariablemente	en	su	sitio	el
+tiempo suficiente hasta que la obra sea concluida y recibida
+oficialmente.	Cuando	el	Departamento	de	Tránsito	Local
+juzgue conveniente reforzar el señalamiento, se aumentará el
+
+número y lugares necesarios.
+El CONTRATISTA debe mantener en buen estado, y reponer
+en caso necesario, todo el sistema de señalamiento.
+
+II- 006.- DEMOLICIONES:
+En materiales duros y/o cementados, rígidos y/o flexibles que
+sea indispensable su demolición deberá emplearse en ello el
+equipo y/o herramientas destinadas para tal fin, de manera
+que	las áreas o zonas vecinas en buen estado no sean
+dañadas. El material producto de la demolición, debe ser
+removido, cargado y retirado de las obras y depositado en el
+sitio asignada previamente por el SUPERVISOR.
+El depósito de los materiales deberá ser aquel en donde no se
+obstaculice el tránsito peatonal y/o vehicular; en donde no
+interrumpa el drenaje de aguas pluviales o de otras fuentes;
+en donde no obstruya los accesos a predios casas, industrias
+y/o empresas, así no debe ser depositado en lugares que
+pudieran afectar la salud y el medio ambiente en general.
+
+II- 007.- CORTES:
+Cuantificadas y delimitadas las áreas o zonas de corte, se
+procederá de la siguiente manera:
+
+a).- PAVIMENTOS.- Cuando se trate de cortar pavimentos,
+banquetas	y/o	guarniciones,	se	emplearán	exclusivamente
+máquinas	de	disco,	sobre	todo	en	los	trabajos	de
+rehabilitación. Los cortes deberán ser rectos y a una misma
+profundidad.
+La remoción del material después del corte, debe efectuarse
+empleando	herramientas	manuales,	tomando	las	debidas
+precauciones con el fin de no dañar los materiales en buen
+estado adyacentes al área de corte.
+Si	las	áreas	de	corte	están	sobre	superficies	totalmente
+falladas, no es necesario el empleo de discos cortadores, sino
+que	pueden	efectuarse	mediante	herramientas	comunes,
+aprovechando las grietas expuestas.
+b).- En áreas o zonas sin pavimento, puede cortarse con el
+equipo	y/o	herramientas	que	mejor	convengan	al
+CONTRATlSTA.
+
+II- 008. EXCAVACIONES:
+Al hacer excavaciones el CONTRATISTA deberá extremar
+precauciones	con	el	fin	de	no	provocar	alteraciones	y/o
+modificaciones en construcciones vecinas.
+En	los	elementos	de	casas	o	edificaciones,	como	son
+cimientos, vigas, zapatas, columnas trabes y/o muros, que
+esté junto a la excavación como consecuencia de ésta, puede
+restárseles	estabilidad	provocando	posibles	agrietamientos
+combaduras, vuelcos y/o alguna otra falla estructural.
+Deben	revisarse	también	las	redes	de	servicios	públicos
+comprendidos dentro del área de construcción, con el objeto
+de que al efectuar las operaciones de excavación, no sean
+dañadas	las	líneas	subterráneas	existentes,	así	como
+registros, válvulas, llaves, cajas, postes y en general todo lo
+que pueda ser evitado.
+En suelos compresibles, en donde las excavaciones pueden
+ser superiores a la profundidad del desplante del cimiento
+vecino,	se	recomienda	al	CONTRATISTA	efectuarlo	en
+excavaciones poco profundas, de tal forma de colocar un
+ademe, cuando las características del suelo y las presiones a
+las que está sometido así lo indiquen. En estas condiciones la
+profundidad de la excavación debe ser tal que pueda facilitar
+el	ademado	inmediato	y	en	todo	caso,	en	espesores	no
+mayores de un metro y así repetir la operación hasta el nivel
+del proyecto.
+El ademe se colocará ejerciendo en él una presión igual
+ligeramente mayor que la del empuje que está haciendo e
+suelo, agregando además un factor de seguridad.
+En suelos de baja compresibilidad debe retirarse todo aquel
+de características arcillosas muy activas, así también como
+
+
+
+rellenos y/o escombros que sean ajenos al sucio existente y
+cuyo comportamiento físico-mecánico, no sea confiable como
+parte de la construcción.
+El CONTRATISTA debe considerar también la naturaleza y
+condiciones físico-mecánicas de los suelos, cuando en las
+excavaciones se encuentren oquedades o cavernas, taludes y
+otras	formaciones	naturales	y/o	artificiales,	que	en	un
+momento	dado	deban	ser	sustituidos,	estabilizados	y/o
+rellenados con otros suelos y/o concreto hidráulico en el caso
+de inyecciones de refuerzo.
+Sobre los bordes y/o extremos de las excavaciones deben ser
+colocadas señales de madera y/o metálicas que indiquen el
+trazo,	niveles,	bancos	y	en	general	todo	lo	referente	al
+dimensionamiento de las excavaciones.
+
+II - 009.- CLASIFICACION:
+Los	suelos	existentes	en	las	excavaciones	de	forma	y
+magnitud diversas, se clasificarán de acuerdo a la menor o
+mayor dificultad para su remoción como sigue:
+TIPO l.- Serán todos aquellos suelos de consistencia suave o
+suelta	como:	las	arcillas,	limos,	arenas	y	gravas	o
+combinación variable de ellas; escombros y basura; pedacería
+de bloques y ladrillos y en general todo aquel suelo suave o
+suelto que contenga partículas no mayores de 2 kg. de peso y
+que para su remoción sea suficiente herramientas tales como:
+palas, azadones o bieldos. .
+TIPO	II.-	Serán	todos	aquellos	sucios	de	consistencia
+semidura o media compacta como: arcillas, arenas, gravas y
+arniscas medianamente duras; tepetates, conglomerados y
+aglomerados o combinación variable entre ellos; cacombros
+de mampostería diversa, boleos medios y en general aquellos
+suelos	o	materiales	cuyas	partículas	están	comprendidas
+entre	2	y	5()	kg.	de	peso	y	que	para	su	remoción	sea
+necesario el uso de picos, talaches, barras o barretas.
+TIPO	III	.-	Son	todos	aquellos	suelos	o	materiales
+francamente cementados o duros, de los que se cuentan
+entre	otros:	rocas	y piedras, tepetates, tezontle, arenisca,
+caliza, dolomita, boleos grandes y/o combinación de entre
+ellos; pavimentos rígidos y/o flexibles viejos guarniciones y
+banquetas; estructuras de concreto y en general todo aquel
+suelo	o	material	cuyo	tamaño	máximo	de	partícula	sea
+superior a los 50 kg. de peso y que para su remoción se
+tengan	que	emplear	equipos	de	perforación,	corte,
+barrenación y/o explosivos.
+TIPO	IV.-	Pon	este	tipo	serán	consideradas	aquellas
+excavaciones en forma de “túnel” independientemente de la
+naturaleza del suelo, y de la dificultad para su remoción o
+extracción.
+
+II- 010.- EXPLOSIVOS
+El empleo de explosivos para la remoción de sucios duros y/o
+elementos	estructurales	rígidos	o	flexibles,	sólo	se	hará
+cuando	el	CONTRATISTA	presente	el	permiso
+correspondiente debidamente autorizado por la Secretaría de
+la Defensa Nacional y de las autoridades locales.
+En caso de no ser así, el CONTRATISTA debe utilizar otros
+sistemas	mediante	equipos	perforadores,	rompedores,
+cortadores y/o de impacto en la remoción de los suelos y
+materiales descritos.
+
+II- 011.- Daños
+EI Contratista debe extremar precauciones con el fin de evitar
+daños o accidentes dentro y/o en los linderos del Derecho de
+Vía	Indicado,	considerando	como	posibles	causas	las
+siguientes.
+a) La rotura, obstrucción, modificación y/o alteración parcial o
+total, en propiedades Federales, Estatales, Municipales y/o
+particulares.
+
+R. Ayuntamiento de Torreón, Coah., 1991-1993
+
+En redes de servicios públicos o particulares.
+b) Daños o accidentes a terceros.
+c) Aquellos daños causados por negligencia, descuido, error u
+omisión; por falta de información o coordinación.
+d) Daños o accidentes cometidos por mal manejo y/o uso del
+personal, equipo, maquinaria y materiales.
+e) Por depositar materiales en áreas de escurrimiento natural
+de agua.
+f)	Por	sobrecargar	con	material	sobre	los	bordes	de	las
+zanjas, provocando derrumbes.
+g) Por no extraer el agua de lluvias, tuberías rotas o de otras
+fuentes y que éstas saturen el suelo provocando derrumbes,
+erosiones y/o filtraciones.
+h) Por depositar escombros, desperdicios, basura y otros en
+áreas de circulación de peatones y de vehículos.
+i) Por daños causados a la ecología.
+j) Por daños causados por el tránsito de maquinaria pesada
+(rueda	metálica)	sobre	los	pavimentos,	bordos,	boyas,
+tachuelas, señales de tránsito, banquetas y/o guarniciones.
+k) Por no colocar pasos provisionales en los cuales cruce
+sobre excavaciones y/o zanjas.
+
+II-012.- LIMITACIONES
+EL CONTRATISTA suspenderá el proceso de construcción,
+cuando	las	condiciones	del	medio	ambiente	se	vean
+amenazadas	por	precipitaciones	pluviales	o	temperaturas
+tendiendo	al	grado	de	congelación.	Debe	observar	estas
+condiciones, sobre todo, cuando se este usando concreto
+hidráulico, concreto asfáltico y productos líquidos.	Proteger
+en	todo	caso,	aquellos	colados	recientes	previos	a	las
+condiciones	del	clima.	Tanto	en	un	ambiente	frío	o	de
+precipitaciones	pluviales	así	como	de	extremo	calor,	el
+CONTRATISTA	deberá	contar	con	la	autorización	del
+SUPERVISOR	para	continuar	con	cl	trabajo,	según	la
+naturaleza del mismo.
+
+TERCERA PARTE
+III- RED DE AGUA POTABLE
+
+III- 001.- ZANJAS
+Las excavaciones necesarias para la formación de las zanjas
+
+de otra forma. El perfil de los cortes serán verticales y planos
+empleando	en	su	ejecución	el	equipo,	maquinaria	y/o
+
+del suelo existente así como de la magnitud de la excavaci6n.
+En	el	precio	de	las	excavaciones	se	debe	incluir	lo
+
+herramientas; trabajos adicionales y colaterales: disgregación,
+agua, mezclado, extracción, carga y acarreo.
+
+III- 002.- DIMENSIONES:
+terminada	la	excavación,	las	dimensiones	de	las	zanjas
+
+estas últimas, las que se tomarán de base para cl pago de
+estimaciones y/o liquidación.
+
+será reconocido como costo extra.
+Se recomienda que la excavación, en su primera etapa,
+cuando se emplee maquinaria, no hacerlo hasta llegar a la
+cota	de	planilla,	debiendo	efectuarse	los	últimos	10
+
+tipo III, a "mano", para en esta forma ajustarse a las colas del
+proyecto.
+
+la siguiente fórmula:
+S = 1.33D + 0.30, en donde:
+
+La Gaceta Municipal, Nov.-Dlc., de 1993
+
+
+D = Diámetro del tubo en metros
+Para profundidades mayores de 3.00 mts., se aumentará en
+0.10 mts. por cada metro (le profundidad como se indica en la
+siguiente tabla:
+
+Diámetro Tubo	Sección
+
+Cms.	Mts.
+7.6	0.60
+10.0	0.60
+15.0	0.60
+20.0	0.65
+25.0	0.70
+30.0	0.75
+35.0	0.80
+40.0	0.85
+45.0	0.90
+50.0	0.95
+
+III.003.- MODIFICACION Y SUSTITUCION:
+
+a) Cuando el CONTRATISTA haya excavado más allá de la
+cola	de	plantilla	reemplazará	por	su	cuenta	y	riesgo	el
+volumen	del	material,	el	cual	deberá	colocar	en	las
+condiciones de calidad cantidad y requisitos físico-mecánicos
+que le indique el SUPERVISOR.
+b) Si el suelo de plantilla carece de calidad, se excavará
+.hasta	encontrar	una	superficie	firme	y	se	sustituirá	con
+material	de	buena	calidad	hasta	la	cota	de	plantilla,
+considerándose éste extra en las estimaciones y/o liquidación.
+c)	En	la	intercepción	de	línea	de	servicios	públicos,	de
+estructuras y/o de cualquier otro elemento subterráneo en el
+momento de las excavaciones y que no se llegue aún a las
+cotas del proyecto, se consultará con el SUPERVISOR para
+que éste indique la modificación más conveniente.
+
+III. 004.- EQUIPO Y MATERIALES AUXILIARES
+
+En cualquier caso deberá el CONTRATISTA contar con el
+equipo y materiales necesarios, recomendando de entre otros:
+bombas	para	extracción	de	agua	proveniente	de
+precipitaciones pluviales, roturas de tubo, o da cualquier otra
+fuente;	generadores	de	energía	lumínica;	cables,	tarimas,
+placas,	madera	y/o	láminas,	para	cruces	o	pasos
+provisionales.
+
+III -005.- P LANTI LLA:
+
+Los tubos serán colocados sobre un material mezclado con
+humedad y compactado. El material para la plantilla será de
+tipo arenoso fino, triturado o de cantos redondeados, limoso o
+bien,	combinación	de	entre	éstos.	El	tamaño	máximo	se
+recomienda no mayor de 0.635 Cms. de diámetro.
+Si	el	material	de	la	excavación	reúne	las	características
+mencionadas puede ser empleado como plantilla.
+La plantilla debe ser construida de un espesor mínimo de 10
+Cms. compacta, cuando se trate de suelos tipo I y II Y de 20
+Cms. mínimo compactos, cuando sea en suelos tipo III.
+La	plantilla	de	arena,	limo	o	combinación,	debe	tener	el
+espesor y compactación indicado por el supervisor, de tal de
+tal manera que al apoyar la tubería, ésta se asiente en toda su
+longitud.
+Con el mismo tipo de material se procederá al relleno de
+ambos costados del tubo compactando con el pisón curvo de
+manera que no queden zonas flojas y así seguir hasta llegar
+un espesor de treinta (30) centímetros sobre la llave del tubo.
+
+
+
+
+III.006.- RELLENO RESTANTE:
+Recibido y aprobado el material de plantilla, el de los costado
+y el de la par(e superior del tubo, se procederá a rellenarse el
+resto de la zanja; si el material producto de la excavación es
+aprobado en calidad por el LABORATORIO y autorizado por
+el	SUPERVISOR,	se	empleará	en	dicho	relleno,	en	caso
+contrario se le indicará el que debe usarse.
+
+III-007.- PREPARACION DEL MATERIAL:
+El material para el resto del relleno de la zanja debe ser
+mezclado uniformemente con una humedad correspondiente
+a la "óptima" de compactación o con una cantidad de agua
+cercana a ella.
+La cantidad de material mezclado introducido a la zanja, será
+tal	que	se	formen	capas	de	un	espesor	mayor	de	20
+centímetros compactando éstas hasta obtener la densidad
+indicada. El estas condiciones se repetirán las operaciones
+descritas hasta llegar al nivel inferior de la capa sub-rasante.
+
+III-008.- CARACTERISTICAS FISICAS:
+Los materiales que sean empleados en la construcción de la
+plantilla, costados, superior del tubo en el relleno total, deben
+cumplir con las siguientes características físicas:
+
+a) Material para plantilla. costados y superior:
+1. Tamaño máximo	0.635 Cms. Máx.
+
+2. Contracción lineal	4.00% Máx.
+
+3. Valor rel. soporte	30.0 % Mín.
+
+4. índice plástico	10.0 % Máx.
+
+b) Material para relleno:
+1. Tamaño máximo	3.81 cms. Máx.
+
+2. Contracción lineal	7.00% Máx.
+
+3. Valor: rel. soporte	10.0 % Mín.
+
+4. Indice plástico	20.0 % Máx.
+
+III.009.- CONDICIONES DE CAMPO
+La construcción de los mal eriales de relleno deben de cumplir
+con lo siguiente:
+
+a) Material para la plantilla. Costados y parte superior del
+tubo
+1. Uniformidad:	En cuanto a textura y humedad.
+
+2. Humedad:	Optima o cercana a ésta.
+
+3. Peso específico:	Compactación entre 80 y 85 %
+del	peso	volumétrico	seco
+correspondiente
+
+b) Material de relleno hasta el nivel inferior de la capa
+sub-rasante:
+1. Semejante a a) 1.
+2. Semejante a a) 2.
+3. Peso específico: Compactación de 90% hasta 20 Cms. ante
+del nivel inferior de la capa sub-rasante.
+Compactación de 95% de los últimos 20 Cms.
+
+III- 010.- TUBERIA Y ACCESORIOS:
+La DIRECCION no asume responsabilidad alguna en cuanto a
+la calidad, recepción, almacenaje, manejo y colocación de
+tubos y accesorios para la conslrucci6n de las líneas de agua
+potable.
+
+
+
+
+
+
+
+
+R. Ayuntamiento de Torreón, Coah., 1991-1993
+
+lII-011.-INSTALACION:
+
+Revisados los tubos en cuanto a limpieza interior y exterior se
+irán bajando cuidadosamente hasta apoyar toda su longitud
+sobre la plantilla. Se colocarán los empaques de hule y se
+lubricarán. Se ensamblará el cople de entre los dos tubos y se
+ajustarán hasta la marca señalada, los tubos así ensamblados
+deben presentarse de manera colineal en toda su extensión.
+Al	término de la jornada se tendrá cuidado de tapar los
+extremos	de	la	línea	para	evitar la	entrada	de	animales,
+basura, escombro o cualquier objeto que pueda obstruir.
+En los cruceros se armarán los tubos con las piezas de hierro
+fundido tal y como se indica en los planos de proyecto. Esta
+operación debe efectuarse antes de bajar los tubos.
+Se construirán cajas de registro de válvulas según se indique
+en el proyecto. Cuando se Indiquen tubos de 61 7, 10, 15, 20
+y 25 Cms. se Instalarán únicamente campanas de operación y
+registro para maniobrar exteriormente.
+Los registros serán de concreto de f1'c = 150 Kg./cm2, una
+vez terminada la instalación de válvulas, se tendrá presente
+ajustar los tornillos del "prensa-estapa" y cerciorarse de que
+queden totalmente abiertas. Los atraques serán construidos
+empleando concreto f1'c = 150 Kg/cm2.
+
+III.- 012.- PRUEBA HIDROSTATICA:
+
+Una vez terminada de instalar la línea se someterá a una
+presión hidrostática equivalente al 150 % de la carga de
+trabajo	especificada	para	la	tubería.	Para	tal	prueba	se
+empacará una bomba de operación sencilla con suficiente
+capacidad para alcanzar la presión necesaria de la prueba.
+Las líneas pueden ser probadas en tramos cuya longitud esté
+de	300	a	400	mis.	lineales,	los	que	deberán	estar
+completamente	terminados	en	sus	cruceros,	con	centros
+aditamentos para expulsión de aireen sus extremos y puntos
+altos. Los atraques definitivos y/o provisionales; siendo los
+primeros	los	del	proyecto,	y	serán	condición	para	la
+verificación de la prueba de que el concreto haya fraguado y
+los	segundos	(provisionales)	pueden	improvisarse	con
+bloques de madera en los extremos de las líneas.
+El tramo de prueba se va llenando lentamente con agua a
+baja	presión,	expulsando	el	aire	contenido	en	el	interior
+mediante los purgadores. Una vez llena la línea de agua se
+dejará en reposo durante las próximas 24 horas a fin de que
+se hidrate completamente. .
+Pasado	este	período	se	le	aplicará	la	presión	constante
+durante seis (6) horas.
+Introduciendo	agua	para	conservar.	dicha	presión.	Se
+recomienda que la prueba sea extensiva hasta las tomas
+domiciliarias (pie derecho). Las pérdidas observadas durante
+la prueba hidrostática no deben exceder de los siguientes
+valores.
+
+Diámetro de línea	Pérdida en 24 hrs.
+
+CMS.	HS.
+
+7.6	705
+10.0	940
+15.0	1410
+20.0	1880
+25.0	2350
+30.0	2820
+35.0	3290
+40.0	3760
+45.0	4230
+50.0	4700
+
+
+Fugas permitidas en litros por kilómetro de línea. En caso de
+que las fugas de agua excedan de los valores indicados en la
+tabla anterior, el CONTRATISTA reparará por su cuenta y
+riesgo los defectos o fallas en la misma, repitiendo la prueba
+hidrostática cuantas veces sea necesario hasta que resulte
+satisfactoria.
+
+IV-RED DE DRENAJE SANITARIO
+
+IV- 001.- ZANJAS:
+
+Las excavaciones serán como se indica en el III-001.
+
+IV- 002.- DIMENSIONES:
+
+Las excavaciones deberán ser las que se indican en el plano
+correspondiente,	tomando	las	precauciones	que	se
+mencionan	en	el	III-002,	excepto	lo	relativo	a	la	sección
+transversal.
+La sección transversal será excavada conforme a la siguiente
+tabla:
+
+Diámetro Tubo	Sección
+MTS.	MTS
+0.20	0.60
+0.25	0.75
+0.30	0.75
+0.38	0.85
+0.43	0.90
+0.53	1.10
+0.61	135
+0.76	1.55
+0.91	1.65
+1.07	1.90
+1.22	2.15
+1.37	2.40
+1.52	2.60
+
+IV-003.-MODIFICACION Y SUSTITUCION:
+
+Semejantes a lo descrito en III-003 y III-004.
+
+IV -004- PLANTI LLA:
+
+Si el suelo existente en el piso de las zanjas es de la clase 1,
+se formará a mano una excavación tipo "media cana" en toda
+la longitud de la zanja, dando la pendiente señalada en el
+(proyecto.	"La	media	cana"	corresponderá	a	la	superficie
+lateral del cuadrante inferior del tubo el que deberá apoyar
+totalmente su longitud. Cuando el suelo existente en el piso
+de las zanjas sea de las clases II y III, la plantilla tendrá un
+espesor	de	10	y	20	centímetros,	respectivamente	y	será
+colocada formando la misma figura de manera que el tubo
+apoye total y firmemente en toda su longitud. El material y el
+proceso	de	construcción	de	la	plantilla,	costados,	parte
+superior del	tubo	y el	relleno restante, serán los mismos
+descritos en III-05, III-06, III-07, III-08, III-09.
+
+lV- 005.- VOLUMEN ES EXCAVADOS Y RELLENOS:
+
+Tanto los volúmenes de excavación como los de relleno de
+zanjas, serán medidos en tramos de 20 mts. de longitud.
+
+IV-006.-INSTALACION:
+
+La instalación de tubos para las líneas de drenaje sanitario se
+efectuarán en tramos comprendidos de entre dos pozos de
+
+Gaceta Municipal Nov. - Dlc., de 1993
+
+visita consecutivos, iniciando la colocación del nivel más bajo
+y continuándola hacia aguas arriba, es decir, en	"contra-
+pendiente".
+En las maniobras de bajado y colocación de los tubos el
+CONTRATISTA tendrá cuidado de no golpearlas ni dejarlas
+caer al fondo de la zanja. Para tubos de diámetro menor de 46
+cms.	las	maniobras	de	bajado	pueden	hacerse	a	mano
+usando cables. Para tubos de diámetro de 53 a 76 cms. se
+recomienda usar tripié y gancho de cadena, y para tubos de
+diámetro de 91 a 122 cms. de 1 tonelada y 1.5 toneladas
+respectivamente.
+Previamente, al ensamble de los tubos, deberán limpiarse de
+tierra y materias ajenas.
+Revisados	y	aceptados	los	niveles	y	plantilla	por	el
+SUPERVISOR se preparan los tubos para su ensamble y
+sellado (emboquillado de campana y espiga), se verifica su
+alineamiento	y	verticalidad	colocando	“muestras"	a	una
+distancia no mayor de 20 mis. Una vez colocados los tubos
+"muestra"	en	la	plantilla,	se	fijarán	con	tierra	en	ambos
+costados de manera que no se muevan.
+Los tubos intermedios se irán colocando referenciándolos a
+hilos colocados tensos a la ,generatriz media y superior. Los
+hules	a	"reventón"	estarán	sujetos	a	los	puntos
+correspondientes del último tubo alineado y el de la "muestra"
+colocado agua arriba.
+La pendiente de la tubería será verificada comparando los
+niveles del proyecto con los del campo, mismos que estarán
+indicados	en	las	estacas	y/o	“puentes”	en	los	bordes	y
+extremos de las zanjas. Verificando el alineamiento y niveles
+de los tubos se fijarán con materia colocado en ambos lados,
+dejando	libre	un	espacio	entre	dos	tubos	consecutivos
+(conchas) para el	sellado con mortero (cemento-arena) y su
+posterior revisión en la prueba de recepción.
+
+IV-007.- SELLADO:
+Al verificarse el alineamiento de la tubería, no se admitirá una
+tolerancia mayor de 5 mm. para tubos de diámetro hasta de
+61cms. y de 10 mm. para mayores.
+Previo al emboquillado con el mortero, se eliminará toda la
+tierra y materias ajenas al tubo, humedeciendo con agua la
+superficie del sellado; las personas del sellado deben seguir a
+los que van alineando os tubos a una distancia de cuatro
+tubos.
+El sellado de tubos cuyo diámetro no permita hacerlo en su
+interior, colocará el mortero en la hendidura de la campana y
+juntando los tubos a presión el mortero sobrante debe ser
+retirado y con la mano afinar cl que quedó adherido a los
+tubos.
+En el interior el mortero sobrante se limpiará con un saco de
+arena hasta que quede rasante.
+En la parte externa de la campana se moldeará el mortero
+hasta lograr un chaflán de 45° aproximadamente, con relación
+al borde de las campanas; si se trata de tubos de junta,
+universal únicamente se afina el borde.
+En tubos donde se pueda hacer el sellado interior, se hará en
+el 60% del perímetro de la junta afinando de manera de evitar
+que queden bordos o rebabas del mortero,
+En la junta exterior se sellará la misma perimetría pero ésta
+por la parte superior del tubo.
+
+IV- 008.- MORTERO:
+Para preparar el mortero cemento -arena, se emplearán las
+siguientes cantidades:
+1. Cemento Portland tipo I	400 kgs.
+2. Arena de caliza triturada
+común tamaño de 3 mm.	1m3
+3. Agregar y mezclar con agua hasta obtener una consistencia
+pastosa.
+4. Aplicarlo dentro de los. siguientes 30 minutos de su
+preparación. Después de ese tiempo no debe ser usado.
+
+
+
+IV-009.- PRECAUCIONES:
+Al término de la jornada deben ser tapados con madera los
+extremos de la tubería, procurando también cargar sobre los
+tubos material suficiente para evitar el fenómeno de "flotación
+por penetración de agua en las zanjas.
+
+IV-0I0.- PRUEBA:
+
+Estando lista la tubería entre dos registros consecutivos tapan
+los extremos provisionalmente con mampostería mortero. La
+prueba consistirá en la aplicación de una presión provocada
+por una carga de agua entre 1.50 y 2.00 mts. De altura,
+puesta en su parte más baja. Las juntas de los tubos deben
+quedar libres para revisar en la prueba de presión el que no
+se presenten fugas. Si aparecen éstas, el CONTRATISTA
+deberá repetir las operaciones de sellado tantas veces como
+sean necesario a fin de evitar permeabilidad.
+
+IV-011.-POZOS DE VISITA Y DE CAIDA:
+
+Los detalles de construcción de los pozos de visita y los de
+caída deben ser los que se indican en el proyecto.
+Asimismo el contratista solicitará los datos de localización
+niveles;	planta	y	perfil	del	proyecto	de	las	líneas	de
+alcantarillado. La excavación para la construcción de la obra
+será la que se indique en el proyecto.
+
+IV- 012.- CONSTRUCCION:
+La base del pozo será de concreto de fe = 150 Kg./em2
+dimensiones que se marcan en cl plano, una vez terminada es
+se sigue con el canal ("media cana") también de dimensión
+especificadas en el mismo proyecto.
+El muro que formará el pozo se construirá empleando ladril
+prensado	y	cocido,	cementado	con	mortero	1:3	y	de	un
+espeso	de	20	cm.	Los	ladrillos	se	sentarán	en	hiladas
+horizontal dejando una junta interior de 1.5 cms. alternando
+éstas de manera que no coincidan verticalmente.
+El sellado interno del muro se hará aplicando un cm. mortero
+1:3 en dos capas y deberá concluirse con un aplanado fino
+con cemento. El curado se deberá mantener durante siete
+días o bien una aplicación de membrana química.
+La corona se construirá usando concreto de fe = 180 Kg./cm
+de 20 cms. de espesor mínimo.
+Como conclusión se colocará el brocal y la tapa, los que
+coincidirán con el nivel de rasante.
+
+IV- 013.- RAMALES:
+
+La excavación para la instalación de los ramales, se hará de
+60 cms. de sección y una profundidad desde el nivel de la
+línea principal en el eje de la calle, hasta una profundidad de 1
+metro en los límites de propiedad y la longitud será la que
+indique en los planos.
+
+IV - 014.- PLANTI LLA:
+
+La plantilla y el resto del relleno de la zanja, serán conforme a
+lo descrito en IV-004,1.
+
+1V-015.- INSTALACION:
+La	instalación	de	los	tubos	de	barro vitrificados,	se	hará
+tramos completos, dando inicio en la línea principal (eje de
+calle) y avanzando hacia el límite de la propiedad. Aquí deben
+incluir todas las piezas especiales de barro, así como registro
+de fierro vaciado.
+
+IV-016.- SELLADO:
+Se	hará	conforme	se	describe	en	el	lV-007,	excepto	en
+sellado interior, sin embargo, en esta tubería el sellado de
+hacerse en toda la perimetría de las juntas.
+
+
+
+
+
+IV- 017.- MORTERO:
+El mortero para el senado será el descrito en IV-008.
+
+V.- DRENAJE PLUVIAL
+
+Repetir el contenido del drenaje sanitario según los puntos
+sig:
+
+IV-001	Zanjas
+IV-002	Dimensiones
+IV-003	Modificación y sustitución
+IV-004	Plantilla
+IV-005	Volúmenes	excavados	y
+rellenos
+IV-006	Instalación
+IV.007	Sellado
+IV-008	Mortero
+IV-009	Precauciones
+IV-010	Prueba
+IV-011	Pozos de visita y de caída
+IV.012	Construcción.
+
+CUARTA PARTE
+
+VI.- PAVIMENTO FLEXIBLE
+
+VI- 00l.-GENERALIDADES:
+
+El	pavimento	flexible	se	define	como	una	estructura
+constituida de varias capas de material seleccionado y una
+superficie de rodamiento para el tránsito de automotores.
+Esta estructura puede ser diseñada para soportar cualquier
+tipo,	cantidad	y	carga	de	vehículos,	inclusive,	se	puede
+prevenir para un tiempo y cargas futuras. A través de la
+estructura, se distribuyen los esfuerzos de las cargas de los
+vehículos	hacia	su	interior,	formando	geométricamente	un
+cono,	de	manera	que	al	profundizarse,	disminuyen	los
+esfuerzos	trasmitidos	hasta	ser	nulos	en	la	terracería	o
+subrasante.
+A partir de las terracerías y hasta el nivel de la capa de
+desgaste, la calidad de los materiales usados, la construcción
+de ras capas y las condiciones físico mecánicas, deberán ser
+progresivamente más resistentes.
+
+VI- 012.- EQUIPO:
+
+Para	la	construcción	del	pavimento	flexible	se	emplea
+regularmente	maquinaria	pesada	variada,	diseñada
+exclusivamente, para una función específica.
+
+Del equipo más comúnmente empleado están los siguientes:
+
+a). Para desmonte y movimiento de tierra negra:
+1. BULLDOZER
+2. MOTO ESCREPAS
+3. PALAS
+4. CARGADORES
+5. EXCAVADORAS Y PERFORADORAS
+6. MOTOCONFORMADORAS
+
+b). Para compactación:
+1. RODILLOS LISOS Y “PATAS DE CABRA"; ESTATICOS Y
+VIBRATORIOS; DE DOS Y TRES RUEDAS.
+2. RODILLOS NEUMATICOS
+3. COMBINADOS
+
+R. Ayuntamiento de Torreón, Coah., 1991-1993
+
+
+c). Para mezclas y carpetas asfálticas:
+1. PLANTAS FIJAS Y MOVlLES; POR PESO O VOLUMEN.
+2. DISTRIBUIDORES DE ASFALTO.
+3. TERMINADORAS DE CARPETA ASFALTICA.
+
+d). Para trituración:
+1. MOLINOS DE QUIJADA, DE MARTILLOS DE CONO Y DE
+IMPACTO
+2. SELECTORES DE CRIBAS
+
+Camiones	pipa	y	de	volteo,	de	entre	otros	equipos	y
+maquinaria existente.
+
+VI- 003.-DISEÑO DE PAVIMENTO FLEXIBLE:
+Los parámetros que deben considerarse para el diseño del
+pavimento son los siguientes:
+
+a). Estimación del tipo, intensidad y carga de automotores.
+b). Calidad soportante del suelo de cimentación.
+c). Precipitación pluvial anual media de la región.
+
+Y como complemento significativo en el diseño del pavimento,
+debe acompañarse (fe un buen proyecto de drenaje, una
+buena selección de materiales y de una construcción, cuyo
+acabado	proporcione,	una	superficie	cómoda,	segura	y
+duradera al USUARIO.
+Un buen diseño es aquel en que los esfuerzos de repetición
+de las cargas sobre la estructura, no provocan deformaciones
+y/o alteraciones permanentes en la sub-rasante.
+
+VI- 004.-TERRACERIA:
+La	construcción	de	la	terracería	se	considera	como	el
+"arranque"	o	cimiento	del	pavimento	y	se	constituye
+generalmente,	con	los	suelos	existentes,	mediante
+operaciones de corte y/o terraplenes.
+
+VI- 005.-VARIACION VOLUMETRICA:
+El volumen necesario del suelo para la construcción de la
+terracería debe ser tal, que satisfaga la sección, alineamiento
+y niveles del proyecto, por lo que deben ser considerados en
+"dicha cantidad las variaciones volumétricas de los mismos.
+
+VI- 006.-BANCOS
+Si	la	cantidad	del	suelo	existente	en	las	obras	no	son
+suficientes, el SUPERVISOR le indicará al CONTRATISTA el
+o los lugares de abastecimiento, pudiendo ser de bancos
+préstamos	o	de	otros	cercanos	a	las	obras,	los	que
+previamente fueron analizados por el LABORATORIO.
+
+VI- 007.-8UB-RASANTE: .
+La	construcción	de	la	capa	sub-rasante	es	el	refuerzo
+principal del cimiento. El suelo para su construcción puede ser
+de las mismas características de empleado en la terracería,
+sin embargo, las condiciones físico-mecánicas al construirse
+pueden ser diferentes. El material para su construcción serán
+los mismos indicados en VI- 004, VI- 005 y VI- 006.
+
+VI- 008.-CONSTRUCCION:
+En la construcción del cimiento del pavimento se recomiendan
+las siguientes maniobras:
+A.	Cuando	el	nivel	del	sub-rasante	fue	dado	mediante
+operaciones de "corte":
+a). Escarificar el espesor del proyecto aprovechando para
+retirar	las	partículas	mayores	(según	espesores).	troncos,
+ramas, basura, escombros y en general, todo aquello que sea
+ajeno al suelo.
+b). Disgregación y mezclado en seco o atando mucho con una
+
+La Gaceta Municipal, Nov. - Dic., de 1993
+
+humedad que permita la condición descrita.
+c). Incorporación de la humedad "óptima" de compactación,
+en riegos sucesivos sobre camadas "de suelo hasta alcanzar
+dicha cantidad de agua.
+d). Mezclado del suelo-agua hasta lograr que se presente
+homogeneización de textura y humedad.
+e). Tendido, afine y compactación inicial.
+f). Reparación de áreas con tallas; zonas bajas, excesos y/o
+falta	de	humedad,	clasificación	y en	general	todo	lo	que
+indique como anomalía e SUPERVISOR.
+g). Compactación final.
+
+B.	Cuando	el	nivel	de	sub-rasante	fue	dado	mediante
+terraplenes y/o rellenos.
+Repetir las maniobras descritas en VI- 008, Ab, Ac, Ad, Ae. Af
+y Ag.
+Durante la operación de disgregación y mezclado (VI- 008,
+Ab), debe retirarse todo aquello ajeno al suelo.
+En las zonas en donde la diferencia de nivel de entre el perfil
+"pelo de tierra" y el de la sub-rasante sea muy grande, deberá
+de compactarse por capas, cuyo espesor estará en función
+del tipo de suelo y del equipo.
+
+VI- 009.-CALIDAD DEL SUELO:
+
+La calidad del suelo de terracería y de la sub-rasante, será de
+acuerdo a los siguientes valores:
+
+TERRACERIA
+CARACT.	DESEABLE	ADECUADA	TOLERABLE
+Tamaño máximo de	500 o 0.5	2000 o 0.5
+partículas mm.	76	del espesor	del espesor de
+capa	capa
+capa,
+% Tamiz N° 200	30 Max.-----------------
+Límite líquido	% 40 max.	5O max.	60 max.
+Indice plástico % --------------------------	25 max.
+Valor soporte	% 5 min.	5 min.	3 min.
+Expansión %	----------	-------	3
+
+NOTA: En el caso de que el porcentaje de suelo (partículas
+menores de 76 mm.) en una terracería: de calidad “deseable”
+sea	menor	de	50%,	cumpliendo	con	todos	los	requisitos
+señalados, podrán ser aceptados por el SUPERVISOR un
+valor de límite líquido mayor del 40%, pero menor de 60%
+siempre y cuando se garantice un comportamiento de calidad
+de obra "de terracería deseable".
+
+SUB-RASANTE
+CARACT.	DESEABLE	ADECUADA	TOLERABLE
+Tamaño máximo
+de partículas mm.	75	75	75
+% Tamiz No. 200	25 max.	35 max.
+Límite líquido %	30 max.	40 max.	50 max.
+Indice plástico %	10 max.	20 max.	25 max.
+Valor soporte %	30 min.	20 min.	15 min.
+
+VI- 010.- CONDICIONES DE CAMPO:
+
+Las	capas	de	terracería	y	sub-rasante	al	ser	concluidas,
+deberán cumplir con los siguientes requisitos:
+a) Sección, alineamiento y niveles conforme a los del
+proyecto.
+b) Uniformidad en textura y humedad.
+c) Superficie libre de bordos o hundimientos.
+d) Compactación en %
+
+
+
+ETAPA	DESEABLE	ADECUADA	TOLERANCIA
+TERRACERlA	95 min.	90+ 2	90+ 2
+SUB-RASANTE	100 min.	100+2	100+ 2
+
+VI- SUB-BASE Y BASE:
+
+Las capas de sub-base y base tienen como finalidad la de
+soportar y absorber las cargas de los vehículos, es decir, son
+propiamente la estructura del pavimento. Aunque la sub-base
+sea considerada como una capa aislada de entre la sub-
+rasante y la base; así también funciona como capa de drenaje
+y evita el encarecimiento de pavimento por	ser una calidad
+Interior a la base, también proporciona soporte de cargas.
+
+VI- 012.-ESPESORES:
+El	espesor	mínimo	compacto	de	las	diferentes	capas	de
+
+ETAPA/TRANS.	LIVIANO	MED.	PESADO	M.PESADO
+TERRACERlA	10	12
+SUB-RASANTE	15	20	25	30
+SUB-BASE	10	12
+BASE	12	15	10	12
+CARP. ASFALTlCA	3	4	5	6
+
+Acotaciones en centímetros
+
+VI- 013.-CONSTRUCCION:
+
+La construcción de las capas de sub-base y base, se iniciará
+cuando la sub-rasante o fa sub-base, según se trate de un
+
+debidamente terminadas y recibidas.
+El	procedimiento	de	construcción	debe	ser	en	término
+
+A.- Con motoconformadora:
+a) Mezclado y acopio en camellones sobre la cuneta.
+
+sucesivos volteando el material hacia la cuneta contraria.
+Repetir la operación anterior hasta agotar el material y la
+
+c)	Mezclado	con	el	agua	hasta	lograr	presenta
+homogeneización en textura y humedad.
+
+e) Reparar zonas con posibles fallas.
+f)	Mantener	la	humedad	"óptima	mediante	riegos	ligeros
+terminar la compactación.
+
+B.- Con espaciadora mecánica:
+Cuando el material se retiene en la terminadora y se viene
+
+proceder según se indica:
+a)	Compactar	hasta	concluir,	reteniendo	la	humedad	con
+
+VI-014.- CALIDAD DE LOS MATERIALES:
+
+La	calidad	de	los	materiales	de	sub-base	y	base	deben
+cumplir con los siguientes requisitos:
+
+procesado.
+
+CARACTERIST.	DESEABLE	TOLERABLE
+Tamaño máximo de las
+partículas, mm.	51	51
+% Tamiz No. 200	15 max.	25 max
+
+
+
+
+Zona granulométrica	1 y2	1 a 3
+Límite líquido, %	25 max.	30 max.
+Indice plástico, %	6 max.	10 max.
+Equiv. de arena, %	40 min.	30 min.
+Valor soporte, %	40 min.	30 min.
+Contracción lineal, %	-----	-----
+
+BASE:
+
+CARACTERISTICA	DESEABLE A	DECUADA
+Tamaño máximo de las
+partícula, mm.	38	38
+% Tamiz No. 200	10 max.	15 max.
+Zona granulométrica	1 y 2	1, 2 Y 3.
+límite líquido, %	25 max.	30 max.
+Indice plástico, %	6 max.	6 mal.
+Equivalente de arena %	50 min.	40 min.
+Valor soporte, %	100 min.	80 min.
+
+Desgaste en máquina
+Los Angeles, %	40 max.	40 max.
+
+VI- 015 CONDICIONES DE CAMPO:
+
+Las capas de sub-base y base al ser concluidas deben de
+cumplir con los siguientes requisitos: .
+a).- Los indicados en VI-010; a. b y c.
+b) Compactación en %:
+
+ETAPA	DESEABLE	TOLERABLE	ADECUADA
+SUB-BASE	100 min.	100 min.
+BASE	100 min.	100 min.
+
+VI- 016.- IMPREGNACION:
+
+La impregnación consiste en la aplicación de un riego de
+producto as1á1tico tipo fraguado medio, sobre la superficie de
+la base.
+Previamente a la aplicación del riego asfáltico la superficie de
+la	base	debe	estar	completamente	limpia;	libre	de	polvo
+suelto, arena y papeles.
+La base debe estar seca en por lo menos un centímetro de
+espesor,	sin	embargo,	dado	que	es	imposible	eliminar el
+polvo, se recomienda un riego ligero de agua y esperar a que
+se pierda el brillo de ésta. La aplicación del riego asfáltico se
+dará con un distribuidor mecánico, el que deberá contar con
+todos	los	dispositivos	necesarios	como	son:	bomba	de
+presión,	agitador,	fuente	de	calor,	tacómetro	medidor	de
+volumen y válvulas de expulsión y cierre. El producto asfáltico
+debe	estar	caliente	a	la	temperatura	recomendable,	y	la
+máquina	debe	probarse	fuera	del	tramo	que	se	va	a
+impregnar, para revisar que su barra de espreas esté limpia
+totalmente.
+En el inicio y final del tramo por impregnar, deben colocarse
+tiras de papel o plástico en todo el ancho de la sección, de
+manera que no se impregne más a lo señalado.
+La cantidad de producto asfáltico será en una proporción de
+entre 1.25 y 1.50 Hs/m2. Aplicado el asfalto, el tramo debe
+cercarse	al	tránsito	de	peatones	y	vehículos	y	en	caso
+necesario,
+preparar pasos provisionales mediante cl tendido de arena N°
+4 sin polvo. La protección del riego asfáltico será de 24 hrs.
+mínimo después de su aplicación.
+
+VI- 017.- CALIDAD DEL ASFALTO:
+La	calidad	de	los	productos	asfálticos	para	el	riego	de
+impregnación, son los siguientes:
+
+R. Ayuntamiento de Torreón, Coah. 1991 – 1993
+
+
+CARACTERISTICA	F.M.O.	F.M.I.
+Punto de encendido en CAC °C	38	38
+Viscosidad Saybolt- Furol, Seg.
+a 25°C 75 a 150
+a 50°C	75 a 150
+Penetración asfalto básico	80 a 100	80 a 100
+Total destilado a 225° C	25 Max.	20 Max.
+a260 °C 40 a 70 25 a 65
+a 315°C 75 a 93 70 a 90
+
+Residuo de destilación
+hasta 360° C del volumen
+por diferencia, mínimo	50	60
+
+VI- 018.-CQNDICIONES DE CAMPO:
+El riego de impregnación asfáltica, debe cumplir, una vez
+
+a). Uniformidad en toda la superficie cubierta.
+b). No deben presentarse áreas con escaso o exceso de
+
+c). La presentación del producto asfáltico en la base, debe ser
+por lo menos de 0.5 cms.
+d). No deben traslaparse los riegos
+
+VI- 019.-CARPETA ASFALTICA:.
+La	carpeta	asfáltica	será	construida	empleando
+
+estacionaria o móvil; por peso y/o volumen. Las materias
+primas	para	su	elaboración	serán	materiales	selectos	y
+cemento asfáltico.
+
+VI. 020.CONSTRUCCION.
+Previamente al tendido de concreto asfáltico, se revisará el
+tramo impregnado para ver si se requiere el riego de "liga", En
+caso afirmativo, se usará un producto asfáltico tipo fraguado
+
+describió en el riego de impregnación, pero en una proporción
+de entre 0.25 y 0.50 litros por metro cuadrado.
+
+indica en VI- 018.
+Se	empleará	para	el	tendido	del	concreto	asfáltico,	una
+
+calor, regia vibratoria, cadenas de alimentación fijadores de
+nivel y tornillos centrales en la plancha enrasadora para dar
+
+Los auxiliares de la máquina deben tener las herramientas
+adecuadas,	como	son:	palas	rastrillos	y	azadones,
+
+protección.
+El concreto asfáltico al ser recibido en la máquina, deberá
+
+El	SUPERVISOR	debe	anticipar	que	se	cuente	con	el
+suficiente abasto del concreto para evitar que se produzcan
+
+debe certificar que los cimientos sean los necesarios rara
+completar el ciclo de carga en la planta, transporte y descarga
+
+La	base	impregnada	debe	estar	libre	de	polvo,	basura,
+humedad y en general todo ajeno a ella.
+
+asfáltico se esparcirá una parte adelante de la terminadora
+será en esta forma no se adhiera cl asfalto a las llantas de los
+camiones.
+El concreto asfáltico recibido en la tolva de la terminadora
+será tendido en el espesor abundado, de manera que al
+
+La Gaceta Municipal, Nov. – Dic. De 1993
+
+concluirse	con	la	compactación,	sea	el	del	proyecto.	La
+máquina debe avanzar conforme al volumen descrito, y recibir
+sin parar, el siguiente abasto de camión.
+Para	empatar	las	juntas	longitudinales	consecutivas	y las
+transversales, no debe excederse en el rastrillo manual, de
+manera que no exista segregación en la textura de acabado.
+Previamente a la compactación inicial, debe repararse todo
+aquel bajo que se observe en la superficie.
+Después de tendidas y corregidas las fallas, se procederá a
+iniciar la compactación estando la carpeta asfáltica a una
+temperatura de entre 90 y 100° C. En esta operación inicial
+debe observarse que no se desplace la mezcla por efecto del
+rodillado, en caso contrario, se dejará que baje la temperatura
+y probar nuevamente.
+La compactación del concreto asfáltico, se hará mediante un
+rodillo támdem de preferencia y rodillo neumático.
+El equipo avanzará longitudinalmente a media máquina del
+eje	hacia	las	cunetas,	cuando	se	trate	de	pavimentar
+confinados y en sentido contrario, cuando sean sin confiar.
+
+VI- 021.-CALIDAD DE LOS MATERIALES:
+
+A. Producto asfáltico F 2.3 para el riego de "liga".
+
+CARACTERISTICA	F22
+F23
+P. de encencido en copa tagliabue,
+°C mínimo	35
+Viscosidad Saybolt-Furol, seg. a 60°C	100 a 200	100 a 250
+Penetración del asfalto básico	80 a 100	80 a 100
+Destilación a 225° C	40	25
+260°C	65	55
+315°C	87	83
+Residuo de la destilación hasta 360°C.
+% en volumen por diferencia mínima.	67	73
+Penetración residuo de la destilación
+a 250° C/100 grs/5 segundos	80 a 120	80 a 120
+
+B. Material pétreo para concreto asfáltico:
+
+CARACTERISTICAS	DESEABLE
+ADECUADA
+0.75 del espesor	0.5 del espesor
+Tamaño máx. Part. mm. a 38 mm. máximo a 38 mm. máximo
+%Tamiz N° 200	0	1 múimo.
+Humedad, %	0	1 máximo.
+índice plástico %	0	5 máximo.
+Equivalente de arena. %	60 min.	55 mínimo.
+Desgaste los ángeles. %	30 máx.	40 máximo
+Partículas alargadas y/o en
+forma de laja, %	25 máximo	50 máximo.
+
+Granulometría alojada totalmente en la gráfica.
+C. Cemento asfáltico:
+
+CARACTERÍSTlCA	Ca.3
+Ca.6	Ca.7
+Punto de encendido en
+C. A. C. °C mínimo	220	230	240
+Penetración a 25°C/l00 grs/5
+segundos 1	80 a 200	80 a 100 60 a 70
+Punto de fusión. °C	27 a 43	45 a 52 48 a 56
+Solubilidad en S 2 C.	99.5	99.5	99.5
+Ductibilidad a 25° C cms.	100	100	100
+Pérdida por calentamiento,
+% máximo	1	1	0.5
+
+
+
+D. Concreto asfáltico:
+Tipo de tránsito	Muy pesado
+y pesado	Medio
+Liviano
+N°. de golpes/ lado	75 .	50	35
+Prop. que se aprueba	Min. Max	Min. Max. Min. Max.
+Estabilidad en todos los
+mezclados, Kgs.	750	500	500
+F L U J O. Mm.	4	-5	6
+Huecos con aire; agregado
+máximo de 19.05 mm.	3-5	3-5	3-5
+Huecos con aire; agregado
+máximo de 6.35 mm.	5-7	6-8	6-8
+Huecos ocupados por el C.A.
+agregado máximo de 19.05 mm 75-85	75-82	75-82
+Agregado máximo de 6.35 mm.. 65-75	65- 72	65-72
+
+VI-022.- CONDICIONES DE CAMPO:
+Para dar por revisada y aceptada la carpeta asfáltica, deberá
+de presentar los siguientes requisitos:
+a). Alineamiento niveles y sección serán los indicados en el
+proyecto.
+h). Compactación de entre 95 y 100% con relación al peso
+volumétrico obtenido en la prueba Marsall.
+c). Permeabilidad 10% máximo.
+d). Libre de calificaciones.
+e). Depresiones y/o bordos 0.5 cms. máximo (utilizando una
+regla de 3.00 mts. en cl sentido longitudinal y transversal).
+
+f). ESPESORES SEGUN:
+(el-e)2 + (e2-e)+ +(ch-e)2 0.11e
+h
+Para la carpeta asfáltica /er - e/e.
+Con el 93% de los casos, como mínimo, en donde:
+e = Espesor de proyecto.
+e, e2... en = er = Espesores medidos físicamente en la obra e
+= cl + c2 + ... ch = Espesor real promedio correspondiente a
+todos los puntos en prueba.
+h = Número de verificaciones del espesor real hechos en
+obra.	La	longitud	de	cada	tramo	será	de	un	kilometro	o
+menos.
+Los espesores serán determinados aprovechando el tendido
+del concreto asfáltico y de las pruebas de compactación, pero
+si es necesario se abundará en sondeos según lo indique
+SUPERVISOR.
+g). Limpieza general de todo residuo de mezcla y asfaltos.
+
+QUINTA PARTE
+
+VII.- ALUMBRADO PUBLICO
+
+VII- 001.- MATERIALES:
+Los materiales que serán empleados en la construcción de
+alumbrado público deberán de cumplirse con los requisito
+normas en vigor del Código Nacional Eléctrico y de Secretaría
+de Industria y Comercio.
+
+a).Tubo Conduit. Deberá ser tubo de plástico, color naranja
+en los diámetros indicados en el proyecto.
+
+b). Registros. Serán de tubo de concreto f'c = 200 Kgs/cm de
+30 cms. de diámetro y tapa de concreto reforzado con acero.
+
+c). Bases. Las bases para l~ arbotantes se construirán de
+concreto f'c = Kgs/cm2 y de 40 x 40x 110 cms; se colocarán
+cuatro anc. de acero de 19 mm. De diámetro por un (1) metro
+de longitud.
+
+
+
+d). Cable y alambre: El cable y alambre serán de cobre y con
+forro TW calibres Pt 1/0 a Pt 12, para 600 volts. (según
+indicaciones del proyecto).
+e).	Arbotantes.	Fabricado	de	lámina	cal.	Pt	11	calidad
+estructural	A-.36.	Será	cubierto	totalmente de galvanizado
+inmerso en caliente, así como todos sus accesorios. Serán
+para una altura de 10.00 y 7.50 mts. cónico circular liso con
+uno	o	dos	brazos	tipo	CH	y	octagonal	de	un	brazo
+respectivamente.
+f). Luminaria. Será autopalastrado, de vapor de sodio de alta
+presión de 220 volts y 60 ciclos, marca LUMINISISTEMS
+“SM", modelo CROMALITE CUTOF o similar, fabricado de
+aluminio inyectado a presión para curva 11, conforme a I. E.
+S., equipado con SOCKET ajustable, filtro de carbón, balastro
+marca ADVANCE o similar, tipo regulador:
+
+LAMPARA	CATALOGO
+400 watts.	C R C O -F o similar
+250 watts.	C R C O -D o sirÍ1ilar
+150 watts.	C R C O -M o similar
+
+VII- 002.-TRANSFORMADORES Y EQUIPO PARA
+PROTECCION Y ENCENDIDO:
+
+a). Transformadores. Serán monofásicos de 15.25 y/o 37.5
+KVA.,	13,300/240/120	Volts	con	cuchillas,	apartarrayos	y
+crucetas.
+b). Protección y Encendido. Unidad doble de encendido y
+medición,	incluyendo	Condulet	mufa	de	3.18	cms.	de
+diámetro, base sócket tipo R - 2 C.F.E. caja de lámina calibre
+pt 16 de 30x60X20 cms., fotocelada de dos contactadores
+tamaño 1, interruptor termomagnético, accesorios, cableado y
+material de consumo (Unidad completa).
+
+VII. 003.- CONSTRUCCION:
+
+a). Excavación. La excavación para formar la zanja será de
+15 crns. de sección transversal por 40 cms. de profundidad.
+b). Tendido de tubería. Se instalará la tubería en la zanja en
+los tramos completos de entre los registros, evitando en lo
+posible	pegazones	intermedias.	El	ducto	se	cubrirá	con
+concreto hidráulico de f'c = 150 Kgs/cm2.
+c). Registros. Se harán las perforaciones para la entrada en
+la	tubería	teniendo	precauciones	de	no	dañarla	y	debe
+colocarse en el fondo del registro una capa de grava N° 3 de
+10 cms. de espesor, la tapa será de concreto reforzado, con
+asa para facilitar su movimiento.
+d). Bases. Las bases serán de concreto y se CONSTRUIRAN
+distribuidas	según	se	indican	en	los	planos.	Las	bases
+construidas	deberán	quedar	verticales,	y	los	ejes	de	las
+anclas simétricos a los de la calle.
+e). Alambrado. La introducción del cable en el ducto, debe de
+hacerse con sumo cuidado, evitando de esta manera, rasgar
+el forro. Los tramos por alambrar, deben ser completos, es
+decir, de entre registros. Sus conexiones deben llevar primero
+una cubierta de cinta aislante de hule y después una cinta
+aislante de algodón. El alambrado de cana y brazo, será de
+dos cables TW N° 12
+f). Equipo para protección y encendido. Serán instalados
+conforme	se	indiquen	en	los	detalles	respectivos	en	los
+planos.
+
+SEXTA PARTE
+VIII.- GUARNICIONES Y BANQUETAS
+VIII- 001.- GUARNICIONES:
+GENERALIDADES. Las guarniciones son construidas con la
+finalidad de confinar lateralmente el pavimento, proteger en
+cierta forma al peatón y la cuneta, aloja y drena pequeñas
+cantidades de agua.
+
+R. Ayuntamiento de Torreón, Coah., 1991-1993
+
+Las guarniciones serán construidas de concreto hidráulico de f
+'c	=	200	kgs/cm2.,	de	forma	geométrica	en	su	sección
+transversal como se Indica en los planos.
+Las	guarniciones	serán	apoyadas	directamente	sobre	la
+superficie compacta de la subrasante o de la sub-base según
+las capas del pavimento.
+
+VIII- 002.- CONSTRUCCION:
+Se empleará cimbra de madera y/o metálica, rígida, sujeta
+firmemente mediante estacas de igual material de manera que
+al recibir el concreto hidráulico acomodarlo, vibrarlo y armarIo,
+no se muevan de su posición.
+Previo al colado del concreto, deberá de aplicarse aceite en
+las	caras	de	la	cimbra	que	estarán	en	contacto	con	el
+material.
+La plantilla de apoyo se humedecerá para que no le reste
+agua al concreto y mejore la adherencia también.
+También deben ser checados el alineamiento, niveles y las
+juntas, las que deben ser puestas a cada 3.00 mts. lineales.
+Vaciando	el	concreto	en	los	moldes	se	distribuirá	y
+compactará.
+Cuando se presente el fraguado inicial se retiran las juntas; se
+moldean las aristas y se les da el acabado.
+El curado del concreto debe ser adecuado, pudiendo utilizar el
+sistema de riegos periódicos con agua, arena o tierra húmeda
+y/o membranas químicas.
+El retiro de la cimbra debe hacerse después de alcanzar el
+concreto	una	resistencia	del	60%,	y	procurando	que	la
+guarnición no se rompa o astille al decimbrar.
+
+VIII- 003.- BANQUETAS:
+GENERALIDADES. Las banquetas son elementos rígidos y/o
+flexibles	que	se	construyen	paralelas	en	ambos	lados	y
+simétricos al eje del pavimento. Las banquetas se construyen
+como vía de tráfico do peatones.
+Generalmente	son	de	concreto,	sin	embargo,	pueden	ser
+construidas	de	mezcla	asfáltica,	empedrado,	adoquín	y/o
+baldosas.	La	banqueta,	sea	del	material	que	fuere,	se
+construye sobre la superficie de una plantilla de suelo de
+características limosas compacto al 90% como mínimo.
+Puede empicarse cimbra si se trata de concreto o mezcla
+asfáltica, o bien hilos a "reventón" si se trata de materiales
+sólidos.
+Si	se	trata	de	concreto	hidráulico	se	le	da	el	mismo
+tratamiento a la cimbra y al concreto, tal como se indica en las
+guarniciones.	El	acabado	de	la	superficie	debe	ser
+antiderrapante, con juntas y aristas moldeadas.
+Las dimensiones de las banquetas serán las que se indiquen
+en el proyecto.
+
+SEPTIMA PARTE
+
+IX.- REGULACION DE TRANSITO
+
+IX- 001.- SEÑALES Y MARCAS:
+GENERALIDADES. Los dispositivos para ordenar el tránsito
+son medios físicos que son empleados para indicar al usuario
+la forma correcta y segura con el fin de evitar demoras y en
+caso más grave, accidentes.
+Entre	los	fines	de	estos	dispositivos	es	el	de	prevenir a
+peatones	y	conductores	sobre	peligros	existentes;	dar	a
+conocer leyes y reglamentos, así como restricciones de una
+vía	o	parte	de	ella;	dar	paso	alternativo	a	las	diversas
+corrientes	vehiculares.	Las	señales	de	tránsito	son	los
+
+como	los	semáforos	y	marcas	sobre	la	superficie	del
+pavimento.	La	responsabilidad	en	el	proyecto,	instalación
+
+a). De las dependencias oficiales locales.
+b). Del CONTRATISTA si así lo establece el contrato.
+
+La Gaceta Municipal, Nov. – Dic. De 1993
+
+IX- 001..- CLASES:
+Los dispositivos se dividen en tres clases a saber:
+a). Preventivos: El objeto es informar al usuario de la vía
+sobre los peligros y naturaleza de éstos.
+b). Restrictivos: dar a conocer al usuario de las restricciones
+que impone el reglamento de tránsito local. Las violaciones a
+esta clase de dispositivos constituyen delitos.
+c). Informativos: son guía para el usuario en información a
+su curso y destino.
+
+IX- 003.- FUNCION:
+Para cumplir con su función, los dispositivos deben satisfacer
+los siguientes requisitos:
+1. La razón de un dispositivo de regulación de tránsito, es la
+función que realiza y SI ésta es innecesaria, aquél, no sólo
+será inútil sino también perjudicial.
+
+
+
+
+artificial; usar materias reflejantes para que sean visibles de
+noche y de día. Instalarlos dentro del área que cubre el haz de
+los faros de los vehículos.
+Los dos sistemas de reflectorización más comunes son los de
+botones	formando	figuras	o palabras	y los recubrimientos
+reflejantes.
+3. FORMA. La forma de las señales deben ser sencillas,
+uniformes y especiales para llamar la atención del conductor o
+peatón. La forma puede ser rectangular, cuadrada, triangular,
+redonda u octagonal, aunque en algunas ocasionas sean en
+forma de escudo.
+4. COLOCACION. Las señales deben ser colocadas a alturas
+y distancias mínimas del borde de la guarnición, cuando se
+trate de calles y/o avenidas urbanas y de calles en zonas
+rurales como se indica a continuación:
+2.	Deben	advertir	al	usuario	su	presencia.	Cualquier
+dispositivo	que	pase	inadvertido,	será	totalmente
+contraproducente, aunque el resto de sus cualidades sean
+adecuadas.
+3;	Los	caracteres	en	los	dispositivos	deben	ser	claros	y
+simples, de manera que el usuario lo capte de inmediato.
+4.	Es	preciso	que	los	dispositivos	estén ubicados en	los
+lugares en que den al usuario el suficiente tiempo y espacio,
+para efectuar las maniobras de sus vehículos en función del
+mensaje	del	dispositivo.	Sin	cumplir	este	requisito	un
+
+
+
+
+
+
+
+
+Zona Rural
+dispositivo será inútil y hasta peligroso.
+5. Como conclusión, los dispositivos deben dar sensación de
+respeto a los usuarios y éstos obedecer las indicaciones que
+se les trasmiten en ellos.
+
+IX- 004.- REQUISITOS:
+Los dispositivos dependen mucho de los siguientes factores
+como requisitos mínimos:
+a). DISEÑO. El tamaño, colores, contraste, forma geométrica
+y .composición deben ser factores importantes para que el
+SUARIO los interprete a mayor distancia en el menor tiempo.
+b). POSICION. Debe ser instalado dentro del campo visual
+del usuario.
+c).CONSERVACION. Deberán mantenerse en buen estado
+en todo tiempo, diurno y nocturno. Revisar periódicamente,
+que se encuentren en lugares claros y limpios.
+retirarlos de obras concluidas o de calles y/o avenidas en
+caso de que su función haya terminado.
+
+IX- 005.- CARACTERISTICAS:
+Sumado a lo descrito en IX-003, las características de las
+señales para el tránsito, serán las siguientes:
+1. TAMAÑO. Definitivamente el tamaño de las señales es de
+suma importancia. Para ello deben considerarse: la velocidad,
+las	características	de	la	calle	y/o	avenida.	de	las	zonas
+aledañas, luminosidad de comercios, del mensaje inscrito en
+ellas y otros factores importantes.
+La experiencia a demostrado que el tamaño mínimo debe ser
+de60	cms.	por	lado	para	una	"preventiva"	en	calles	y/o
+avenidas	cuya	velocidad	directriz	baja	sea	menor	de	60
+kms/hra., y con buena visibilidad. En el caso de velocidades
+mayores a ésta, el tamaño mínimo recomendable es de 75
+cms. por lado.
+2. CONTRASTE. Este es importante sobre todo en áreas en
+donde	abunda	la	luminosidad,	como	son	los	centros
+comerciales y otros semejantes.
+El contraste debe ser tal, que el usuario no confunda la señal
+de tránsito con el medio luminoso que lo rodea.
+Los colores de fondo serán blancos y/o amarillos, siendo los
+cateres en negro. Con suficiente iluminación, natural y/o
+
+
+Las señales se colocarán con la orientación de manera que
+no	pierdan	su	efecto	reflector,	pero	que	no	molesten
+deslumbrando al CONDUCTOR, deberán corresponder a la
+corriente vehicular y no con el alineamiento de la vía.
+
+IX- 006.- MARCAS:
+Sobre la superficie del pavimento pueden pintarse o adherirse
+marcas con pintura u objetos sólidos respectivamente. Líneas,
+dibujos o palabras.
+Las	marcas	se	consideran	complemento	de	señalamiento
+para la regulación del tránsito de vehículos y patones, así su
+función es:
+
+a). Guiar o encauzar el tránsito en calles, avenidas y caminos,
+impresas en el eje de éstas.
+b). Para indicar giros, vueltas o cruces especiales.
+c). Como prolongación del tránsito de peatones de la
+banqueta a la calle y/o avenida.
+Las	marcas	sobre	la	superficie	de	los	pavimentos	deben
+hacerse empleando los siguientes materiales:
+1. Pintura simple o reflejante. .
+2. Boyas metálicas o plásticas.
+3. Bordos de concreto hidráulico o asfáltico.
+4. Cristales u objetos acrílicos.
+5. Pernos o tachuelas.
+6. Muros de ladrillo, block o concreto.
+7. Tubos de concreto o plástico.
+8. Termoplásticos.
+
+IX- 007.- SEMAFOROS:
+Los semáforo son aparatos que funcionan mediante energía
+eléctrica su función es la de regular alternativamente el flujo
+vehicular	y	peatonal.	El	semáforo	puede	programarse	de
+manera	que	se	mantenga	una	determinada	velocidad,
+sosteniendo un flujo constante de tránsito. Puede operarse a
+mano. Los semáforos proporcionan las siguientes ventajas: 1.
+Interrumpir un curso vehicular para dar paso a otro en otra
+dirección.
+
+
+
+2. Proporciona orden en la circulación sin que se detengan
+con frecuencia.
+3. Disminuye la frecuencia de choques laterales.
+4. Gobernar la velocidad vehicular coordinando una serie de
+aparatos a lo largo de una calle o avenida, manteniendo un
+flujo regular.
+5. Es más económico que un agente de tránsito, pero más
+caro que una señal.
+
+IX- 008.- COLORES Y SIGNIFICADO:
+
+Los semáforos contienen luces de colores cuyo significado es
+el siguiente: de arriba hacia abajo o de izquierda a derecha
+cuando	son	colocados	en	sentido	vertical	y	horizontal
+respectivamente:
+
+COLOR DEL VIDRIO	SIGNIFICADO
+Rojo	Parar
+Amarillo	Precaución
+Verde	Seguir
+Flecha hacia arriba s	seguir de frente
+Flecha hacia la izquierda	Girar a la izquierda
+Hecha hacia la derecha	Girar a la derecha
+Instrucción a peatones	Cruzar o no
+
+Los semáforos pueden ser colocados en pedestales, colgados
+en ménsulas o suspendidos con cables. Cuando estén sobre
+la banqueta o el pavimento la altura libre debe ser de entre
+2.45	y	4.60	mts.,	y	de	4.60	a	5.20	mts.	cuando	están
+suspendidos.
+El número de caras de un semáforo debe ser proporcional a la
+combinación de la sección transversal de la calle o avenida, la
+velocidad vehicular, la longitud de la hilera de vehículos y la
+proporción de los camiones de gran tamaño,
+Los tipos de semáforo son:
+1. De periodos establecidos
+2. Accionados por el tránsito
+a). Por parte del tránsito,
+b). Por la totalidad del tránsito
+e). Por el volumen y peso del tránsito.
+3. Especiales.
+
+OCTAVA PARTE
+
+X.- REGENERACION DE PAVIMENTOS
+
+GENERALIDADES. La regeneración es un trabajo tendiente a
+restablecer la superficie de rodamiento de los pavimentos,
+rígidos o flexibles, que acusan fallas.
+Las	fallas	pueden	tener	su	origen	desde	su	interior	y
+manifestarse en la superficie, o bien en esta última solamente.
+Las causas pueden ser variadas. Desde un mal diseño de
+espesores; o mala ,construcción, deficiente supervisión, fugas
+de	agua	potable,	gris	o	negra,	drenaje,	incrementos	de
+tránsito	no	previsto	materiales	de	mala	calidad,	años	de
+servicio, falta de mantenimiento, desgastes por abrasión y/o
+intemperismo. Fallas que al final de cuentas ocasionan al
+usuario	un	manejo	incómodo,	inseguro	y	en	ocasiones
+peligroso.
+
+X- 00l.- F A S E S:
+
+Las fases que están consideradas para la regeneración de
+pavimentos fallados son:
+a). BACHEO. Consistente en la reparación de toda aquella
+falta manifestada claramente en la superficie del pavimento.
+b). REHABILITACION. La rehabilitación incluye el bacheo (si
+es necesario) y la construcción de una nueva superficie de
+desgaste a base de:
+
+R. Ayuntamiento de Torreón, Coah., 1991 - 1993
+
+1. Tratamientos superficiales.
+2. Siurry Seal.
+3. Carpeta asfáltica (fría o caliente).
+
+c).	RECONSTRUCCION.	Este	trabajo	consiste	en	la
+demolición y construcción de un pavimento nuevo.
+
+X. 002.- TRABAJOS PREVIOS:
+
+Para llevar a cabo los trabajos de las Cases anteriormente
+descritas, excepto la de bacheo, es indispensable contar con
+una información detallada de las condiciones generales de la
+calle o avenida, así como otros datos importantes.
+La información de datos son:
+1. INSPECCION. Efectuar una inspccci6n de toda el área por
+regenerar:
+a). Tipo, cantidad, intensidad y frecuencia de las fallas.
+b). Probables causas.
+e). Ceso de servicios públicos existentes y faltantes (oficiales
+y domiciliarios).
+d). Drenens pluviales domiciliarios.
+e). Fugas de agua potable, gris o negra.
+f). Condiciones de banquetas y guarniciones.
+g). Areas verdes.
+2. DATOS TECNICOS.
+a). Levantamiento topográfico de detalles y nivelación.
+b). Informes de los diseñó de espesores anteriores.
+c). Aforo del tránsito actual.
+C 1. Tipo
+C 2. Carga
+C 3. Intensidad.
+a). Muestreo y análisis cualitativo de los materiales existentes,
+incluyendo espesores y compactación.
+3. CRITERIO. En base a la irnormaci6n y datos anteriores, se
+diseñará la nueva superficie de rodamiento o los espesores
+del	pavimento,	si	es	rehabilitación	o	reconstrucción
+respectivamente.
+
+X- 003.- B A C H E O:
+
+Cuantificadas	y	marcadas	las	áreas	de	fallas	por	el
+SUPERVISOR, el proceso de reparación será el siguiente:
+1.	Cortar,	remover	y	extraer	todo	el	mal	erial	que	esté
+afectado.
+2. Compactar plantilla.
+3.	Reponer	con	materiales	adecuados;	espesores	y
+compactación según proyecto. .
+*4. Impregnación asfáltica de base y paredes del bache.
+*5. Liga asfáltica; colocación y compactación de mezcla de
+concreto asfáltico.
+* En pavimento flexible.
+Si el bacheo es sobre el pavimento rígido, debe emplearse
+concreto hidráulico de resistencia y espesor según proyecto.
+
+X- 004.- REHABILITACION:
+
+La calle o avenida bacheada se sujetará al tránsito durante un
+periodo mínimo de quince días (15). Después de este tiempo
+se hará una revisión de las áreas bacheadas para cerciorarse
+de que no haya fallas. En caso contrario, se procederá a
+repararlas	repitiendo	la	operación tantas	veces	como	sea
+necesario.
+Los pasos siguientes son:
+
+1. Preparación de la superficie, estriado rayado o perforado,
+mediante herramientas manuales o máquina con rodillos de
+"picos”.
+2. Limpieza del área eliminando grasas, aceites, basura, agua
+y/o tierra.
+
+La Gaceta Municipal, Nov. - Dic., de 1993
+
+3. Aplicación del riego de "liga".
+4. Uniformar el riego mediante un rodillo neumático.
+5. Construcción de la carpeta asfáltica.
+NOTA: La renivelación de las tapas de registro, alcantarillas y
+zanjas, pueden hacerse antes o después del punto 2.
+
+X- 005.- RECONSTRUCCION:
+La reconstrucción del pavimento se efectuará conforme lo
+descrito en VI-007, VI-008, VI-009, (Sub-rasante), VI-010, VI-
+011, VI-0012. VI-0013, Vl-0014, VI0015, VI-0016, VI-0017, VI-
+0018, VI-0019, VI-0020, VI-0021, y VI-0022.
+
+NOVENA PARTE
+
+XI- CONTROL DE CALIDAD
+
+XI- 001.-LABORATORlO:
+LA DIRECCION, inspeccionará y en su caso autorizará al
+LABORATORIO	que	se	encargara	de	llevar	el	control	de
+calidad en las obras.
+El	LABORATORIO	debe	contar	con	personal	técnico
+capacitado,	instalaciones,	equipo,	solvencia	moral	y
+económica.
+Una vez cumplidos los requisitos se le dará la categoría de
+auxiliar del SUPERVISOR.
+
+XI- 002.- TRAMITES:
+El plano de la obra sea cual fuere la categoría deberá estar
+autorizado por la DIRECCION. Esta fijará el tipo, intensidad y
+carga del tránsito esperado en la obra, será el parámetro
+básico	para	el	diseño	del	pavimento.	EL	LABORATORIO
+determinará el resto de las cualidades del suelo, así como los
+siguientes datos:
+a). Clase y/o tipo de suelo que subyace al de sub-rasante de
+acuerdo a lo siguiente:
+
+TIPO DE TRANSITO	PROFUNDIDAD, CMS.
+Ligero	30
+Medio	40
+Pesado	50
+Muy pesado	60
+
+b). Cantidades de obra que serán controladas.
+
+c). Tipo y número de pruebas en:
+C 1- Laboratorio
+C 2- Campo
+
+d). Diseño de espesores del pavimento flexible.
+
+XI- 003.- DISEÑO DE PAVIMENTO:
+El diseño de pavimento será considerado como "preliminar”,
+mientras	subsistan	o	cambien	sus	características	físico-
+mecánicas	de	acuerdo	al	análisis	preliminar.	El
+LABORATORIO	deberá	informar	a	la	DIRECCION,	del
+muestreo, análisis, informes, recomendaciones, y en general
+de todo aquello que juzgue importante para el beneficio de la
+obra.	El	muestreo	de	suelos	y/o	materiales,	puede	ser
+efectuado:
+1. Por unidad de volumen, are a y/o longitud.
+2. Al azar.
+Los parámetros para el diseño serán:
+1. Valor relativo de soporte 10% mínimo
+
+
+
+2. Cargas de tránsito:
+Ligero	8000	a	9 100
+Medio	9101	a	11000
+Pesado	11001	a	16300
+Muy pesado	16301	a	18000
+
+Cargas en Kgs. por eje sencillo.
+
+XI- 004.- PATRONES DE COMPARACION:
+Las pruebas de comparación, requisitos y gráficas para los
+diferentes suelos, serán:
+a).	Para	los	suelos	de	terraplenes,	terracerrías	y/o	sub-
+rasante clasificar por S.U.C.S.
+
+b). Para suelos finos arcillosos y gruesos la determinación del
+peso	volumétrico	máximo	seco	y	la	humedad	óptima	e
+compactación, será mediante las pruebas:
+
+EQUIPO	PROCTOR	PORTER
+Peso del pizón, grs.	4600	4600
+Altura, cms.	45	45
+Golpes por capa	25	25
+N°. de capas	5	5
+Volumen, c.c.	944	2480
+
+c). Materiales pétreos de sub-base, base y carpeta asfáltica
+ver VI- 014 y VI- 021-B.
+d). Productos y cementos asfálticos; ver VI-017, VI-021-A VI-
+021-C.
+e). Concreto asfáltico ver VI- 021- D.
+f). Compactación ver: VI-010-d, VI-015-b y VI-O22-b.
+g). Permeabilidad en carpeta asfáltica, 10% máximo.
+h).	Concreto	hidráulico	f'c	=	200	kgs/cm2	(banquetas
+guarniciones) y revenimiento de 8 a 10 cms.
+
+XI- 005.- MUESTRO:
+La frecuencia de muestreo de acuerdo a las distintas etapas
+del pavimento, será:
+
+ETAPAS	M U E S T R E O	U N I D A D
+CANTlDAD	UNIDAD
+
+1. Terraplenes y/o terracerías:
+a). P.V.5.M. y wo.	1	cada cambio
+b). Compactaciones	20	100 mts. lineales
+a dif. Nivela
+
+2. Sub-rasante:
+1). P.V.S.M. y wo.	1	cada cambio
+b). Compactaciones	5	1000 m2.
+
+3. Sub-base:
+a). Análisis cualitativo	1	500 m3.
+b). Compactaciones	1	200 m2.
+
+4. Base:
+1). Análisis cualitativo	1	500 m3
+b). Compactaciones	1	200 m2
+
+5. Productos asfálticos:
+1). Análisis cualitativos	1	30.000 Hs.
+
+6. Mezcla asfáltica:
+1). Estudio Marshall.	1	1,000 m3.
+
+
+
+
+7. Carpeta asfáltica:
+a). Estabilidad 3 1,000 m2.
+b). Compactaciones 1 1,000 m2.
+c). Permeabilidad 3 1,000 m2.
+
+8.) Concreto hidráulico:
+a). Guarniciones:
+Esfuerzo Unitario 3 100 mis.
+Revenimiento 3 100 mis.
+b). Banquetas: P.V.S.M. (plantilla) 1 1,000 m2.
+Esfuerzo unitario 1 100 m2.
+Revenimiento 1 100 m2.
+
+APENDICE 1
+
+A- SALUD AMBIENTAL:
+
+Será considerado como infracción todo aquello que pueda
+afectar en modo alguno a la salud ambiental, tal como:
+
+R. Ayuntamiento de Torreón, Coah., 1991 – 1993
+
+1.	Depositar	desechos	de	cualquier	naturaleza	en	la	vía
+pública.
+2. Depositar o incinerar desechos de cualquier naturaleza en
+lotes baldíos.
+3. Incineración de desechos de cualquier naturaleza en la vía
+pública.
+4. No drenar el agua de lotes baldíos.
+5. No bardear lotes baldíos en colindancia con la vía pública.
+6. No construir banquetas en vía peatonal.
+7. La Dirección de Planificación, Urbanismo y Obras Públicas,
+construirá bordos y banquetas, en predios particulares con
+cargo a los propietarios (aviso previo). 8. Queda prohibida la
+construcción	de	bordos	de	concreto	en	la	vía	pública
+vehicular.
+9. Sólo será permitida la construcción de bordos de concreto
+en casos y lugares muy especiales. La sección transversal y
+el dimensionamiento de los bordos será autorizado por la
+Dirección de Planificación, Urbanismo y Obras Públicas.
+10. Para el control del flujo y velocidad del tránsito en lugares
+o	zonas	específicas,	se	instalará	un	sistema	de
+semaforización programado, así como el auxilio de escolares
+y agentes de crucero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This document was created with Win2PDF available at http://www.daneprairie.com.
+The unregistered version of Win2PDF is for evaluation or non-commercial use only.
