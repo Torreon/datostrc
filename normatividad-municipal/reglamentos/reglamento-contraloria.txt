@@ -1,0 +1,756 @@
+﻿
+REGLAMENTO INTERIOR  DE LA CONTRALORIA DEL MUNICIPIO
+DE TORREÓN.
+
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+CAPITULO I 
+DEL OBJETO Y DEFINICIONES.
+Artículo 1.- El Presente Reglamento tiene por objeto establecer las bases de organización y funcionamiento del Órgano Interno de Control del Municipio de Torreón, Coahuila, que para efectos de este Reglamento se denominará, indistintamente, Contraloría Municipal u Órgano Interno de Control.
+Artículo 2.- La Contraloría Municipal tiene las facultades y obligaciones específicas que le dan el Código Municipal para el Estado de Coahuila de Zaragoza, en sus artículos 132, 133 y 134.
+Adicionalmente, tiene facultades en diversos ordenamientos legales, municipales, estatales y federales en materia de evaluación, vigilancia, supervisión, fiscalización, revisión, evaluación, control y sanciones, transparencia, rendición de cuentas, anticorrupción, además de las que en su momento le encomiende el Presidente Municipal, relacionadas con sus funciones principales.
+Artículo 3.- Para los efectos de este Reglamento, se establecen los siguientes significados y términos:
+I.- Municipio.- El Municipio de Torreón, Coahuila de Zaragoza.
+II.- Ayuntamiento.- El Órgano de Gobierno del Municipio de Torreón, Coahuila de Zaragoza, integrado por un Presidente, dos síndicos y 17 Regidores, elegidos constitucionalmente, en forma democrática y directa.
+III.- H. Cabildo.- Honorable Cabildo, o el Republicano Ayuntamiento reunido en Sesión, como cuerpo colegiado del Gobierno Municipal de Torreón, Coahuila de Zaragoza.
+IV.- R. Ayuntamiento.- Republicano Ayuntamiento.
+V.-Presidente Municipal.- El Presidente Municipal Constitucional del Republicano Ayuntamiento de Torreón, Coahuila de Zaragoza.
+VI.- Alcalde.- El Presidente Municipal.
+VII.- Dependencias.- Unidades de la Administración Pública Municipal de Torreón, Coahuila.
+VIII.- Organismos Descentralizados.- Dependencias o Unidades Administrativas que operan con recursos transferidos de la Tesorería Municipal y que operan fiscalmente con el mismo Registro Federal de Causantes que el Municipio. 
+IX.- Organismos Paramunicipales o Administración Paramunicipal.- Unidades administrativas que operan con un Registro Federal de Causantes diferente al del Municipio, pero que fueron creadas por acuerdo de Cabildo del propio Municipio. 
+X.- Contraloría Municipal.- Indistintamente, Contraloría u Órgano Interno de Control del Municipio de Torreón, Coahuila de Zaragoza.
+XI.- Servidor Público Municipal.- Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, rango y nivel jerárquico, dentro de la Administración Pública del Municipio de Torreón, que incluye a las dependencias centralizadas y organismos descentralizados y paramunicipales.
+XII.- Contralor Municipal.- El Titular del Órgano Interno de Control Municipal.
+XIII.- ASE.- Auditoría Superior del Estado de Coahuila de Zaragoza.
+XIV.- ASF.- Auditoría Superior de la Federación.
+XV.- Unidad de Transparencia.- Unidad Administrativa, dependiente de la Contraloría Municipal, responsable de la observancia de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza, que el Municipio de Torreón como sujeto obligado, con todas sus áreas y dependencias, debe de cumplir.
+XVI.- Transparencia.- Transparencia de la Información Pública, Rendición de Cuentas, Acceso a la Información Pública y Protección de datos Personales.
+XVII.- Unidad de Mejora Regulatoria.- Unidad administrativa, dependiente de la Contraloría Municipal, responsable de la observancia de la Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza en todas y cada una de las áreas del Municipio de Torreón.
+XVIII.- Padrón de Proveedores.- Unidad Administrativa dependiente de la Contraloría Municipal responsable de la recepción de solicitudes, cotejo de la información, valoración y expedición, en su caso del Certificado de Aptitud para ser Proveedor de Bienes o Contratista del Municipio de Torreón, en los términos de la normatividad en la Materia.
+XIX.- Coordinación Jurídica de la Contraloría.- Unidad Administrativa de la Contraloría Municipal responsable de llevar el control y atención de todos y cada uno de los asuntos jurídicos de la Contraloría Municipal y del Contralor, relacionados con el desempeño de su función pública.  
+XX.- Sistema de Control y Evaluación Municipal.- Al Sistema de Control y Evaluación del Ejercicio del Gasto y del ingreso y su congruencia con la estructura organizacional y el Conjunto de Trámites y Servicios, en una perspectiva sistémica.
+XXI.- Oficialía de Partes.- Departamento dependiente directamente del Contralor Municipal, encargado de la recepción y expedición de toda la documentación oficial del Organo Interno de Control, así como de su resguardo, administración y control, para todos los fines administrativos y legales que le corresponden. 
+Artículo 4.- Todo servidor público adscrito a la Contraloría Municipal tiene las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y su incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que incurra, y sin perjuicio de sus derechos laborales:
+I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
+II.- Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos;
+III.- Utilizar los recursos que tenga asignados para el desempeño de su empleo, cargo o comisión con eficacia, eficiencia, honradez, pulcritud y transparencia.
+IV.- Asumir las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que estén destinados;
+V.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebida de aquéllas;
+VI.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste, evitando la discriminación y segregación de las mismas, por razón de sexo, edad, preferencias sexuales, creencias religiosas, estado de gravidez, antecedentes penales, ideología, o cualquier otra que signifique un detrimento hacia la igualdad de las personas;
+VII.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+VIII.- Observar respeto y subordinación legítima, con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que estos dicten en el ejercicio de sus atribuciones;
+IX.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellas de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+X.- Informar por escrito al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
+XI.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos, mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción IX, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate, en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+XII.- Desempeñar su empleo, cargo o comisión, sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobadas que el Estado, Municipio o entidades paraestatales o paramunicipales, le otorguen por el desempeño de su función, sean para él o para las personas a que se refiere la fracción IX;
+XIII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción IX;
+XIV.- Presentar con oportunidad y veracidad la Declaración de situación patrimonial, ante órgano estatal de control;
+XV.- Cuando recibe o culmina el Cargo Público, llevar a cabo lo conducente en materia de Entrega Recepción, conforme a la normatividad vigente.
+XVI.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las disposiciones que al efecto se dicten; 
+XVII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público; 
+XVIII.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
+El incumplimiento de estas obligaciones será sancionado como falta administrativa.
+CAPÍTULO II 
+ATRIBUCIONES Y RESPONSABILIDADES DE LA CONTRALORÍA MUNICIPAL.
+
+Artículo 5.- La Contraloría Municipal tiene definidas sus atribuciones y responsabilidades directas en la normativa siguiente:
+I.- Constitución Política de los Estados Unidos Mexicanos, Artículos 115, 113 y 134.
+II.- Constitución Política del Estado de Coahuila de Zaragoza.
+III.-  Código Municipal para el Estado de Coahuila de Zaragoza, Artículos 132, 133 y 134.
+IV.- Reglamento Orgánico de la Administración Pública Municipal de Torreón, Coahuila de Zaragoza.
+V.- Código Financiero para los Municipios del Estado de Coahuila de Zaragoza.
+VI.- Ley de Responsabilidades de los Servidores Públicos del estado de Coahuila y sus Municipios;
+VII.- Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila.
+VIII.- Ley de Entrega Recepción para el Estado de Coahuila y sus Municipios.
+IX.- Ley para prevenir y sancionar las prácticas de corrupción en los procedimientos de contratación pública del Estado de Coahuila de Zaragoza y sus Municipios.
+X.- Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza.
+XI.- La Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza. 
+XII.- La Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza.
+XIII.- Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza.
+XIV.- Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza.
+
+
+ Adicionalmente, tiene atribuciones y responsabilidades en la aplicación y observancia de normativas constitucionales y federales, relacionadas, supletorias, equivalentes y complementarias, necesarias para garantizar el desempeño eficiente, eficaz, ético y transparente de la Administración Pública Municipal, en términos de los artículos 79, penúltimo párrafo; 113, 127, 128 y 134 de la Constitución Política de los Estados Unidos Mexicanos.
+Artículo 6.- En atención a lo que establece el Código Municipal, en su artículo 132, el control interno, la evaluación municipal y la modernización administrativa estarán a cargo del órgano de control interno municipal, que se denomina Contraloría Municipal y el cual tiene a su cargo la vigilancia, fiscalización, control y evaluación de los ingresos, gastos, recursos, bienes, funciones, atribuciones y obligaciones de la Administración Pública Municipal.
+Jerárquicamente la Contraloría Municipal depende del Presidente Municipal y como Órgano Interno de Control ejerce sus facultades y atribuciones sobre toda la estructura organizacional del Municipio, centralizada, descentralizada, desconcentrada y paramunicipal, fideicomisos y cualesquier otra figura o persona física o moral, que disponga de recursos públicos, monetarios, materiales, tangibles o intangibles, para el desempeño de sus actividades. 
+Artículo 7.- La Contraloría Municipal, tiene las facultades y responsabilidades siguientes: 
+I.- Planear, programar, organizar y coordinar el Sistema de Control y Evaluación del Ejercicio del Gasto Público Municipal, fiscalizando el ingreso y su congruencia con el Presupuesto de Egresos.
+II. Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado y aplicarla en los casos que proceda.
+III. Aplicar las normas y criterios de control y evaluación, vigilando su cumplimiento.
+IV. Realizar auditorías, inspecciones, verificaciones y evaluaciones a todas las dependencias y entidades de la Administración Pública Municipal y paramunicipal.
+V. Designar a los auditores externos y proponer al Ayuntamiento, en su caso, a los Comisarios de los organismos descentralizados y entidades paramunicipales.
+VI. Vigilar que los ingresos municipales sean enterados a la tesorería municipal conforme con los procedimientos contables y disposiciones legales aplicables.
+VII. Vigilar que los recursos federales y estatales asignados a los ayuntamientos se apliquen en los términos estipulados en las leyes, reglamentos, convenios, programas y manuales respectivos.
+VIII. Intervenir, para efectos de verificación y control, en los contratos que emanen de la celebración de convocatorias y licitaciones, y vigilar el cumplimiento de dichos contratos.
+IX. Vigilar el cumplimiento de las obligaciones de proveedores y contratistas de la Administración Pública Municipal.
+X. Establecer y operar un sistema de quejas, denuncias y sugerencias.
+XI. Participar en la entrega-recepción de las unidades administrativas de las dependencias, entidades y fideicomisos públicos municipales y ejercer las atribuciones que le otorga la Ley de Entrega Recepción del Estado y Municipios. 
+XII. Supervisar el inventario general de bienes muebles e inmuebles propiedad del municipio, verificando los datos de identificación y el destino de los mismos.
+XIII. Verificar que los Servidores Públicos Municipales cumplan con su obligación de presentar la declaración de situación patrimonial en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+XIV. Turnar al Síndico los asuntos cuyos hechos se consideren constitutivos de delito a fin de que éste presente la denuncia y/o querella correspondiente ante el Ministerio Público, presentándole para tal efecto la colaboración que se le requiera.
+XV. Promover, instrumentar, evaluar y coordinar todos los programas de modernización y mejoramiento de la Administración Pública Municipal.
+XVI. Promover, instrumentar, evaluar y proponer las medidas tendientes a la simplificación de los trámites, servicios y procedimientos internos de la administración pública municipal, en los términos de la Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza y los Reglamentos que en la materia apruebe el H. Cabildo. 
+XVII.- Vigilar el cumplimiento de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza y promover, proponer, instrumentar evaluar programas, proyectos y acciones en materia de Protección de Datos Personales, Datos Abiertos, acceso a la información pública y rendición de cuentas.
+XVIII.- Promover, instrumentar, administrar y evaluar el Sistema Municipal de Administración de Riesgos, general y por vertientes y áreas a partir de la normativa internacional vigente. 
+XIX.- Vigilar la observancia de la Ley para prevenir y sancionar las prácticas de corrupción en los procedimientos de contratación pública del Estado de Coahuila de Zaragoza y sus Municipios.
+XX.- Vigilar el cumplimiento de la Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza y la participación del Municipio en el Sistema Estatal de Archivos Públicos.
+XXI. Conocer, investigar, instruir y tramitar de oficio o a petición de parte, los actos, omisiones y conductas no permitidas de los servidores públicos, para fincar las responsabilidades administrativas, en su caso y aplicar las sanciones correspondientes en los términos que las leyes y este reglamento señalen.
+XXII. Las demás que le señalen este código, las leyes y reglamentos aplicables, así como las que le asignen el Ayuntamiento y el Presidente Municipal.
+Artículo 8.- Para ser Contralor Municipal se requiere:
+ I. Ser ciudadano mexicano en pleno uso de sus derechos. 
+II. Tener los conocimientos suficientes para poder desempeñar el cargo a juicio del Ayuntamiento, previa presentación de la documentación que avale su experiencia; 
+III.- Ser profesionista, titulado, de las áreas contables, económicas o administrativas, con experiencia mínima de cuatro años. 
+IV. No haber sido inhabilitado para desempeñar empleo, cargo o comisión, ni condenado en proceso penal cuya pena sea privativa de libertad, por delito intencional. 
+V. Ser propuesto por el Presidente Municipal al H. Cabildo Municipal de Torreón, Coahuila.
+VI.- Ser aprobado por el Cabildo en Sesión Pública y mayoría simple.
+Cumplir con los demás requisitos que le señalen las leyes, o acuerde el Ayuntamiento.
+Artículo 9.- Corresponde al Contralor Municipal ejercer las atribuciones no delegables siguientes:
+I.- Presentar al Presidente Municipal la propuesta de Programa General de Trabajo de la Contraloría y su participación en el Plan de Desarrollo Municipal.
+II.- Presentar anualmente el Programa Operativo de la Contraloría Municipal, para su consideración y aprobación en su caso.
+III.- Delegar en los titulares de las Unidades Administrativas de la Contraloría, de acuerdo al presente Reglamento, las funciones y obligaciones necesarias para el cumplimiento de los objetivos de la Contraloría.
+IV.- Revisar, evaluar, aprobar y supervisar, en su caso,  el cumplimiento de los Programas Operativos de las Unidades Administrativas a su cargo.
+V.- Establecer las disposiciones y lineamientos de carácter general para el buen despacho de los asuntos de su competencia, así como establecer, dirigir y controlar la política general de la Contraloría.
+VI.- Informar al Presidente Municipal con la periodicidad que se le requiera, sobre los avances y requerimientos del Órgano Interno de Control, respecto al alcance de objetivos y metas.
+VII.- Designar de entre los servidores públicos adscritos a la Contraloría, a quien lo represente ante los distintos eventos, Comités, Consejos, Comisarías u otros organismos de los cuales sea integrante, siempre y cuando no exista disposición que lo impida. 
+VIII.- Emitir el Dictamen sobre los Avances Financieros y la Cuenta Pública, en los términos de la Ley de Fiscalización Superior del Estado de Coahuila de Zaragoza y los lineamientos que en su caso emita la Auditoría Superior de Fiscalización, para el Municipio y todos y cada uno de sus organismos descentralizados y desconcentrados. 
+IX.- Instrumentar la Ley de Responsabilidades de los Servidores Públicos del Estado de Coahuila y sus Municipios, en los casos en que así se amerite.
+X.- Informar al Presidente Municipal los casos irregulares detectados, que violan la normatividad municipal y dan motivo al inicio de procedimientos de responsabilidad administrativa.
+XI.- Presidir el Comité Técnico de Sanciones a fin de evaluar los proyectos de fincamiento de responsabilidades que le presente la Coordinación Jurídica y levantar los acuerdos respectivos para su debida ejecución.
+XII.- Fincar los pliegos definitivos de responsabilidad administrativa a los servidores públicos que hayan incurrido en faltas a la normatividad, hayan sido omisos en el cumplimiento de sus obligaciones, ocasionado daño patrimonial o actuado contrarios a la ética y probidad del servidor público. 
+XIII.- Coordinar las acciones del Órgano Interno de Control Municipal, con la Secretaría de Fiscalización y Rendición de Cuentas del Estado de Coahuila, la Auditoría Superior del Estado, la Auditoría Superior de la Federación y el Instituto Coahuilense de Acceso a la Información Pública, entre otros órganos fiscalizadores.
+XIV.- Mantener las relaciones institucionales adecuadas, suficientes y oportunas con la Comisión de Contraloría y Transparencia Municipal del H Cabildo del Municipio, en los términos de la normatividad vigente.
+XV.- Dictaminar la Cuenta Pública Municipal, de Organismos Descentralizados y Paramunicipales y verificar sean remitidos al Congreso del Estado los informes de Avance de Gestión Financiera de topos y cada uno de ellos.
+XVI.- Presentar al final de cada ejercicio, el informe de actividades que a la Contraloría compete, a efecto de que se integre al Informe General del Gobierno Municipal y acorde a los objetivos y metas planteadas originalmente en el Plan de Desarrollo Municipal.
+CAPITULO III 
+DE SU ESTRUCTURA ORGANIZACIONAL.
+
+Artículo 10.- Para el despacho de los asuntos de su competencia, la Contraloría Municipal se auxiliará de las Unidades Administrativas siguientes:
+I.- Una Coordinación de Transparencia y Acceso a la Información Pública que estará integrada con al menos los departamentos siguientes:
+Unidad de Atención a Solicitudes de Transparencia.
+Unidad de Datos Abiertos.
+Unidad de Protección de datos.
+Módulo de Transparencia.
+Cultura de Transparencia.
+
+	II.- Una Unidad de Mejora Regulatoria.
+Departamento de Normatividad y Vigilancia.
+Registro de Trámites y Servicios.
+Administración Web
+
+III.- Una Coordinación Jurídica.
+Responsabilidades Jurídico Administrativas.
+Control de Entrega Recepción.
+Quejas y Denuncias
+
+IV.- Una Unidad del Padrón de Proveedores.
+Recepción de Documentos
+Valoración de Solicitudes
+Archivo
+Expedición y Control
+
+V.- Una Dirección de Auditoría Financiera.
+Departamento de Auditoría Financiera.
+Departamento de Cuenta Pública.
+
+VI.- Una Dirección de Auditoría Administrativa.
+Licitaciones y Contratos.
+Bienes Muebles e Inmuebles.
+Vigilancia y evaluación de Recursos Humanos.
+Administración de Riesgos.
+Auditoría de Procesos.
+
+VII.- Una Dirección de Auditoría a Obra Pública y Programas Sociales.
+Departamento de Auditoría a Obra Pública. 	
+Departamento de Auditoría a Programas Sociales.
+
+VIII.- Una Coordinación Administrativa.
+IX.- Una Oficialía de Partes.
+Adicionalmente, se auxiliará de las Jefaturas de Departamento correspondientes, servidores públicos, asesores, órganos técnicos y administrativos que correspondan y en su momento, se requieran, previa autorización del Presidente Municipal.
+Artículo 11.- Para el desempeño de la función de Comisario o equivalente en los órganos desconcentrados y paramunicipales, el Contralor Municipal integrará, contratará y dirigirá personal, funciones y atribuciones que le correspondan, con cargo al Presupuesto de esas instancias, en los términos que acuerde el Órgano de Gobierno o Consejo Directivo que corresponda y de acuerdo a su propia normatividad.
+Artículo 12.- El cargo de Comisario del SIMAS no es delegable, aunque eventualmente podrá designar representante o Comisario Suplente.
+Para el desempeño adecuado, oportuno y suficiente de la labor de Comisario, el Contralor Municipal podrá contratar al personal técnico que lo auxilie en esta tarea, con cargo al propio organismo, en los términos que se acuerde en el seno del propio Consejo Directivo.
+Para el desempeño de los cargos de Comisario en los demás organismos, podrá nombrar representante o Comisario Suplente, de los directivos de la propia Contraloría, pero el personal técnico que le auxilie, será con cargo al presupuesto de la propia Contraloría Municipal, salvo en los casos en los que el Consejo Directivo o Junta de Gobierno de estos, autorice personal con recursos con cargo al presupuesto de  dichos organismos.
+
+
+CAPITULO IV
+DE LAS ATRIBUCIONES DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS.
+Artículo 13.- Las atribuciones establecidas en este Reglamento para los titulares de las Unidades Administrativas, Coordinaciones y Direcciones, se entenderán delegadas por el Contralor, para todos los efectos legales.
+Son atribuciones generales de los Titulares de las Unidades administrativas, Coordinaciones y Direcciones, las siguientes:
+I.- Elaborar al inicio de cada año su Programa Operativo Anual, acorde a los lineamientos del Plan de Desarrollo Municipal.  
+II.- Acordar con el Contralor Municipal el trámite y resolución de los asuntos de su competencia e informarle sobre el cumplimiento de los mismos.
+III.- Planear, programar, organizar, controlar, evaluar y supervisar el desempeño de las labores encomendadas a los Departamentos que le estén adscritos.
+IV.- Formular dictámenes, opiniones técnicas e informes que le sean solicitados por el Contralor, en aquellos asuntos que resulten de su competencia.
+V.- Proponer en el ámbito de su competencia, al Contralor, planes, programas y proyectos de mejora a los Programas de la Contraloría. 
+VI.- Desempeñar  con ética y profesionalismo las funciones y comisiones que le delegue el Contralor.
+VII.- Presentar al final de cada año, su informe de actividades y resultados, para la integración de éste al Informe de Actividades de la Contraloría Municipal.
+Artículo 14.- Son atribuciones y obligaciones del Titular de Unidad de Transparencia y Acceso a la Información Pública, las siguientes:
+I.- Instrumentar todas las acciones referentes a la materia de Transparencia, Acceso a la Información Pública, Rendición de Cuentas, Gobierno Abierto, Datos Abiertos y Protección de Datos Personales a las que se refiere la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza y demás normatividad vigente.
+II.- Elaborar en coordinación con el Instituto Coahuilense de Acceso a la Información Pública del Estado de Coahuila, el Plan de Capacitación que en materia de Transparencia,  debe de llevar a cabo el Municipio de Torreón, Coahuila.
+III.- Establecer con los titulares de las Dependencias Municipales, la relación de servidores públicos que fungen como Enlaces de Transparencia con la Unidad de Atención y a través de los mismos tratar los asuntos de acceso y difusión de la información pública, protección de datos personales, datos abiertos y demás relacionados con la Transparencia.
+IV.- Establecer los procedimientos para atender de manera eficiente y expedita las solicitudes de acceso a la información pública de acuerdo a los parámetros establecidos en la Ley.
+V.- Asesorar a los Enlaces de Transparencia y a los titulares de las Dependencias Municipales que así lo requieran para atender, contestar y cumplir con las solicitudes de acceso a la información, recursos de revisión y cumplimientos que se emitan a las entidades públicas municipales.
+VI.- Establecer los procedimientos para la atención personalizada en el Módulo de Transparencia y evaluar su operación.
+VII.- Definir y diseñar los contenidos informativos y las aplicaciones informáticos para su presentación en el Portal Municipal de Transparencia.
+VIII.- Solicitar, recabar, procesar y generar la información pública que por Ley deben de publicar las Dependencias de la administración pública centralizada en el Portal Electrónico del R. Ayuntamiento del Municipio de Torreón, Coahuila.
+IX.- Coordinar los trabajos de los Enlaces de Transparencia en los organismos municipales descentralizados y paramunicipales, para la difusión de la información pública obligatoria, evaluar su publicación y notificar a los Titulares las observaciones resultantes.
+X.- Acordar con el Contralor Municipal los programas que promuevan y fortalezcan la cultura de transparencia, la rendición de cuentas, el acceso a la información pública, los datos abiertos y la protección de datos personales, en el Gobierno Municipal.
+XI.- Atender los requerimientos del Instituto Coahuilense de Acceso Pública que en materia de Información haga al Municipio de Torreón, Coahuila.
+XII.- Asistir a las revisiones de la Comisión de Contraloría y Transparencia y reportar las actividades realizadas en la materia.
+XIII.- Informar al Contralor Municipal respecto al desempeño de las actividades realizadas por la Unidad de Atención, así como la actuación de los servidores públicos respecto a garantizar el derecho al acceso a la información y protección de datos personales, para que en su caso se tomen las medidas pertinentes.
+XIV.- Promover la observancia de los Reglamentos Municipales, que en su caso se derivan a la vez de este ordenamiento legal, en materia de Transparencia, Acceso a la Información, Datos Abiertos y Protección de datos Personales del Municipio de Torreón.
+XV.- Las demás que le sean encomendadas por el Contralor Municipal y que le determinen otras disposiciones legales.
+Artículo 15.- Son atribuciones y facultades del Titular de la Unidad de Mejora Regulatoria, las siguientes:
+I.- Instrumentar, impulsar, vigilar, supervisar, auditar y sancionar, en su caso, todas las acciones a las que se refiere la ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza y  que competen a la administración municipal.
+II.- Elaborar en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, el Plan de Capacitación que en esta materia requiera la administración pública centralizada y descentralizada del Municipio de Torreón, Coahuila.
+III.- Establecer con los titulares de las Dependencias municipales, la relación de servidores públicos que fungirán como Enlaces de la Unidad de Mejora Regulatoria y a través de los mismos tratar todos los asuntos de Trámites y Servicios Municipales.
+IV.- Establecer los procedimientos para atender de manera eficiente y expedita la normativa en la materia, especialmente todo lo referido a la Ley de Mejora regulatoria del Estado de Coahuila de Zaragoza y a los acuerdos con la Comisión Federal de Mejora Regulatoria (COFEMER).
+V.- Asesorar a los Enlaces de la Unidad de Mejora Regulatoria y a los titulares de las Dependencias municipales que así lo requieran para la integración del Registro Municipal de Trámites y Servicios, en un nivel óptimo que contribuya significativamente en la competitividad municipal. 
+VI.- Establecer los procedimientos para la revisión periódica de trámites y servicios, su apego a la normatividad, su trazabilidad, su nivel óptimo y su impacto en la percepción de la ciudadanía. 
+VII.- Contribuir con todas y cada una de las Dependencias para definir y diseñar los contenidos informativos de las Cédulas y sus anexos, de los Trámites y Servicios que integran el Registro Municipal de Trámites y Servicios. 
+VIII.-  Coordinar los trabajos de los Enlaces de la Unidad de Trámites y Servicios en los organismos municipales descentralizados para la optimización de la información pública y la integración al Registro Municipal de Trámites y Servicios. 
+IX.- Acordar con el Contralor Municipal los programas que promuevan y fortalezcan la política municipal de Mejora Regulatoria. 
+X.- Verificar el cumplimiento de los requerimientos de la Ley de Mejora Regulatoria y los compromisos establecidos en el Acuerdo de Coordinación con el Gobierno del Estado de Coahuila de Zaragoza.
+XI.- Instrumentar en todos sus ámbitos, la observancia del Reglamento Municipal de Mejora Regulatoria, así como proponer, impulsar y difundir los cambios y adecuaciones que se hagan al mismo, como resultado de la experiencia que vayan obteniendo los servidores públicos, sea por la capacitación y el desempeño de actividades. 
+XII.- Informar al Contralor Municipal respecto al desempeño de las actividades realizadas por la Unidad de Mejora Regulatoria, así como la actuación de los servidores públicos respecto a garantizar niveles óptimos en la prestación de servicios públicos municipales. 
+XIII.- Las demás que le sean encomendadas por el Contralor Municipal y que le determinen otras disposiciones legales.
+Artículo 16.- Son atribuciones y facultades del Titular de la Unidad denominada Padrón de Proveedores, las siguientes:
+I.- Elaborar, instrumentar y mantener vigente el Reglamento Municipal del Registro de Proveedores de Servicios y Contratistas de Obra Pública Municipal.
+II.- Coordinarse con la Unidad de Mejora Regulatoria para establecer los requisitos óptimos para el acreditamiento de Certificado de Aptitud de Proveedores de Servicios y Contratistas de Obra del Municipio de Torreón.
+III.- Recibir las solicitudes de Registro al Padrón, en forma institucional, con eficiencia, eficacia, ética y transparencia.
+IV.- Establecer los procedimientos óptimos para atender de manera eficiente y expedita la normativa en la materia.
+V.- Integrar los expedientes de los Proveedores, en forma eficiente, integra y ordenada, de acuerdo al índice previamente acordado.
+VI.- Realizar las visitas domiciliarias a los solicitantes de registro, en forma ordenada, con oficio de comisión e identificación oficial, así como recabar la información completa, veraz y fehaciente.
+VII.- Invariablemente, de toda visita domiciliaria deberá de generarse el reporte correspondiente e integrarse al expediente respectivo, debidamente firmado por el servidor público que realizó la visita.
+VIII.- Establecer mecanismos ágiles y transparentes de comunicación, con los solicitantes de Registro, para facilitar su actividad económica sin detrimento del cumplimiento normativo.   
+IX.- Depurar anualmente el Archivo de Proveedores de Servicios y Contratistas de Obra, respetando la Ley de Archivos Públicos del Estado de Coahuila.
+X.- Establecer y optimizar los procedimientos para la revisión de la documentación y las visitas domiciliarias, a efecto de corroborar la información que proporcionan los solicitantes.
+XI.- Contribuir con la Unidad de Mejora Regulatoria para definir y diseñar los contenidos informativos de las Cédulas de los Trámites y Servicios de la Unidad del Padrón de Proveedores, así como sus anexos, físicos y virtuales. 
+XII.- Acordar con el Contralor Municipal los programas que promuevan y fortalezcan la política municipal de Mejora Regulatoria en materia del Registro de Proveedores y Contratistas. 
+XIII.- Informar al Contralor Municipal respecto al desempeño de las actividades realizadas por la Unidad del Padrón de Proveedores y situaciones extraordinarias que se detecten en los expedientes y/o visitas domiciliarias a los solicitantes de Registro.
+XIV.- Las demás que le sean encomendadas por el Contralor Municipal y que le determinen otras disposiciones legales.
+Artículo 17.- Son atribuciones y obligaciones del titular de la Coordinación Jurídica de la Contraloría Municipal, las siguientes:
+I.- Formular, revisar y someter a la consideración del Contralor los proyectos de iniciativas de Reglamentos, decretos acuerdos y demás disposiciones jurídicas que normen el funcionamiento de la Contraloría.
+II.-Representar Legalmente al Contralor Municipal, con la previa autorización, en el Juzgado Colegiado Municipal.
+III.- Recibir, atender, tramitar e investigar previamente las quejas y denuncias que se interpongan en contra de los servidores públicos de las dependencias del R. Ayuntamiento y en su caso integrar  el expediente para el efecto de lo que disponga su superior inmediato.
+IV.- Integrar los expedientes de quejas y denuncias debidamente ordenados en el Archivo Municipal de Quejas y Denuncias a cargo de la Coordinación Jurídica de la propia Contraloría.
+V.- Reservar los expedientes que integran el Archivo Municipal de Quejas y Denuncias, en términos de la normatividad vigente, en tanto tienen el carácter de datos personales. 
+VI.- Citar mediante oficio debidamente fundado y motivado a los servidores objeto de una queja o denuncia y levantar, en su caso las declaraciones que sean necesarias para integrarlas al expediente respectivo y, en su momento tomarlas como elementos de análisis y pruebas.
+VII.-  Reunir de manera exhaustiva los elementos que pueden facilitar la emisión de un juicio respecto a la queja o denuncia presentada y, en su caso, elaborar un Proyecto de Resolución  y presentarlo a consideración del Contralor.
+VIII.-Asesorar jurídicamente y actuar como Órgano de consulta legal respecto de las demás áreas, direcciones o, unidades administrativas de la Contraloría Municipal. 
+IX.- Revisar los aspectos jurídicos de los convenios y contratos celebrados por el Municipio en los que deba intervenir el Órgano Interno de Control. 
+X.-Instruir los procedimientos de responsabilidad administrativa  con motivo de la aplicación de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales.
+XI.-Integrar los expedientes relacionados con los hechos constitutivos de delitos a fin de que sean turnados al Síndico para la presentación de Denuncias o Querellas Penales.
+XII.-Elaborar los informes que por su contenido jurídico deban ser proporcionados a las Autoridades Judiciales, Administrativas o de Fiscalización.    
+XIII.-Integrar el Comité Técnico de Sanciones de los procedimientos de Responsabilidad Administrativa.
+XIV.- Solicitar o requerir la información y/o documentación que considere pertinente para el fincamiento de las responsabilidades de los Servidores Públicos
+XV.- Conocer de los Recursos de Inconformidad interpuestos contra actos y resoluciones derivados de los procesos de licitación pública e invitación restringida a cuando menos tres personas, en los términos de los dispuesto en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, así como en la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza.
+XVI.- Levantar las Actas Administrativas que correspondan de conformidad con las atribuciones de la Contraloría
+XVII.- Registrar, resguardar y custodiar  los instrumentos jurídicos en que intervenga la Coordinación Jurídica, de conformidad con sus atribuciones.
+XVIII.- Analizar y revisar permanentemente el marco jurídico que rige a la Contraloría, a fin de proponer al Contralor, las adecuaciones necesarias para un mejor desempeño de las atribuciones conferidas
+XIX.-Proporcionar al Síndico, la documentación e información necesarios para la presentación de Denuncias o Querellas en caso de responsabilidades Penales de los Servidores Públicos.
+XX.-Intervenir en los Procesos de Entrega Recepción y revisar la legalidad de los actos y las Actas respectivas.
+XXI.-Emitir opinión jurídica respecto de las consultas formuladas por el Contralor y las diversas áreas de la Contraloría.
+XXII.- Intervenir en la formulación de las Declaraciones de Situación Patrimonial.
+XXIII.- Promover las sanciones en términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, en los casos en los que derivados de auditorías, revisiones, evaluaciones, denuncias u observación de hechos, se determinen faltas a la normatividad y a la ética del buen desempeño de los servidores públicos municipales.
+XXIV.- Las demás que le sean conferidas por el Contralor y los ordenamientos jurídicos relacionados con el óptimo funcionamiento de la Contraloría. 
+Artículo 18.- Son atribuciones y obligaciones del titular de la Dirección de Auditoría Financiera, las siguientes:
+I.- Formular el Programa Anual de Control y Auditoría Financiera y someterlo a la consideración del Contralor para su aprobación.
+II.- Llevar a cabo evaluaciones, revisiones, fiscalizaciones, certificaciones, peritajes y auditorías a las dependencias y entidades gubernamentales con el propósito de verificar el cumplimiento de los objetivos de sus programas, la normatividad y procedimientos establecidos.
+III.- La inspección, vigilancia, evaluación, verificación, fiscalización y supervisión, directamente o en coordinación con los órganos internos de control de las dependencias y entidades de la administración pública municipal, a efecto de verificar que se cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales en las dependencias y entidades municipales.
+IV.- Vigilar que las dependencias y entidades de la administración pública municipal cumplan con las disposiciones contenidas en los acuerdos y convenios celebrados entre el Municipio con la Federación y/o el Estado de los que se derive la inversión de fondos distintos de obra pública y programas sociales en el municipio, así como supervisar la correcta aplicación de los mismos.
+V.- Vigilar y verificar que las operaciones efectuadas por las dependencias y entidades de la administración pública municipal, se realicen de conformidad con las normas y procedimientos establecidos para el efecto.
+VI.- Solicitar y obtener de las dependencias y entidades de la administración pública municipal, la información que forme parte de la contabilidad y de los archivos generales, necesarios para la práctica de las auditorías que realice la Contraloría.
+VII.- Apoyar a las dependencias y entidades de la administración pública municipal, cuando así lo requieran, en actividades que tiendan a la solución de sus problemas administrativos, de control, verificación y evaluación, realizando las acciones que fueren necesarias para mejorar la eficacia y el logro de sus objetivos.
+VIII.- Turnar al Contralor, los expedientes con la información, documentación y elementos necesarios para el fincamiento de responsabilidades, en su caso, así como los resultados de las revisiones que se hayan practicado con las recomendaciones y sugerencias derivadas de las mismas.
+IX.- Apoyar al Contralor en la atención de los requerimientos, observaciones, auditorías y demás que requiera la Auditoría Superior del Estado y la Auditoría Superior de la Federación.
+X.- Atender a los auditores que visitan en asuntos oficiales al Municipio, por parte de los Órganos auditores federales y estatales.
+XI.- Emitir los dictámenes, opiniones e informes relativos a las evaluaciones, inspecciones, revisiones, verificaciones, fiscalizaciones o auditorías que se hayan llevado a cabo en el cumplimiento de sus funciones, así como los que soliciten en la esfera de su competencia.
+XII.- Informar por escrito al Contralor el resultado de las revisiones e intervenciones que se practiquen, recabando constancia de su formulación y conocimiento.
+XIII.- Asistir en representación de la Contraloría Municipal a las diversas diligencias derivadas de actuaciones en las que la Contraloría deba participar de acuerdo a su competencia, cuando así se le encomiende o proceda en los términos de las disposiciones aplicables.
+XIV. Revisar los Estados Financieros contenidos en los avances de gestión financiera y de la cuenta pública anual, a través de las siguientes actividades:
+Analizar los ingresos municipales, de conformidad con las tasas y cuotas que fija la Ley Ingresos municipal, así como revisar el soporte documental correspondiente. Además, verificar que dichos ingresos se reflejen en los estados de cuenta bancarios  respectivos.
+Analizar y revisar el soporte documental correspondiente de los egresos.
+Revisar las conciliaciones bancarias y sus partidas de conciliación.
+Verificar que las cuentas por cobrar a favor del Ayuntamiento estén registradas en la contabilidad, así como comprobar su adecuada presentación y revelación en los estados financieros.
+Comprobar que todos los pasivos que muestra el estado de situación financiera, sean reales y suficientes y estén adecuadamente clasificados.
+Verificar el debido cumplimiento de la determinación y pago de impuestos retenidos conforme a la Ley.
+Elaborar las cédulas correspondientes a la auditoría practicada, así como los informes correspondientes.
+XV. Vigilar y verificar que las participaciones a los organismos desconcentrados, sean autorizadas en el presupuesto de egresos del ejercicio.
+XVI. Revisar la información presupuestaria y programática que contengan los avances de gestión financiera y la cuenta pública anual, preparada por la Tesorería Municipal.
+XVII. Para la realización de las funciones anteriores, se tendrá acceso, entre otras, a las siguientes herramientas  informáticas:
+Los módulos de consulta dentro del Sistema Integral de Información Financiera (SIIF) dentro de Ejercicio presupuestal, Cuenta Pública, Programación y presupuesto, Registro y parametrización contable,  Catálogos y reportes, en Ingresos (reportes de caja cobro), y  egresos ( reportes de caja general) , Adquisiciones y Patrimonio.
+Consultas del Sistema Integral Información Municipal SIIM. Reporte acumulado de pagos generales, reporte de pagos por concepto de ingresos, reporte de pólizas de ingresos.
+ Consultas y reportes del  Sistema de Nómina Municipal.
+Uso de  Laserfiche  para soporte electrónico.
+XVIII. Apoyar al Contralor Municipal para promover las sanciones en términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, en los casos en los que derivados de auditorías, revisiones, evaluaciones, denuncias u observación de hechos, se determinen faltas a la normatividad y a la ética del buen desempeño de la función pública.
+XIX.- Las demás que expresamente le señalen las leyes, reglamentos y las que el Contralor le delegue.
+Artículo 19.- Son atribuciones y obligaciones del titular de la Dirección de Auditoría Administrativa, las siguientes:
+I.- Elaborar al inicio de cada año su Programa Operativo Anual, acorde a los lineamientos del Plan de Desarrollo Municipal.
+II.- Acordar con el Contralor Municipal el despacho de los asuntos de su competencia y de los que requieran de su intervención e informarle sobre el cumplimiento de los mismos.
+III.- Auditar, evaluar, vigilar, los procesos administrativos que conducen a la prestación de todos y cada uno de los Servicios Públicos que presta el Municipio. 
+IV.- Generar los diagramas de flujo de todos y cada uno de los procesos administrativos para la prestación de los Servicios Públicos, diagnosticar su situación e instrumentar  medidas para la modernización y simplificación administrativa.
+V.- Proponer a su superior inmediato las auditorías administrativas a realizar y, en su caso, llevarlas a cabo con el personal que tiene a su cargo o personal que se contrate para ello.
+VI.- Revisar y participar en el control interno y administrativo de los recursos humanos, el inventario de bienes municipales, muebles e inmuebles, en las diferentes áreas de la Administración Pública Municipal.
+VII.- Instrumentar, supervisar, auditar, vigilar y sancionar, en su caso, el Registro Municipal de Bienes de Dominio Público y Dominio Privado que constituyen el Patrimonio Municipal a fin de garantizar su resguardo adecuado, legal, eficiente, eficaz y transparente, vigilando que se respete estrictamente el reglamento correspondiente.
+VIII.- Formular observaciones y recomendaciones derivadas de las auditorías y revisiones así como dar seguimiento al cumplimiento de las mismas.
+IX.- Asistir a las Licitaciones de bienes muebles e inmuebles,  contratación de servicios,  arrendamientos, adquisiciones de inmuebles, enajenaciones, de conformidad con la normatividad aplicable.
+X.- Supervisar y verificar el destino, afectación, enajenación y baja de bienes muebles e inmuebles.
+XI.- Supervisar y verificar las políticas y lineamientos en materia de administración y recursos humanos.
+XII.- Dar seguimiento al uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles a fin de que se cumpla la ley en la materia;
+XIII.- Instrumentar el Sistema Municipal de Administración de Riesgos, basado en la metodología para la mejora del Control Interno, y
+XIV.- Apoyar al Contralor Municipal para promover las sanciones en términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, en los casos en los que derivados de auditorías, revisiones, evaluaciones, denuncias u observación de hechos, se determinen faltas a la normatividad y a la ética del buen desempeño de la función pública o daño patrimonial.
+XV.- Las demás que le sean encomendadas por el Contralor, su superior jerárquico y otras disposiciones legales.  
+Artículo 20.- Son atribuciones y obligaciones del titular de la Dirección de Auditoría a Obra Pública y Programas Sociales, las siguientes:
+I.- Elaborar al inicio de cada año su Programa Operativo Anual, acorde a los lineamientos del Plan de Desarrollo Municipal.
+II.- Acordar con el Contralor Municipal el despacho de los asuntos de su competencia y de los que requieran de su intervención e informarle sobre el cumplimiento de los mismos.
+III.- Asistir en representación del Contralor a los procesos de adjudicación de Obra Pública y servicios relacionados con la misma, bajo la modalidad de Licitación Pública, de conformidad con la normatividad en la materia.
+IV.- Asistir en representación del Contralor a los procesos de adjudicación de obra pública y servicios relacionados con la misma, bajo los procedimientos de excepción a la Licitación Pública, invitación a cuando menos tres personas o de Adjudicación Directa, de conformidad con la normatividad en la materia.
+V.- Coordinar los trabajos de la Auditoría de Obra y Programas Sociales, desde la planeación hasta la entrega física de la misma, asegurando la documentación adecuada y suficiente que permita su revisión, valoración y sanción, en los casos en que así corresponda.
+VI.- Verificar que la planeación, programación y presupuestación de las obras públicas y/o acciones se realicen con criterios de economía, eficiencia y transparencia, sujetándose a la normatividad aplicable.
+VII.- Verificar el cumplimiento del Plan de Obra autorizado para el ejercicio fiscal correspondiente.
+VIII.- Turnar al área correspondiente las inconformidades que en su caso presenten los contratistas y/o proveedores.
+IX.- Verificar que las inconformidades presentadas por los contratistas y/o proveedores se lleven conforme a los procedimientos y la normatividad aplicable.
+X.- Supervisar y verificar que la Obra Pública y los servicios relacionados con la misma se lleven de conformidad con lo que establecen las disposiciones legales aplicables.
+XI.- Coadyuvar con la Coordinación Jurídica, en los procedimientos de responsabilidad administrativa que se lleven a cabo en materia de Obra Pública y Programas Sociales.
+XII.- Informar al Contralor Municipal de los hechos que pudieran ser constitutivos de responsabilidad administrativa o delito, en los casos de Obra Pública y/o Programas Sociales, para que en su caso, se tomen las medidas pertinentes.  
+XIII.- Verificar que el Catalogo de Contratistas de Obra del Municipio, sea acorde con la normatividad aplicable.
+XIV.- Verificar el cumplimiento de las obligaciones de proveedores y contratistas de la Administración Pública, relacionados con la Obra Pública y los Programas Sociales.
+XV.- Comprobar que los recursos estatales y federales asignados a los Ayuntamientos para la realización de Obra Pública y Programas Sociales, se apliquen en los términos establecidos en las leyes, los reglamentos y los convenios respectivos.
+XVI.- Verificar que en la planeación de la obra pública se ajuste a los objetivos y prioridades de la Ley de Asentamientos Humanos y Desarrollo Urbano, el Presupuesto de Egresos y los programas institucionales, regionales y especiales a que correspondan.
+XVII.- Comprobar que la Dependencia o entidad elabore su programa de obra considerando que se haya planeado adecuadamente sus objetivos y metas a corto, mediano y largo plazo; que se haya efectuado la calendarización física financiera de los recursos necesarios para su ejecución, así como los gastos de operación.
+XVIII.- Revisar el presupuesto autorizado con objeto de constatar que se cuente con previsiones de recursos para el concepto Capítulo 6000, o según la actividad que se pretenda auditar.
+XIX.- Participar invariablemente en la Entrega Recepción de los trabajos de Obra Pública y los Servicios relacionados con la misma, al término de las mismas y signar las actas circunstanciadas que de ellos se deriven.
+XX.- Participar invariablemente en la Entrega-Recepción de los beneficios de los Programas Sociales y signar las actas circunstanciadas que de ello se deriven.
+XXI.- Atender las visitas domiciliarias de auditorías federales o estatales en materia de los recursos Federales y Estatales que se apliquen en el Municipio y signar las actas circunstanciadas que de ello se deriven.
+XXII.- Promover las sanciones en términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, en los casos en los que derivados de auditorías, revisiones, evaluaciones, denuncias u observación de hechos, en materia de Obras Públicas y Programas Sociales, se determinen faltas a la normatividad y a la ética del buen desempeño de la función pública.
+XXIII.- Las demás que le sean encomendadas por el Contralor Municipal y que le determinen otras disposiciones legales.
+Artículo 21.- Son atribuciones y obligaciones del Titular de la Coordinación Administrativa de la Contraloría Municipal, las siguientes:
+I.- Elaborar al inicio de cada año su Programa Operativo Anual, acorde a los lineamientos del Plan de Desarrollo Municipal.
+II.- Acordar con el Contralor Municipal el despacho de los asuntos de su competencia y de los que requieran de su intervención e informarle sobre el cumplimiento de los mismos.
+III.- Promover la integración adecuada de los expedientes de personal ante la Dirección de Servicio Profesional de Carrera.
+IV.- Gestionar ante la Tesorería Municipal los gastos y viáticos necesarios para el desempeño de las funciones del personal de la Contraloría Municipal.
+V.- Tramitar la comprobación de gastos del personal adscrito al Órgano Interno de Control y, en su caso, auxiliarlos para la comprobación adecuada y suficiente de los mismos.
+VI.- Mantener actualizada la relación de resguardos de mobiliario y equipo. 
+VII.- Las demás que le encomiende el Contralor Municipal, dentro de la normatividad vigente. 
+Artículo 22.- Son atribuciones y obligaciones del Titular de la Oficialía de Partes de la Contraloría Municipal, las siguientes:
+I.- Coordinar la expedición de documentos que genera el Órgano Interno de Control, sus Unidades y Dirección, en cuyo caso, deberá de deberá asentarse, por lo menos: la fecha de su expedición, número consecutivo y la abreviación de la Dirección o Unidad que lo emite, número consecutivo y asunto que trata.
+II.- En los casos de recepción de documentación oficial, deberá de asentarse el sello oficial de la Contraloría Municipal, día y hora en que se recibe, nombre y firma del Servidor Público que recibe, el número de hojas que integran el documento, las copias que corran agregadas al original y, en su caso, la precisión del número de anexos que se acompañan;
+III.- Identificar e integrar los expedientes conforme al Manual de Oficialía de Partes de la Contraloría Municipal;
+IV.- Llevar e instrumentar, conforme al manual respectivo, los registros que se consideren indispensables para el mejor y adecuado control de la documentación recibida; 
+V.- Auxiliar al Contralor Municipal en propuestas de mejora para el adecuado funcionamiento de los servicios de la Oficialía de Partes;
+VI.- Proporcionar oportunamente a los Titulares de las demás Unidades y Direcciones, la información que requieran para la debida sustanciación y resolución de los asuntos que les competen;
+VII.- Distribuir la documentación conforme a las disposiciones contenidas en el Manual respectivo;
+VIII.- Instrumentar, administrar y mantener actualizado, en el ámbito de su competencia, el Sistema Electrónico de Archivo Público de la Contraloría Municipal.
+IX.- Informar permanentemente al Contralor Municipal, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y
+X.- Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Contralor Municipal.
+
+TITULO SEGUNDO
+DE LOS PROCESOS Y PROCEDIMIENTOS.
+CAPITULO I
+DE LOS PROCESOS DE AUDITORÍA FINANCIERA.
+Artículo 23.- Son facultades y obligaciones de la Contraloría Municipal, revisar todos y cada uno de los aspectos financieros del Municipio, tanto ingresos como egresos, con apego a las disposiciones legales aplicables y dar cumplimiento a lo dispuesto en los lineamientos mínimos de control financiero en términos del Código Financiero para el Estado de Coahuila de Zaragoza, en la Ley Superior de Fiscalización, la Ley de Contabilidad Gubernamental, Ley de Ingresos del Municipio y demás disposiciones complementarias, adicionales  y supletorias, que coadyuven a fortalecer el Sistema de Control y Evaluación Municipal. 
+La Contraloría Municipal, en sus procesos de auditoría tendrá acceso total, liso y llano a la información de las áreas y la documentación que se genera, física o electrónica.
+La negativa de la contraparte a proporcionar dicha información, su ocultamiento, su negativa, su tardanza o cualquier otra acción que pretenda dificultar su revisión por parte del Órgano Interno de Control, será objeto de sanción administrativa, en los términos que este mismo Reglamento establece. 
+El auditor que solicite acceso a la información, lo podrá hacer verbal, si la va a revisar en el lugar en el que se encuentra, o por oficio debidamente firmado, si la requiere para su traslado. 
+Artículo 24.- El auditor no podrá obstaculizar los procesos operativos, administrativos, de obra o de cualesquier tipo, con motivo de la revisión que requiera llevar a cabo, pero si podrá estar presente en dichos procesos, el tiempo que considere necesario, incluidos los relativos a la Seguridad Pública y la Protección Civil.
+De las actividades que realice el Auditor, deberá de generar evidencia documental, misma que entregará a su superior inmediato, debidamente motivada y fundamentada.
+En cualquier caso, todos los documentos que se generan con motivo de las auditorías, son considerados como reservados, en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales.
+Las auditorías, en sí, no son el inicio de ningún procedimiento de responsabilidad administrativa, pero si pueden ser evidencia de un procedimiento para el fincamiento de responsabilidades. 
+CAPITULO II 
+DE LOS PROCESOS DE AUDITORÍA ADMINISTRATIVA.
+Artículo 25.- Los Procesos de Auditoría Administrativa tienen su ámbito de acción en toda la estructura organizacional del Municipio y en todos y cada uno de los trámites y servicios que presta la Administración Municipal a la comunidad.
+La Auditoría Administrativa tiene como propósito medir el desempeño de las áreas y sus responsables, así como las oportunidades de mejora en materia de eficiencia, eficacia, legalidad, transparencia, rendición de cuentas, desarrollo organizacional y tecnológico, así como la evaluación del costo beneficio y aplicación correcta, oportuna, suficiente y  transparente en el uso de los recursos públicos. 
+Artículo 26.- Para auditar un proceso administrativo, es suficiente la disposición verbal o escrita del Contralor Municipal a los auditores asignados para tal efecto.
+Para el inicio de una auditoria administrativa en un área, trámite o servicio, es necesario el oficio de Comisión o Designación del Auditor, por parte del Contralor Municipal comunicando tal hecho al titular del área o responsable de la prestación del servicio a auditar, excepto en los casos en los cuales de “situaciones in fraganti” o de “Usuario Simulado”, en los que no se requiere oficio previo a la contraparte.
+Artículo 27.- De todo proceso de auditoría administrativa, se derivará la evidencia documental correspondiente y tendrá el carácter de Información Reservada, en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del estado de Coahuila de Zaragoza.
+Las Auditorías Administrativas no son procesos de fincamiento de responsabilidad administrativa, pero si pueden derivarse de ellas responsabilidades administrativas, penales o integración de expedientes para denuncias por daño patrimonial al Municipio, a través de los procesos correspondientes.
+CAPITULO III 
+DE LOS PROCESOS DE AUDITORIA A OBRA PÚBLICA.
+Artículo 28.- La Contraloría Municipal, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo, que las adquisiciones de bienes, servicios y/u obra pública y/o acciones relacionadas con las mismas, se realicen conforme a lo establecido en las Leyes y otras disposiciones aplicables, bases de licitación, anexos, contratos, fianzas y todos los documentos relacionados con el proceso de adquisición y contratación.
+Artículo 29.-  La Contraloría Municipal, tiene la facultad y la obligación de verificar que los contratos y acciones de adquisiciones y de obra pública y/o acciones, se encuentren debidamente formalizados de acuerdo a la normatividad aplicables. 
+De igual forma, verificará que la formalización del Contrato se haya dado dentro de los treinta días naturales siguientes a la notificación del fallo; que las garantías por la correcta inversión de anticipos y por el cumplimiento de contratos, se hayan entregado a la convocante dentro de los quince días naturales siguientes a la fecha del fallo; así como que las modificaciones que se hayan realizado al contrato original estén debidamente justificadas y formalizadas mediante los convenios correspondientes.
+Artículo 30.- El Órgano Interno de Control, podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias y entidades que realicen Contrataciones de Adquisiciones u Obras Públicas e igualmente, podrá solicitar a los servidores públicos y a los contratistas que participen en ellos, todos los datos en informes relacionados con los actos de que se trate. De igual forma, en cualquier tiempo, podrá verificar la calidad de los trabajos a través de especialistas, laboratorios, instituciones educativas y de investigación, con las personas que así determine.
+Artículo 31.- En el caso de las Auditorías a Obras Públicas, el Órgano Interno de Control, tiene la facultad y obligación de comprobar que los trabajos ejecutados, se hayan apegado a las especificaciones técnicas y normativas, en cuanto a calidad, cantidad y plazo; que el uso de la bitácora es obligatorio en cada uno de los contratos de obras y servicios, debiendo permanecer en la residencia de obra; comprobar que para la recepción de los trabajos se cuente con la carta del contratista a la dependencia o entidad, comunicando la terminación de los trabajos, nota del contratista en la bitácora, comunicando la conclusión de los trabajos, así como acta de entrega recepción de los trabajos.
+De igual forma, es facultad y obligación del Órgano Interno de Control, verificar que las dependencias y entidades ejecutoras mantengan actualizado permanentemente en el módulo correspondiente del Sistema Integral de Inversión Pública (SIIP), la información relativa a la planeación, programación, presupuestación y ejecución de todas las obras o acciones a su cargo hasta la conclusión.
+Artículo 32.- En complemento y fortalecimiento a las disposiciones establecidas en la Ley de Entrega Recepción, la cual determina entre los servidores públicos que administran recursos del erario la obligatoriedad de entregar a quienes los sustituyan al término de su encargo la totalidad de sus documentos e información que haya sido generada de su gestión y con el propósito fundamental de asegurar el resguardo de la documentación comprobatoria original derivada de la ejecución de obras públicas y programas sociales, es obligación y facultad de la Contraloría Municipal, verificar que las Dependencias integren los expedientes unitarios para cada obra o acción ejercida bajo la normatividad de la Ley de Obras Públicas y Servicios Relacionadas con las mismas, para el Estado de Coahuila de Zaragoza, Ley de Obras Públicas y Servicios Relacionadas con las mismas y la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios.
+La Contraloría Municipal verificará y sancionará, en su caso, que cada obra, ya sea por contrato o por administración, tenga su propio expediente unitario debidamente integrado, con la calidad de un Libro Blanco y de acuerdo a los requerimientos mínimos establecidos.
+CAPITULO IV
+DE LAS AUDITORÍAS EXTRAORDINARIAS.
+Artículo 33.- La Contraloría Municipal, podrá realizar auditorías extraordinarias, cuando el Presidente Municipal así lo indique, tanto a la Administración Centralizada, como a la Descentralizada y Organismos Paramunicipales, patronatos, fideicomisos y a cualquier instancia, organización o persona que administre recursos públicos del Municipio, en los términos que las leyes vigentes le autorizan. 
+Para el desarrollo de las Auditorías Extraordinarias, la Contraloría Municipal podrá disponer de recursos adicionales a su presupuesto programático y contratar personal y recursos que para ello sea necesario, a juicio del Contralor Municipal y previa autorización del Presidente Municipal.
+Artículo 34.- Las Auditorías Extraordinarias, contemplan además, la facultad y obligación de la Contraloría Municipal de revisar el patrimonio de los servidores públicos municipales en los casos en que los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, en los términos del artículo 79 de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. 
+CAPITULO V
+DEL ACCESO A LA INFORMACIÓN PÚBLICA.
+Artículo 35.- la Contraloría Municipal, cuidará que toda la información en posesión del Municipio, esté a disposición de sus ciudadanos, en los términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza y los servidores municipales se regirán siempre por el principio de máxima publicidad.
+Los servidores públicos municipales están obligados a generar evidencia documental de su actuación, a sistematizarla y resguardarla  en los términos de la Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza.
+Es evidencia documental de la actuación del Servidor Público, los oficios, los memorándums, las tarjetas informativas, las minutas, las actas, los acuerdos, los registros, las fotografías, los archivos electrónicos, y todo lo que forme el historial del área correspondiente.
+Artículo 36.- Cada Servidor Público es responsable de que la información generada se integre de acuerdo a la Ley de Archivos Públicos del estado de Coahuila de Zaragoza, en Archivos de Trámite, de Concentración e histórica, según corresponda, independientemente de que se haya generado en su gestión o no.
+Para el cumplimiento de esta línea normativa, la Contraloría Municipal promoverá, capacitará, evaluará, vigilará y sancionará, en su caso, la integración correcta de los archivos municipales, coadyuvando para ello con la Dependencia responsable de la administración y resguardo de los Archivos Municipales.
+Impulsará de manera activa, a través de la Unidad de Transparencia, la integración de Libros Blancos, a fin de facilitar el resguardo, consulta y evaluación de los actos relevantes de la Administración Pública Municipal.
+Artículo 37.- La Contraloría Municipal, promoverá, asesorará, vigilará, supervisará, evaluará y sancionará, en su caso, que cada Dirección General de la Administración Pública Municipal, utilice un apartado exclusivo en el Portal Electrónico del Municipio, en el que publicará la información correspondiente al desempeño de su gestión.
+Necesariamente, este apartado deberá de contener al menos una Estadística actualizada mensualmente, de los Trámites y Servicios que presta a la ciudadanía.
+La información que difunda cada Dirección General a través del Portal Municipal, deberá de ser confiable, completa y oportuna y debe de orientarse fundamentalmente a comunicar a la ciudadanía lo relativo a los trámites y servicios que presta.
+De ninguna forma, podrá difundirse la imagen de ningún Servidor Público en los apartados informativos de las Direcciones Generales. 
+Artículo 38.- La Contraloría Municipal a través de la Unidad de Transparencia fijará la Información Pública Mínima que debe de exponer cada Dirección General en el Portal Electrónico del Municipio, misma que debe de ser congruente con lo establecido para los Municipios en el artículo 19 de la Ley de Acceso a la Información Pública y Protección de datos Personales para el Estado de Coahuila de Zaragoza.
+La omisión a esta disposición por parte de las Direcciones Generales será considerada como práctica de opacidad y sancionada por el Órgano Interno de Control, en los términos de este Reglamento y la Ley de Responsabilidades de los Servidores Públicos del estado y los Municipios del estado de Coahuila de Zaragoza..
+CAPITULO VI 
+DE LA PROTECCIÓN DE DATOS PERSONALES.
+Artículo 39.- Este Reglamento Municipal, garantizará la protección de los datos de las personas en poder del Municipio y sus servidores, en los términos que la Ley en la materia lo estipulan y corresponde a la Unidad de Transparencia, la observancia de esta disposición legal por parte de todos y cada uno de los servidores municipales.   
+El tratamiento de los datos personales requerirá el consentimiento por escrito de su titular, salvo las excepciones señaladas por la Ley en la materia y corresponde a la Contraloría Municipal capacitar, supervisar, vigilar, fiscalizar y en su caso sancionar, el tratamiento inadecuado de dichos dato.  
+Artículo 40.- Es obligación implícita de todo Servidor Público municipal, generar las bases de datos de la información de las personas que interactúan con el Municipio y garantizar su estricta protección, así como los derechos ciudadanos de Acceso, Rectificación, Cancelación y Oposición. 
+La omisión de esta disposición será considerada como falta administrativa, independientemente de la responsabilidad penal que pudiera desprenderse de ella, por afectación a particulares.
+Artículo 41.- La Contraloría Municipal auditará todas y cada una de las áreas municipales para asegurar que existen las condiciones adecuadas y suficientes para la protección de los datos de las personas y recomendará e impulsará las medidas para el fortalecimiento de estos mecanismos de seguridad de la información personal, a la ciudadanía.
+De igual forma, instrumentará la capacitación necesaria para el cumplimiento correcto de estas disposiciones.
+CAPITULO VII
+DE LOS CASOS DE OPACIDAD.
+Artículo 42.- Este Órgano Interno de Control Municipal considerará como prácticas de opacidad y las sancionará de oficio, al menos las siguientes:
+I.- Negarse a publicar el índice del Archivo Documental de su área en la Información Pública Mínima del Municipio.
+II.- La omisión del Acto y del Acta de Entrega Recepción a partir de la toma de su  cargo, como Servidor Público Municipal.
+III.- Declarar como reservada información que a juicio de este Órgano Interno de Control, debe de ser pública.
+IV.- No proporcionar y/o no actualizar semestralmente la Cédula de Información del Catálogo de Trámites y Servicios Municipales, a la Contraloría Municipal, para su debida publicación.
+V.- No generar evidencia del desempeño de su función como servidor público o negarse a hacerla pública.
+VI.- No generar estadística pública de los trámites y servicios a su cargo.
+VII.- No portar gafete oficial que lo identifique como Servidor Público Municipal en el desempeño de su trabajo y ante la ciudadanía que requiere de su atención.
+Los casos de opacidad deberán documentarse en forma suficiente y oportuna, brindando al acusado, en cualquier caso, el proceso debido, a fin de aplicar una sanción justa y constructiva.
+CAPITULO VIII
+DE LOS PROCESOS DE ENTREGA RECEPCIÓN.
+Artículo 43.- El Órgano Interno de Control tiene la facultad y la obligación de interpretar e instrumentar, en el plano municipal la Ley de Entrega Recepción del Estado y los Municipios de Coahuila de Zaragoza.
+Todos los asuntos relacionados con los procesos de Entrega Recepción, son atribución y responsabilidad de la Contraloría Municipal. Cualquier evento de esta naturaleza sin la participación del Órgano Interno de Control es nulo de origen y quienes lo lleven a cabo en tales condiciones están sujetos a sanción en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Coahuila y sus Municipios. 
+Artículo 44.- Es facultad y responsabilidad de la Contraloría Municipal expedir y actualizar, en su caso, el Manual de Entrega Recepción de la Administración Pública Municipal, someterla a la Comisión de Contraloría y Transparencia del Ayuntamiento, hasta lograr su aprobación por parte del Cabildo.
+La Contraloría Municipal formulará y pondrá a consideración del R. Ayuntamiento de Torreón, por conducto de la Comisión de Contraloría y Transparencia el Reglamento Municipal de Entrega-Recepción, así como sus modificaciones posteriores a que haya lugar.
+Artículo 45.- En el caso de la Entrega Recepción General, el Órgano Interno de Control, presupuestará y ejecutará los recursos que se requieran para todo el proceso a efecto de que se prevea presupuestalmente por parte de la Tesorería Municipal y deberá de incluir desde la capacitación hasta el material para la integración de los Libros Blancos del proceso. 
+Artículo 46.- La Contraloría Municipal observará y sancionará, en su caso, que todo Servidor Público sujeto al proceso de Entrega Recepción, tenga dentro de su acervo documental permanente la Carpeta de Entrega Recepción, con el  Acta mediante la cual recibió su cargo y con los anexos correspondientes, dentro de los cuales invariablemente deberá de contener,  al menos los apartados básicos siguientes:
+a).- Marco Normativo.
+b).- Manual de Funciones.
+c).- Mobiliario y Equipo.
+d).- Plantilla de Personal.
+e).- Estructura Orgánica.
+f).- Archivos de Concentración.
+g).- Archivos en Proceso.
+h).- Asuntos Pendientes;
+Mismos que integran el Libro Blanco de la Entrega Recepción.
+La falta de este Libro Blanco ante la visita de inspección que la Contraloría lleve a cabo, en forma permanente, será causa de sanción en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+Artículo 47.- En caso de que un Servidor Público que por cualquier razón tome u ostente un cargo público municipal, sin que medie el Acto y el Acta de Entrega Recepción que establece la Ley en la materia, dará aviso por escrito a la Contraloría Municipal para subsanar tal omisión.
+Los casos de toma de posesión de cargos públicos sin el Acto ni el Acta de Entrega Recepción, es falta administrativa y se sancionará conforme a este Reglamento y la Ley de Responsabilidades de los servidores Públicos, antes citada, independientemente de las responsabilidades penales que pudieran derivarse por el ejercicio indebido de la función pública que se acredite. 
+CAPITULO IX
+DE LA PARTICIPACIÓN EN LOS PROCESOS DE LICITACIÓN.
+Artículo 48.- Es facultad y obligación de la Contraloría Municipal participar en todos y cada uno de los procesos de licitación a fin de verificar que en las Dependencias la Obra Pública, las Adquisiciones y cualesquier contrato que implique obligaciones para el Municipio, se adjudiquen en apego estricto a la normatividad aplicable.
+La participación en los eventos de licitación es una facultad de la Contraloría, debiendo de estar presente, con o sin invitación expresa. 
+De igual forma es responsabilidad de la Contraloría Municipal, comprobar que los rangos presupuestales manejados para definir el tipo de adjudicación, sean congruentes con los establecidos en el Presupuesto de Egresos.
+Asimismo, es facultad de la Contraloría Municipal., corroborar que los órganos ejecutores bajo su responsabilidad, adquieran o contraten obras públicas y/o acciones mediante los procedimientos de contratación mediante: a).- Licitación Pública. B).- Invitación a cuando menos tres personas. C).- Adjudicación Directa.
+Artículo 49.- La Contraloría deberá de comprobar que la regla general de las adquisiciones y contratación de obra pública y/o licitaciones, se adjudiquen a través de licitaciones públicas mediante la convocatoria respectiva y verificar que la convocatoria para la licitación haya sido publicada en la sección especializada del Diario Oficial de la Federación, por un solo día, así como su registro en el Sistema Electrónico de Contrataciones (COMPRANET).
+CAPITULO X 
+DE LOS DICTAMENES EMITIDOS POR LA CONTRALORÍA
+Artículo 50.- La Contraloría Municipal podrá emitir dictámenes en los casos siguientes:
+I.- Para eximir del Registro en el Padrón de Proveedores, por tratarse de un proveedor ocasional que abastecerá al Municipio por única ocasión.
+II.- Por daños ocasionados por empleados municipales a particulares y/o sus bienes, en horas de trabajo y en los cuales, los particulares requieran el apoyo del Municipio.
+III.- Los que soliciten las áreas de la Administración Pública Municipal, con motivación y fundamentación adecuada y suficiente.
+IV.- Los que le ordene el Presidente Municipal.
+V.- Los dictámenes que acuerde el Cabildo, deba de llevar a cabo la Contraloría Municipal.
+VI.- Otros que de manera extraordinaria la Contraloría Municipal determine llevar a cabo, para fortalecer, en cualquier caso, la toma de decisiones justas, oportunas, transparentes, eficaces y eficientes.
+Artículo 51.- Un dictamen  se emitirá a petición de parte, si a la solicitud por escrito, se le hacen acompañar los elementos adecuados y suficientes.
+I.- Dentro de la información que invariablemente deberá de contener una solicitud de Dictamen, se encuentra la siguiente:
+Circunstancia que amerita un Dictamen de parte del Órgano Interno de Control.
+Fundamento legal en el que se basa la solicitud.
+Datos específicos y claros del Proveedor/Prestador de Servicios o posible beneficiario: 
+
+Nombre.
+Domicilio: Calle, Número, Colonia, Municipio, Código Postal. 
+Registro Federal de Causantes.
+Curriculum o información comercial.
+
+Otras razones que a juicio del solicitante justifiquen su petición.
+
+II.- Si a juicio del Órgano Interno de Control, la información es insuficiente, así se dará a conocer al solicitante en forma escrita, por lo cual dará un plazo no mayor a cinco días hábiles a fin de que aporte mayores elementos, pasado el cual, si no son aportados, se dará por concluido el procedimiento.
+III.- Si la información es adecuada y suficiente, el Órgano Interno de Controlo emitirá el dictamen correspondiente en un plazo no mayor a cinco días hábiles, con resolución positiva o negativa, según corresponda.
+IV.- Si emitido el Dictamen, se detecta que la información aportada era falsa o incorrecta, el Órgano Interno de Control revocará el Dictamen y fincará las responsabilidades administrativas que de ello se deriven, en términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y de éste mismo Reglamento.
+TITULO TERCERO
+DE LOS INSTRUMENTOS DE VIGILANCIA, EVALUACIÓN Y CONTROL.
+CAPITULO I 
+DEL SISTEMA DE CONTROL Y EVALUACIÓN MUNICIPAL.
+Artículo 52.- El Sistema de Control y Evaluación Municipal, parte de cuatro componentes principales, a saber, los ingresos, los egresos, los servidores públicos y el conjunto de trámites y servicios que presta el Municipio a su comunidad, para toda la administración municipal, por lo tanto ese es el ámbito de actuación del Órgano Interno de Control.
+I.- La facultad y obligación de supervisar, vigilar, auditar, fiscalizar y sancionar, en su caso, los Ingresos Municipales, se refiere al menos a los rubros siguientes: 
+a).- Contribuciones.
+1.- Impuesto Predial.
+2.- ISA Inmuebles.
+3.- ISEA Mercantiles.
+4.- IDE y D Públicas.
+5.- ISEBM Usados
+6.- ISLR y Sorteos
+7.- Cont. Especiales
+8.- DPS Públicos.
+9.- DELPA y Concesiones
+10.- DUABDP Municipio.
+
+b).- Ingresos no tributarios.
+1.- Productos.
+2.- Aprovechamientos.
+3.- Participaciones y Ap.
+4.- Ingresos Extraordinarios.
+
+c).- Estímulos fiscales e incentivos.
+
+d).- Descentralizados.
+
+II.- La facultad y obligación de supervisar, vigilar, auditar, fiscalizar y sancionar, en su caso, los egresos municipales, lo constituyen los rubros del Clasificador por objeto del gasto, también denominados Capítulos:
+a).- 1000 Servicios Personales.
+b).- 2000 Materiales y Suministros.
+c).- 3000 Servicios Generales.
+d).- 4000 Transferencias, Asignaciones, Subsidios y Otras Ayudas.
+e).- 5000 Bienes Muebles, Inmuebles e Intangibles.
+f).- 6000 Inversión Pública
+g).- 7000 Inversiones Financieras y otras Provisiones.
+h).- 8000 Participaciones y Aportaciones.
+i).-  9000 Deuda Pública.
+
+III.- El Componente de Servidores Públicos Municipales lo integra la Nómina Municipal, con independencia de la categoría administrativa de sus miembros, sea personal de confianza o sindicalizado, de base o por honorarios, con funciones directivas, operativas o de cualquier índole y es responsabilidad de la Contraloría Municipal que todos ellos observen lo relativo a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, dentro del ámbito del Sistema de Control y Evaluación Municipal.
+IV.- El Componente de Trámites y Servicios lo constituye el Registro Único de Trámites y Servicios en términos de la Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza y contará con su propio Reglamento Municipal que, en todo caso, deberá de instrumentar el Órgano Interno de Control, como uno de los principales cuadrantes del Sistema de Control y Evaluación Municipal.
+Artículo 53.- El Marco Normativo Municipal es el basamento del Sistema de Control y Evaluación Municipal y está integrado por los artículos constitucionales que se refieren al Municipio, todas las Leyes, Códigos, Reglamentos, Decretos, Circulares y demás que establecen facultades y obligaciones para el quehacer municipal. 
+Para una labor más eficiente y eficaz del Sistema de Control y Evaluación Municipal, el Órgano Interno de Control promoverá ante el Cabildo los Reglamentos necesarios que se derivan de las diversas disposiciones que se originan desde la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado de Coahuila de Zaragoza y de los demás ordenamientos que regulan las compras, las inversiones, las contrataciones, los servicios públicos, el desempeño de la función pública y demás.   
+Adicionalmente, el Organo Interno de Control es el responsable de la instrumentación del Sistema Municipal de Administración de Riesgos, para la mejora del control interno, diseñado para la administración municipal y con el objeto de proporcionar un grado de seguridad razonable en cuanto a la consecución de los objetivos en materia de eficacia y eficiencia en las operaciones; confiabilidad en la información financiera municipal y cumplimiento de las leyes, reglamentos y normas vigentes y aplicables.
+CAPITULO II
+DEL CÓDIGO DE ETICA DEL SERVIDOR PÚBLICO MUNICIPAL.
+Artículo 54.- Es facultad y obligación del Órgano Interno de Control, promover el desempeño ético del servidor público municipal, el respeto y cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes, los reglamentos y la normatividad aplicables, particularmente la correspondiente a las funciones que desempeña.
+En aquellos casos no contemplados por la Ley o donde exista espacio para la interpretación, la Contraloría Municipal favorecerá la obligatoriedad de la conducción con criterios de ética, transparencia, rendición de cuentas e integridad, atendiendo  a los valores inscritos en el Código de Ética de los servidores públicos de la Administración Pública Municipal.
+Artículo 55.- Es facultad y obligación de la Contraloría Municipal vigilar y sancionar, en su caso, el uso del empleo, cargo o comisión para obtener beneficios personales o de tipo económico, privilegios, favores de cualquier índole, con el propósito de beneficiar o perjudicar a terceros, ya que estaría afectando la confianza de la sociedad en el Municipio como institución  y en sus servidores públicos.
+Vigilar, además, que los bienes, instalaciones, recursos humanos y financieros del Municipio sean utilizados únicamente para cumplir con su misión, adoptando criterios de racionalidad y ahorro a favor del Municipio.
+Ofrecer a la sociedad los mecanismos adecuados para el acceso libre y transparente a la información que genera el Municipio, siempre que ésta no se encuentre clasiﬁcada como reservada o conﬁdencial por razones legales en cumplimiento de la Ley de Acceso a la Información Pública y Protección de Datos Personales. 
+Investigar, evitar y sancionar, en su caso, las situaciones en las que los intereses personales puedan entrar en conflicto con los intereses del Municipio o de terceros. Cualquier situación en la que exista la posibilidad de que el Servidor Público Municipal obtenga un beneficio económico o de cualquier tipo que sea ajeno a los que le corresponden por su empleo, cargo o comisión, representa potencialmente un conflicto de intereses y materia de vigilancia, dictamen y sanción por parte del Órgano Interno de Control.
+Artículo 56.- La Contraloría Municipal promoverá, vigilará y sancionará, en su caso que todo servidor público municipal se conduzca con dignidad y respeto hacia los ciudadanos y  hacia todos sus  compañeros de trabajo, promoviendo el trato amable y cordial con independencia de género, discapacidad, edad, religión, ideología, lugar de nacimiento o nivel jerárquico. Los cargos públicos en el Municipio de Torreón, siempre serán considerados no como un privilegio, sino como una responsabilidad, por lo que el trato entre servidores públicos y entre estos y la ciudadanía debe basarse en la colaboración profesional y el respeto mutuo y no en diferenciaciones jerárquicas. 
+Impulsará entre los servidores públicos municipales y de éste hacia las instancias del gobierno federal y estatal, el apoyo, la atención, la información, la colaboración y el servicio que requieran, con amabilidad y generosidad, privilegiando en el trabajo la prevención antes que a la observación y la sanción. 
+De igual forma, se desarrollarán acciones de protección al medio ambiente, así como cuidar y evitar poner en riesgo la salud, la seguridad y la de los compañeros de trabajo. 
+Fortalecerá el compromiso ético de buscar de manera permanente la actualización y formación profesional de los servidores públicos municipales, para el mejoramiento de nuestro desempeño.
+CAPITULO III 
+DE LAS DECLARACIONES PATRIMONIALES.
+Artículo 57.- La Contraloría Municipal es la instancia responsable ante la SEFIR de la promoción, inducción, vigilancia, cumplimiento y sanción, en su caso, de la obligación de todo servidor público municipal de presentar su Declaración Patrimonial, desde el  nivel de Jefe de departamento o equivalente y niveles superiores, sea por inicio,  conclusión o anual.
+Artículo 58.- La Contraloría Municipal, en materia de Declaraciones Patrimoniales, tiene las siguientes responsabilidades:
+
+a).- Elaborar, actualizar y validar el Padrón de Servidores Públicos obligados a presentar su declaración patrimonial.
+b).- Promover el cumplimiento de esta responsabilidad administrativa.
+c).- Facilitar a los sujetos obligados a esta responsabilidad administrativa, la información necesaria para el cumplimiento de su obligación.
+d).- Asesorar en el llenado de la Declaración Patrimonial, sea virtual o física.
+e).- Llevar a cabo el control de declaraciones de los sujetos obligados entrantes y salientes, en los tiempos que les corresponde.
+f).- Recabar copia de las constancias de declaración patrimonial, como evidencia de cumplimiento.
+g).- Iniciar y desahogar en todas y cada una de sus partes los procedimientos administrativos disciplinarios por la omisión o presentación extemporánea de la Declaración Patrimonial.
+h).- Elaborar el proyecto de resolución del procedimiento administrativo disciplinario por la omisión o extemporaneidad en la presentación de la Declaración Patrimonial.
+i).- Las demás que abonen a favor del desempeño, eficaz, eficiente y ético del Servidor Público Municipal, por cuanto a su declaración patrimonial corresponde.
+
+Artículo 59.- La Contraloría vigilará, promoverá y sancionará en su caso que el personal sindicalizado que ostenta a la vez cargo de confianza con nivel de Jefe de departamento o equivalente y/o nivel superior, presente su declaración patrimonial. El incumplimiento de esta obligación por parte de personal sindicalizado con puesto de confianza, es causa suficiente para que el Órgano Interno de Control promueva retirarle las funciones de confianza y la remuneración correspondiente, respetándole debidamente sus derechos sindicales.
+Artículo 60.- La Declaración Patrimonial puede hacerse por vía presencial o remota, ante la Secretaría de Fiscalización y Rendición de Cuentas, pero en cualquier caso, la Contraloría Municipal tiene la Facultad y Obligación  de recabar del Servidor Público Municipal el comprobante de su Declaración.
+En los casos en los cuales los servidores públicos municipales no proporcionen de manera voluntaria el comprobante de su declaración patrimonial a la Contraloría Municipal, serán citados mediante oficio, a fin de que expongan formalmente las razones de su actuación.
+Si no obstante lo anterior, un Servidor Público Municipal se mantiene en la negativa de proporcionar la evidencia de su Declaración, el Órgano Interno de Control en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas corroborará la situación del Servidor en cuestión y aplicará las sanciones que de ello se deriven.   
+Artículo 61.- La Contraloría Municipal está obligada a recibir las declaraciones patrimoniales de los servidores que así lo deseen para entregarlas en la Secretaría de Fiscalización y Rendición de Cuentas.
+Las Declaraciones Patrimoniales se recibirán “en tiempo”, hasta 72 horas antes de la fecha de vencimiento. Después de ese plazo, se recibirán con carácter de extemporáneas. 
+La Omisión o Extemporaneidad en la presentación de la Declaración Patrimonial, será considerada como falta administrativa y sancionada conforme a este Reglamento.
+
+La reincidencia en la omisión o extemporaneidad en la presentación de la Declaración Patrimonial, será considerada como falta grave, para todos los efectos administrativos y legales a que haya lugar.
+
+La Declaración Patrimonial está sujeta a la normativa en materia de Protección de Datos Personales y de ninguna manera su contenido será público, salvo en los casos de que así lo solicite por escrito el interesado.
+
+CAPITULO IV
+DE SU PARTICIPACIÓN EN LA CUENTA PÚBLICA.
+Artículo 62.- Es facultad y obligación de la Contraloría Municipal coordinarse con la Auditoría Superior del Estado, con la Auditoría Superior de la Federación, con la Secretaría de Fiscalización y Rendición de Cuentas, entre otras instancias de naturaleza fiscal y de supervisión, para el cumplimiento de todos los compromisos que en materia de fiscalización, vigilancia, evaluación y control de los recursos públicos le corresponde al  municipio cumplir. 
+La Contraloría Municipal, es la instancia de coordinación entre el Municipio y la Auditoría Superior del Estado, para todo lo relacionado con la Cuenta Pública del Municipio y debe de participar en todo el proceso de su integración, solventación y, en su caso, de la atención y ejecución de los Pliegos de Observaciones y fincamiento de responsabilidades que de ello se deriven.
+Para el debido cumplimiento de lo anterior, requerirá de la participación oportuna y suficiente de los responsables de todas las áreas municipales involucradas, de su información, sus evidencias documentales y el tiempo necesario  para la formulación de las respuestas.
+La falta de respuestas por parte de los titulares de las áreas municipales involucradas, será motivo de sanción en los términos de este Reglamento y de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales de Coahuila de Zaragoza, con independencia de las sanciones que se deriven de la revisión que lleve a cabo la Auditoría Superior del Estado.
+Artículo 63.- La Contraloría Municipal es la única instancia facultada para aplicar las sanciones administrativas que se deriven de la falta de solventación de observaciones en la cuenta pública de la Administración Municipal.
+Para lo anterior, llevará un Registro de Sanciones y Sancionados, debiendo de derivar las causas que ocasionan la falta de cumplimiento de la normativa establecida, a fin de diferenciar si son causas imputables al desempeño del Servidor Público, por desconocimiento o falta de compromiso ético en el desempeño de su función, o son derivadas de circunstancias ajenas a su responsabilidad.
+En cualquier caso, la Contraloría tiene la facultad y obligación de impulsar las acciones necesarias para la mejora en el desempeño de la función pública, sea mediante la capacitación y/o mediante la modernización de sistemas, equipos, procesos y políticas cada vez de mayor y mejor funcionalidad, siempre a favor de la ciudadanía.
+CAPITULO V
+DE LA CONTRALORIA SOCIAL.
+Artículo 64.- El Órgano Interno de Control Municipal impulsará, coordinará y fortalecerá el Sistema Municipal de Contraloría Social, entendiéndose como tal, el Conjunto de Acciones de control, vigilancia y evaluación que realizan los ciudadanos, de manera organizada e independiente, en una visión de derechos y compromisos con la comunidad, con el fin de contribuir a que la gestión gubernamental municipal y el manejo de los recursos públicos se realice con transparencia, eficacia, legalidad y honradez, así como para exigir la rendición de cuentas de los servidores municipales.
+Artículo 65.- La Contraloría Municipal, promoverá, asesorará y se coordinará con los ciudadanos y/o a grupos de ciudadanos, interesados en participar como Contralores Sociales del Municipio.
+Elaborará, difundirá y actualizará los criterios y procedimientos para la participación de los ciudadanos en labores de Contraloría Social.
+Los Contralores Sociales no tienen de ningún modo relación laboral de ninguna especie con el Municipio. Su participación es voluntaria y honorífica. En todo caso, de participar en los Programas Municipales de Contraloría Social, contarán con el reconocimiento suficiente y adecuado que los acredite como tales.
+CAPITULO VI
+DEL PADRÓN DE PROVEEDORES.
+Artículo 66.- Es responsabilidad de la Contraloría Municipal contar con un Padrón de Proveedores y Contratistas actualizado que esté debidamente conformado acorde a la normatividad aplicable.
+La Contraloría Municipal hará del conocimiento de las dependencias, entidades y del público en general, las personas físicas y morales registradas en el Padrón a través de los medios de difusión electrónica que se establezcan con tal fin.
+Toda persona física o moral que desee ingresar como Proveedor o Contratista del municipio deberá cumplir con una serie de requisitos definidos en base a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Coahuila de Zaragoza, así como los que la Contraloría Municipal considere necesario.
+Artículo 67.- El Contralor Municipal emitirá un Certificado de Aptitud como Proveedor de Servicios y/o Contratista de Obra a la persona Física o Moral que así lo solicite, siempre y cuando cumpla con los  requisitos previamente establecidos.
+El Certificado de Aptitud, tendrá una vigencia anual y servirá para acreditar su solvencia como productor, comerciante, prestador de servicios o contratista de obra legalmente establecido. 
+Dicho documento deberá contener los siguientes datos:
+a) Nombre o razón social
+b) Domicilio fiscal
+c) RFC
+d) Actividad o giro
+e) Capital contable
+f) No. de registro
+g) Calve SIIM
+h) Vigencia 
+i) Firma del Contralor Municipal
+j) Sello de la Contraloría Municipal
+Cuando el Proveedor o Contratista dejase de revalidar su Certificado de Aptitud por un periodo de treinta y seis meses consecutivos contados a partir de la fecha de su vencimiento, deberá iniciar los trámites para su inscripción.
+Artículo 68.- El Órgano Interno de Control podrá negar el Certificado de Aptitud en los casos siguientes:
+I.- La fecha de registro ante la Secretaría de Hacienda y Crédito Público sea menor a 90 días en el caso de Proveedores de Bienes y Servicios y 540 días en el caso de Contratistas de Obra.
+II.- No cumpla con los requisitos, llenado de formatos y la entrega de documentos requeridos.
+III.- Presente la declaración anual ante la  Secretaría de Hacienda y Crédito Público o estados financieros con capital contable negativo, apalancamiento y/o liquidez financiera menor a 1.0 o en su caso que los egresos sean mayores a los ingresos.
+IV.- Cuando exista información de las dependencias debidamente fundamentadas donde se especifiquen irregularidades cometidas por el Proveedor.
+V.- Cuando la visita de inspección al proveedor, por parte de la Contraloría Municipal, no se pueda llevar a cabo por causas imputables al proveedor, sea porque el domicilio no es identificable, la dirección proporcionada corresponda a un terreno baldío o local cerrado, o causa similar o conexa.
+VI.- Cuando se detecte que el solicitante proporcionó información falsa.
+Artículo 69.- La Contraloría Municipal podrá verificar en forma espontánea el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás que considere importantes para dicha evaluación. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud.
+La negativa de acceso por parte del Proveedor, al visitador oficial de la Contraloría Municipal, para el efecto de corroborar la información proporcionada en la solicitud de Registro en el Padrón de Proveedores, será causa de una respuesta negativa a dicha solicitud.
+La incongruencia entre la información proporcionada contra la información corroborada físicamente, también es causa de negativa o revocación del Registro en el Padrón de proveedores del Municipio. 
+Artículo 70.- El Órgano Interno de Control cuenta con la facultad de revocar un Registro de Proveedor, en los casos siguientes:
+I.-Cuando detecte que se proporcionó información falsa;
+II.- Cuando participe en un proceso de licitación, sin respetar lineamientos y formas institucionales.
+III.- Por incumplimiento en contratos para con el Municipio;
+IV.- Cuando a juicio de este Órgano Interno de Control, haga mal uso del Certificado expedido.
+CAPITULO VII 
+DEL REGISTRO MUNICIPAL DE TRÁMITES Y SERVICIOS.
+Artículo 71.-El Registro Municipal de Trámites y Servicios es el más amplio y exhaustivo catálogo de trámites y servicios que presta el Municipio a la ciudadanía y está bajo la responsabilidad de la Contraloría Municipal en los términos de la Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza.
+Todos y cada uno de los rubros de cobro que están en la Ley de Ingresos del Municipio, son motivo de una Cédula de Información en el Catálogo Municipal de Trámites y Servicios.
+La responsabilidad de la elaboración, actualización y vigencia de la Cédula, es responsabilidad del Jefe de la Unidad que presta dicho servicio o trámite y corresponde a la Contraloría Municipal vigilar su cumplimiento.
+Artículo 72.- El Órgano Interno de Control, vigilará, inducirá y promoverá que todos los Programas que el Municipio implemente y del cual se deriven acciones a favor de la ciudadanía, generen la Cédula de Trámites y Servicios correspondiente a la prestación a la que se refiera, aun cuando no se traduzca en ingreso para el Municipio, especificando claramente al menos los datos que exige el artículo 36 de la Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza.
+La Contraloría Municipal, cuidará que el Servidor Público responsable de la prestación del servicio o trámite municipal, proporcione la Cédula de Información para la integración del Catálogo, debidamente descrita y firmada, misma que no podrá ser diferente a la información que proporcione a la ciudadanía ni respecto a la que se encuentre publicada en el Periódico Oficial del Gobierno del Estado, como parte del Catálogo Municipal de Trámites y Servicios.
+La disparidad entre una u otra, en su caso, deberá de ser a favor del ciudadano, en caso contrario será motivo de sanción en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del estado de Coahuila de Zaragoza y de este Reglamento.
+Artículo 73.- El Órgano Interno de Control, vigilará y se asegurará de que todas las Cédulas de Trámites y Servicios deberán de incluir el tiempo de respuesta, en forma clara y precisa. En los casos en que el Municipio no respete el tiempo de respuesta, una vez publicado en el Periódico Oficial del Gobierno del Estado, aplicará el principio de “positiva ficta”, a favor del ciudadano y bajo responsabilidad del Servidor Público que no haya cumplido con la respuesta en el tiempo previamente estipulado.
+La persistencia de “positiva ficta”, mayor a tres eventos en un año calendario, en una unidad administrativa o en un Servidor Público, es motivo de revisión por parte de la Contraloría Municipal y de la implementación de medidas correctivas y sanciones. 
+Artículo 74.- La falta de información y/o de actualización de la Cédula de Trámites y Servicios en el Catalogo Municipal, se considerará como una práctica de opacidad en el Servicio Público y se sancionará debidamente en función de la gravedad del acto y en los términos de la Ley de Responsabilidades de los Servidores Públicos y según se establece en este mismo Reglamento.
+Artículo 75.- El Catalogo Municipal de Trámites y Servicios es público y debe de ser actualizado sistemáticamente durante el mes de enero de cada año y en todas las veces en que se encuentren oportunidades de mejora, en sus revisiones o quejas de la ciudadanía. 
+La Contraloría Municipal impulsará la aprobación y en su caso la observancia del Reglamento Municipal de Mejora regulatoria, dentro del cual es parte fundamental lo correspondiente a Trámites y Servicios, en la perspectiva de la Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza y vigilará su estricta aplicación y sanciones correspondientes. 
+CAPITULO VIII 
+DEL CONTROL DEL PADRON VEHICULAR.
+Artículo 76.-  La Contraloría Municipal vigilará el uso adecuado del parque vehicular del Municipio, a efecto de proteger el patrimonio, brindar una imagen institucional ante la ciudadanía,  eficientar el uso de los bienes muebles y evitar delitos por el uso indebido de vehículos oficiales.
+Impulsará la práctica del Inventario detallado y público de todos y cada uno de los vehículos municipales, con su bitácora de servicio, expediente con su documentación completa, fotografías y el resguardo correspondiente.
+Artículo 77.- El resguardante del Vehículo tiene la obligación de reportar semanalmente la bitácora del mueble bajo su responsabilidad ante la Contraloría Municipal. La omisión del reporte se sancionará como falta administrativa, con todos los efectos legales y administrativos a que haya lugar.
+Para lo anterior, la Contraloría Municipal implementará un Sistema Electrónico de Control Vehicular a efecto de facilitar el control de los bienes muebles y el reporte semanal de los usuarios de los mismos.
+Cada usuario de vehículo oficial contará con una Cuenta de Usuario con su Clave de Acceso y es de su más estricta responsabilidad el contenido y la actualización de la información en ella contenida. 
+Artículo 78.- La Contraloría Municipal, impulsará la aprobación del Reglamento Municipal para el Uso de Vehículos Oficiales, a partir del cual basará la vigilancia, evaluación y control en el uso de los mismos.
+Los procesos de adquisición, renta, asignación, resguardo, reparación, documentación, aseguranza, plaqueo, baja, desincorporación y todo lo relacionado con los Vehículos propiedad del Municipio de Torreón, se atenderán a partir del Reglamento mencionado.
+CAPITULO IX 
+DEL CONTROL DEL INVENTARIO DE BIENES MUEBLES Y EQUIPO DE OFICINA.
+Artículo 79.- Es facultad y obligación de la Contraloría Municipal supervisar el inventario general de bienes muebles e inmuebles propiedad del Municipio y vigilar su uso adecuado, a efecto de proteger su patrimonio, brindar una imagen institucional ante la ciudadanía y eficientar el uso del mismo. Adicionalmente, coadyuvar con los Síndicos Municipales al cumplimiento del Artículo 106 fracción V relativa al inventario de bienes muebles e inmuebles del Municipio.
+Artículo 80.- Impulsará las acciones necesarias y sancionará su debido cumplimiento para efectos de llevar un Inventario detallado en una base de datos pública, de todos y cada uno de los bienes muebles e inmuebles, con expresión y destino de los mismos con total transparencia y facilidad en el acceso a la información.
+El ocultamiento, la omisión o la tergiversación de la información en esta materia, se sancionará como práctica de opacidad y falta administrativa, con todos los efectos legales y administrativos a que haya lugar.
+Artículo 81.- En complemento a lo anterior, la Contraloría Municipal impulsará la aprobación por parte del Cabildo del Reglamento Municipal para el Uso, protección, resguardo, alta, modificación y baja de los resguardos de Mobiliario y Equipo, a partir del cual basará la vigilancia, evaluación y control en el uso de los mismos.
+CAPITULO X
+DEL CONTROL DEL PATRIMONIO INMOBILARIO MUNICIPAL.
+Artículo 82.- La Contraloría Municipal promoverá, supervisará, auditara y vigilará la integración, observancia, actualización y mejora del Reglamento del Patrimonio Inmobiliario del Municipio de Torreón, Coahuila, pudiendo llevar a cabo en cualesquier tiempo, las auditorías necesarias que garanticen el uso legal, eficaz, eficiente, transparente y prudente patrimonio municipal.
+Auditará sistemáticamente el conjunto de bienes inmuebles que constituyen el Patrimonio Inmobiliario Municipal, tanto del dominio público, como del dominio privado; a la dependencia responsable de su administración y custodia; los actos de enajenación, concesión, desincorporación, arrendamiento, comodato, usufructo, permuta, donación, adquisiciones y registro público de bienes inmuebles; fideicomisos, procesos jurídicos y demás relativos al mismo tema.
+Artículo 83.- La Contraloría Municipal tiene las facultades y atribuciones suficientes y necesarias para dictaminar las violaciones a la reglamentación correspondiente al Patrimonio Inmobiliario y se reserva el derecho a revertir procesos que afecten o hayan afectado indebidamente al Patrimonio Inmobiliario Municipal, además de instrumentar las sanciones administrativas resarcitorias o penales a que haya lugar.  
+Especial atención, tendrá la Contraloría Municipal en todos aquellos casos en los cuales se dieron en comodato, usufructo o donación con fines altruistas, sociales o religiosos, bienes inmobiliarios municipales y a la postre, se desvió el propósito original.
+CAPITULO XI 
+DE LA DESINCORPORACIÓN DE ACTIVOS MUNICIPALES.
+Artículo 84.- Es facultad y obligación de la Contraloría Municipal efectuar los procesos de desincorporación del patrimonio municipal de bienes muebles, en los casos de deterioro, obsolescencia, desecho o cualquier otra causa que a juicio del Órgano Interno de Control amerite la baja del inventario municipal.
+Para efecto de lo anterior, deberá de coordinarse en forma eficaz, eficiente y transparente, el proceso que iniciará con la solicitud de desincorporación por parte del área originalmente resguardante o por problemática detectada por la misma Contraloría Municipal; pasará por revisión de la Dirección de Control Patrimonial, se estimará su valor con dictamen de valuador legalmente acreditado, se gestionará ante la correspondiente Comisión de Cabildo, misma que la someterá a Acuerdo del Cabildo en pleno para su respectiva aprobación.
+Artículo 85.- De todo proceso de desincorporación, se generarán las liberaciones de resguardo correspondientes, a efecto de no acreditar responsabilidad posterior a sus usuarios originales, hecho que la Contraloría Municipal deberá de vigilar detalladamente.
+Los procesos de desincorporación, pueden derivar en destrucción de los bienes muebles, venta, donación o depósito en los basureros legalmente establecidos, según lo establezca el Acuerdo respectivo que apruebe el Cabildo.  
+Los actos que se lleven a cabo en materia de desincorporación, distintos a los Acuerdos del Cabildo, serán sancionados por el Órgano Interno de Control, según corresponda a falta administrativa o responsabilidad penal. En este último caso, integrará lo necesario y coadyuvará para la presentación de la denuncia penal a través de la instancia correspondiente. 
+CAPITULO XII 
+DEL USUARIO SIMULADO.
+Artículo 86.- La Contraloría Municipal podrá instaurar procedimientos de investigación para detectar prácticas de corrupción y servidores públicos proclives a las mismas, sea por queja o presunción derivada de cualquier signo razonable, a fin de detener en flagrancia y sancionar, penal y administrativamente, a quienes utilizan su cargo para obtener algún beneficio económico o personal, tergiversando sus atribuciones, además de lesionar con su actuación la imagen municipal y el interés ciudadano.
+Para efectos de lo anterior, la Contraloría habilitará a los servidores públicos como usuarios simulados, previa capacitación adecuada y suficiente. 
+De esta habilitación la Contraloría dará aviso al Presidente Municipal y se apoyará en la Dirección de Seguridad Pública a efecto de proteger la integridad personal y la actuación del usuario simulado. 
+Artículo 87.- El servidor público que actúe como usuario simulado tendrá las facultades siguientes: 
+I.- Intervenir en la investigación de actos de corrupción de servidores públicos en los términos que establezca la Contraloría Municipal; 
+II.- Verificar que las personas que se investigan sean servidores públicos municipales; 
+III.- Implementar las estrategias para verificar las denuncia de actos de corrupción. 
+IV.- Coordinarse con las autoridad municipal para propiciar la flagrancia y lograr la detención de los servidores públicos que incurran en actos de corrupción; 
+V.- Recabar y conservar las pruebas que se recaben en la investigación de actos de corrupción y coadyuvar con el área jurídica de la Contraloría, para ponerlas a disposición de las autoridades competentes; 
+VI.- Levantar las actas administrativas necesarias relacionadas con su actuación como usuario simulado; 
+VII.- Coadyuvar con el área jurídica de la Contraloría  para interponer las denuncias por actos de corrupción, cuando sea procedente, ante las autoridades competentes; y 
+VIII.- Las demás que le otorgue la Contraloría y otras disposiciones legales. 
+Artículo 88.- La Contraloría Municipal podrá, además, habilitar a cualquier ciudadano dispuesto a denunciar un acto irregular por parte de un Servidor Público Municipal, así como a coadyuvar con la autoridad a recabar los elementos probatorios del mismo. 
+El ciudadano que actúe como usuario simulado, deberá de ser acreditado previamente por el órgano interno de control y tendrá las facultades siguientes:
+I.- No es de ninguna manera empleado municipal.
+II.- Su participación es voluntaria y se limita a generar evidencia del acto a denunciar.
+III.- Podrá, además, obtener evidencia de su participación en el acto, en calidad de Auditor Social.
+IV.- Podrá darle seguimiento al caso del cual formó parte, con solo solicitar información al respecto, ante el Órgano Interno de Control.
+V.- Contará con atención inmediata y sin costo por cuenta del Municipio, en los casos en que sufra de amenazas, injurias, maltrato, o cualquier otro acto en contra de su integridad, por motivo de su actuación como Usuario Simulado.
+El Usuario Simulado, acreditado como tal para una investigación de actos de corrupción, podrá recabar todo tipo de pruebas siempre que no sean contrarias a la ley y podrá intervenir en la investigación de actos de corrupción cuando exista denuncia, o sin ella, cuando la Contraloría Municipal cuente con elementos suficientes que hagan presumir actos de corrupción cometidos por un servidor público. 
+CAPITULO XIII 
+RESPONSABILIDADES ANTE LOS ORGANISMOS DESCENTRALIZADOS Y PARAMUNICIPALES.
+Artículo 89.- Los organismos descentralizados y paramunicipales forman parte de la Administración Pública Municipal, por lo tanto están sujetos a la fiscalización, vigilancia y control que ejerce la Contraloría Municipal, en todo sentido, por lo que el Contralor Municipal, tiene la facultad y obligación de designar a los Comisarios de los organismos descentralizados y entidades paramunicipales, según lo establece el Código Municipal para el Estado de Coahuila de Zaragoza, en su artículo 133, fracción V. 
+De igual forma, es parte de sus facultades y obligaciones vigilar, controlar y asesorar en las actividades contraloras, de transparencia, acceso a la información y rendición de cuentas públicas y avances financieros, que lleven a cabo en su interior. 
+Artículo 90.- La Contraloría Municipal coadyuvará, vigilará, controlará, fiscalizará y sancionará el cumplimiento de la normativa municipal por parte de los Organismos Descentralizados y Paramunicipales, fideicomisos y organizaciones que ejerzan recursos públicos municipales.
+Para lo anterior, designará Auditores de Enlace y/o representantes del Contralor Municipal, cuando éste así lo considere conveniente, a efecto de evaluar, auditar, medir y controlar los planes y programas que estos deben de llevar a cabo, incluyendo las responsabilidades en materia de transparencia, procesos de Entrega Recepción, Cuenta Pública, Avances de Gestión Financiera, Catálogo de Trámites y Servicios, Declaraciones Patrimoniales, Licitaciones, Archivos Públicos y todos los demás rubros propios de la Administración Pública Municipal.   
+TITULO CUARTO
+SANCIONES ADMINISTRATIVAS.
+CAPITULO I
+DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA.
+Artículo 91.- Es facultad y obligación del Contralor Municipal conocer e investigar los actos, omisiones y conductas de los servidores públicos para fincar responsabilidades administrativas, aplicando las sanciones correspondientes en los términos que las leyes señalen y, en su caso, turnar al Síndico los asuntos cuyos hechos se consideren constitutivos de delito a fin de que éste presente la denuncia y/o querella correspondiente ante el Ministerio Público, prestándole para tal efecto la colaboración que se le requiera.  
+Cuando la Contraloría Municipal tenga conocimiento, ya sea por medio de queja o denuncia, o bien actuando directamente, de la manifestación de una conducta negativa o contraria a la normatividad y ética del servidor público municipal, iniciará las investigaciones de los actos u omisiones de las mismas.
+Si se desprende la existencia de elementos suficientes que hagan presumir la configuración de responsabilidades administrativas, iniciará el procedimiento administrativo disciplinario, de conformidad con las formalidades legales.  
+Artículo 92.- Con la documentación que integre, formato de queja, denuncia, informe de auditoría, pliegos preventivos y definitivos, fiscalizaciones o inspecciones, dará inicio a la integración de un expediente y elaborará el Acuerdo de Radicación, en el que señalará las circunstancias de hecho y derecho que motivaron el conocimiento de la Contraloría para proceder a su debida actuación.
+El contenido del Acuerdo de radicación deberá de desglosarse debidamente en el correspondiente Manual Procedimiento de Responsabilidades del Municipio.
+Artículo 93.- Con el propósito de integrar totalmente el expediente, previa radicación del mismo, y de considerarlo procedente, la Contraloría podrá realizar la práctica de diligencias de información previa, pudiéndose efectuar éstas a los particulares, quejosos, empresas o a los mismos servidores públicos involucrados, antes de otorgarles su garantía de audiencia.
+La Contraloría podrá llevar de oficio o a petición de particulares, los actos de tramitación adecuados, para la determinación, conocimiento y comprobación de los datos sobre los que deba basarse la resolución del procedimiento.
+Artículo 94.- Al inicio del procedimiento, la Contraloría Municipal le asignará un número progresivo al expediente, que incluirá la referencia al año en que se inicia. El número se anotará en todas las promociones  y actuaciones que se realicen con el mismo.
+En cualquier caso, el procedimiento se regirá por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe, por lo que deberá de ajustarse a una tramitología sencilla, pronta y expedita. Se impulsará de oficio, sin perjuicio de la intervención de las partes interesadas. Se cuidará que se alcances sus finalidades y efectos legales, pudiendo ser actuaciones públicas, salvo que la moral o el interés general exijan que sea privada, en términos de la normatividad en materia de protección de datos personales.
+CAPITULO II
+DE LAS INFRACCIONES Y  SANCIONES ADMINISTRATIVAS.
+Artículo 95.- Es facultad y obligación de la Contraloría Municipal, infraccionar y  aplicar las sanciones correspondientes, en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Coahuila de Zaragoza y de éste mismo Reglamento y de responder ante el Presidente Municipal y el Ayuntamiento por la vigilancia y cumplimiento de todas las obligaciones de los Servidores Públicos Municipales.
+La Contraloría Municipal, considerará infracción a la normativa municipal, todas aquellas situaciones y conductas contrarias a lo establecido en las leyes y Reglamentos que regulan la vida municipal, tanto de la función pública, como el uso y destino de los recursos públicos, en su más amplia acepción.
+Artículo 96.- Las sanciones por faltas administrativas, se aplicarán por parte del Titular del Órgano Interno de Control, a partir de lo estipulado en el Capítulo Segundo, De las Sanciones Administrativas y Procedimiento para Aplicarlas, de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, en el orden siguiente:
+I.- Apercibimiento Privado.- Oficio fundamentado y motivado en el que se le apercibe por determinada falta administrativa, con copia al Presidente Municipal, a su Jefe inmediato y a su Expediente Personal, en el área de Servicio Profesional de Carrera.
+ II.- Apercibimiento Público.- Se omite, esta Sanción, en atención a la Ley Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza
+III.- Amonestación Privada.- Oficio fundamentado y motivado, en el que se le comunica que debido a falta administrativa, suficientemente explicitada, se le aplicará una sanción económica, hasta por 10 Veces el Salario Mínimo General (VSMG). Copia del oficio al Presidente Municipal, a su jefe inmediato y al área de Servicio Profesional de Carrera, para la integración a su Expediente Personal. 
+IV.- Amonestación Pública.- Se omite, esta Sanción, en atención a la Ley de Acceso a la Información Pública y Protección de Datos Personales.
+V.- Suspensión.- Oficio fundamentado y motivado, en el que se le comunica la suspensión en sus funciones como empleado municipal, con afectación directa a su sueldo, por los días que a juicio del Contralor Municipal amerite la falta cometida. Copia del oficio al Presidente Municipal, a su jefe inmediato y al área de Servicio Profesional de Carrera, para la integración a su Expediente Personal y la aplicación en nómina de dicha suspensión. 
+La suspensión se aplicará principalmente en los casos de reincidencia en faltas administrativas que ocasionaron Amonestación Privada.
+VI.- Sanción económica.- Oficio fundamentado y motivado, mediante el cual se le exige resarcir un daño patrimonial ocasionado al Municipio, derivado de una falta administrativa y que mediante un proceso de auditoría o dictamen se determine el monto correspondiente. Copia del oficio al Presidente Municipal, a su jefe inmediato,  al área de Servicio Profesional de Carrera, para la integración a su Expediente Personal y a la Tesorería Municipal, a fin de que genere, en su caso el Crédito Fiscal correspondiente.
+VII.- Inhabilitación temporal.- Inhabilitación para desempeñar empleo, cargo o comisión en el Municipio de Torreón, por faltas graves o reincidencia en faltas administrativas.
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la zona económica de La Laguna y de tres años a diez años si excede de dicho límite. 
+En cualquier caso, la Contraloría Municipal se reserva el derecho de promover denuncias penales a través de la representación legal del Municipio, cuando las faltas administrativas lleguen a configurar actos delictivos.
+Cualquier empleado municipal sujeto a promoción de denuncia penal, deberá de ser suspendido de sus funciones, en los términos legales a que haya lugar.
+Artículo 97.- La Contraloría Municipal, tiene la facultad de suspender en el Padrón de Proveedores y Contratistas a aquellos Proveedores de Servicios y/o Contratistas de Obra Pública, que derivados de previo Dictamen, resulte que incumplen requisitos, condiciones de servicios, calidad, cantidad, oportunidad o cualesquier otra circunstancia distinta y en detrimento a lo que el propio Municipio convino o contrató originalmente.
+Para la suspensión de un Proveedor o Contratista en el Padrón Municipal, solo es necesario un oficio membretado del propio Contralor, dirigido al Jefe del Departamento del Padrón de Proveedores y Contratistas, con copia a la Tesorería Municipal.  
+El Proveedor o Contratista en tal circunstancia, no podrá ser contratado por el Municipio, a través de ninguna Dependencia, ni centralizada ni descentralizada, hasta que la Contraloría Municipal emita resolución favorable.
+En caso de que existieran pagos pendientes al proveedor o contratista en cuestión, estos serán suspendidos por la Tesorería Municipal, al recibir copia del comunicado de la suspensión en el Registro en el Padrón de Proveedores y Contratistas del Municipio.
+Artículo 98.- El Órgano Interno de Control impondrá sanciones administrativas a los servidores públicos que convengan o contraten servicios u obra pública, con proveedores o contratistas en sanción y los compromisos establecidos en tal circunstancia serán nulos de pleno derecho, con responsabilidad imputable al Servidor Público en cuestión. 
+Todos los recursos generados por las sanciones administrativas, derivadas de la aplicación de éste Reglamento, se integrarán en una Cuenta Bancaria en la Tesorería Municipal y solo podrá ser afectada por la propia Contraloría Municipal, para actividades de capacitación que fortalezcan el desempeño profesional del Servidor Público.
+Para eficientar y equilibrar el ejercicio de infracciones por las diversas faltas administrativas que suelen presentarse en la Administración Pública Municipal, el Contralor podrá constituir mediante Acuerdo, en base a sus facultades generales, el Comité Técnico de Sanciones, integrado por los Directores de Área de la propia Contraloría y el Titular de la Coordinación Jurídica, con su propio Reglamento, a efecto de institucionalizar, motivar y fundamentar debidamente todos y cada uno de los casos de infracciones que se lleven a cabo.  
+TITULO QUINTO 
+DE SU RELACIÓN CON OTRAS INSTANCIAS.
+CAPITULO I
+DE SU RELACIÓN FORMAL, INSTITUCIONAL Y DOCUMENTADA.
+Artículo 99.- La Contraloría Municipal debe de guardar una relación de respeto, coordinación y colaboración con otras instancias semejantes o equivalentes en materia de supervisión, fiscalización, evaluación y control de la Administración Pública y no existe ninguna relación de subordinación, jerarquía, ni dependencia más que con el Presidente Municipal y el Republicano Ayuntamiento de Torreón.
+La relación con otras instancias, semejantes, equivalentes e incluso diferentes, debe de darse de manera motivada y fundamentada en términos de la normatividad existente, principalmente la que se deriva de Convenios Marco de Coordinación entre el Municipio y las demás esferas de Gobierno.
+En cualquier caso, el papel del Órgano Interno de Control es de protección y defensa de los intereses y derechos municipales, así como de respeto a su autonomía republicana en un contexto federalizado.
+Artículo 100.- Para garantizar una relación formal, institucional y documentada, la Contraloría Municipal se obliga a llevar de manera firme, clara, eficaz y eficiente una Oficialía de Partes, a través de la cual debe de recibir toda la documentación correspondiente al Órgano Interno de Control y asuntos municipales que competen a éste.
+La Oficialía de Partes llevará un orden consecutivo de toda correspondencia de entrada y salida, resguardará y operará los sellos oficiales de la Contraloría mismos que tendrán toda la validez administrativa y legal que le corresponde como Órgano Interno de Control y administrará los Archivos Públicos Vigentes en los términos que lo estipula la Ley de Archivos Públicos del Estado de Coahuila de Zaragoza.
+
+CAPITULO II 
+DE SU RELACIÓN CON LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS.
+Artículo 101.- La Contraloría Municipal está facultada para colaborar estrechamente con la  Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado de Coahuila de Zaragoza, en materia de supervisión, fiscalización y rendición de cuentas, en programas que se llevan a cabo en el Municipio y que cuentan con recursos estatales en cualquier proporción.
+De igual forma, está obligada a colaborar con la SEFIR en la fiscalización de recursos de Programas federales aplicados en el Municipio de Torreón.
+La Contraloría Municipal coadyuvará para que el Municipio se vea beneficiado de los programas y acciones que implementa el Gobierno del Estado, principalmente en materia de capacitación y modernización administrativa.
+Asimismo, se coordinará con la SEFIR e implementará en forma activa, responsable, eficiente y efectiva todo lo relacionado con las Declaraciones Patrimoniales y que por Ley los servidores públicos deben de presentar ante esta instancia de Gobierno Estatal según se refiera a causas por inicio de encargo público, finalización o periodicidad anual y asume la responsabilidad de la aplicación de esta normativa para toda la Administración Municipal, centralizada, descentralizada y paramunicipal.
+CAPITULO III 
+DE SU RELACIÓN CON LA AUDITORÍA SUPERIOR DEL ESTADO.
+Artículo 102.- Para todos los efectos de la aplicación de la Ley de Fiscalización Superior del Estado de Coahuila de Zaragoza, el Órgano Interno de Control es la única instancia que representa al Municipio ante la Auditoría Superior del Estado, órgano fiscalizador del Congreso del Estado.
+Incluye lo relativo a la Cuenta Pública y sus Avances Financieros, la solventación y la atención a los pliegos de observaciones y resarcitorias que en su momento se generen en contra del Republicano Ayuntamiento de Torreón.
+Las sanciones administrativas que la Auditoría Superior del Estado promueva en contra de servidores públicos municipales deben de sujetarse a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en ningún caso podrán transgredir los derechos constitucionales de los presuntos afectados.
+La Contraloría Municipal promoverá entre el personal municipal la estricta atención a las observaciones derivadas de las revisiones y auditorías que lleve a cabo la Auditoría Superior del Estado en el Municipio, siempre y cuando estas sean aplicables,  y mantendrá a ésta informada en los términos que la Ley lo permite.
+CAPITULO IV 
+DE SU RELACIÓN CON LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN.
+Artículo 103.- La Auditoría Superior de la Federación audita de manera constante los recursos que se aplican en el Municipio a través de diversos programas federales, por lo que el Órgano Interno de Control asume la facultad y responsabilidad plena de coordinarse en forma amplia y atingente con dicha instancia de supervisión a fin de que siempre exista transparencia, eficiencia, eficacia y legalidad, apegada a las Reglas de Operación y normatividad correspondiente.
+Adicionalmente coadyuvará con la ASF en los casos en los que se deriven sanciones administrativas, resarcitorias o penales para servidores o exservidores municipales, en un marco de legalidad y respeto a las normas vigentes.
+El Órgano Interno de Control retomará toda la correspondencia que la ASF remita al Presidente Municipal y/o al Republicano Ayuntamiento y lo representará  administrativamente para todos los efectos legales a que haya lugar, cuidando en todo momento los intereses municipales, como institución republicana.
+CAPITULO V
+DE SU RELACIÓN CON EL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE COAHUILA DE ZARAGOZA.
+Artículo 104.- La Contraloría Municipal es la única instancia municipal responsable de aplicar, promover, observar, vigilar, auditar y sancionar en su caso, la Ley de Acceso a la Información Pública y Protección de Datos Personales, para lo cual se mantendrá en comunicación permanente con el ICAI, para efecto del óptimo cumplimiento en la materia.
+La Contraloría Municipal cuidará que toda la correspondencia que el ICAI emita al presidente Municipal y/o al Republicano Ayuntamiento sea atendida de manera pronta y eficaz, en aras de los retos de transparencia, rendición de cuentas, acceso a la información y protección de los datos de la ciudadanía.
+CAPITULO VI
+DE SU RELACIÓN CON REGIDORES, SINDICOS Y LAS COMISIONES DEL H. CABILDO.
+Artículo 105.- La relación de la Contraloría Municipal con Regidores y Síndicos, así como las Comisiones del H Cabildo, se deberá de regir siempre con respeto, ética y profesionalismo.  
+La atención a los requerimientos de información esta normada desde el Artículo 105 fracción XII del Código Municipal del Estado de Coahuila de Zaragoza.
+La Contraloría Municipal debe de coadyuvar estrechamente con las obligaciones de Regidores y Síndicos en materia de vigilancia, inspección, inventarios, remates, licitaciones, iniciativas normativas y demás, que estipula la normatividad municipal.
+Artículo 106.- En los casos en los cuales la Contraloría Municipal identifique daño patrimonial en las actividades de los servidores públicos o de terceros en detrimento del patrimonio municipal, integrará la documentación y las evidencias suficientes y necesarias a efecto de llevar ante las autoridades competentes la denuncia correspondiente en los términos dispuestos por los ordenamientos aplicables.  
+
+
+TRANSITORIOS.
+
+
+Artículo Primero. El Presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal;
+
+Artículo Segundo. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al Presente Reglamento; y
+
+Artículo Tercero. Se instruye al Secretario del Republicano Ayuntamiento para que solicite la publicación del Reglamento en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+
+
+
+
